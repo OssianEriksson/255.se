@@ -40,6 +40,10 @@
           text: 'Röstsystem',
           href: '/röstsystem',
         },
+        {
+          text: 'Filmer',
+          href: '/filmer',
+        },
       ],
     },
     {
