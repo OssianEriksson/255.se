@@ -45,6 +45,30 @@ Emil och Emilia är namn för samtilga manliga respektive kvinnliga chalmerister
 >
 > -- [Tofsen](https://tofsen.se/vilka-var-emil-och-olga-och-varfor-hade-hamnen-19-ton-ol-till-chalmers/)
 
+## Expfys
+
+Expfysen (eller [IPT](https://iptnet.info/)) är en oändlig källa till underhållande ankeboter. Nedan följer några
+exempel på sådana, utan att nämna namnet på någon av de inblandade...
+
+Under en expfyslabb skulle kollisioner mellan metalldiskar studeras på luftbord. Dock var några av diskarna lite för
+tunga och skrapade svagt mot bordet. Hur kunde man minska diskarnas friktion mot bordet? Jo, med såpa förstås!
+Laboranterna insåg sitt misstag när luftbordet började blåsa bubblor ur vart och ett av de tusen hålen. Betänk även
+svårigheterna med att torka upp såpan ur alla dessa hål.
+
+Ett annat år, men under samma labb fick några laboranter idén att som extrauppgift inte studera energiöverföring mellan
+diskar, utan mellan raketbränsle och en raket. De fick [XP-verkstaden](https://x-p.nu/) att bygga dem en liten
+raketmotor. Att brandvarnaren i labbsalen tejpades för visade sig nyttigt när hela rummet rökfylldes under det första av
+tre experiment som vart och ett avslutades genom att steg för steg släppa ut röken i korridoren i hopp om att inte
+trigga de optiska brandvarnarna utanför salen.
+
+En annan episod utspelar sig utanför labbsalen, då några IPT-laboranter inser sitt behov av en platt yta att droppa
+vätska (av annat bestånd än vatten) på. Så sent på natten var det tomt i sektionslokalen Focus, och vad fanns inte där
+om platta glasskivor i form av ugnsglas? Man extraherade därför ett ugnsglas och tog det till ett trapphus i
+fysikforskarhuset där man från trettio meters höjd droppade vätska på glaset. Detta gick utmärkt tills dess att
+droppröret tappades och med nöd och näppe missade glaset. För denna epsiod nominerades upphovspersonen till en
+[dumväst](https://ftek.se/dumvast/), men styret förbjöd nomineringen från att nämnas vid sektionsmötet då det var "för
+dumt".
+
 ## Fysikhusets fanstång
 
 F-sektionen ville ha en flaggstång för att hänga sektionsflaggan i, men då man ringde in till kommunen för att be om
