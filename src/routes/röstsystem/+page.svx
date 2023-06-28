@@ -1,6 +1,6 @@
 ---
 title: Röstsytem
-keywords: filmkväll
+keywords: röst omröstning val valsystem filmkväll
 ---
 
 # {title}
@@ -169,4 +169,12 @@ proceduren tills dess att en kandidat vinner.
 
 ## Bogo
 
-[Bogovote](#bogovote) utan vote: Det vinnande alternativet slumpas fram.
+[Bogovote](#bogovote) utan vote: Det vinnande alternativet slumpas fram uniformt.
+
+## Viktad slump
+
+Man går igenom alla alternativ, och de röstberättigade får antingen välja att stödja alternativet eller inte. Därefter
+tilldelas varje alternativ en vikt ($w$) som beror av hur många röstberättigade ($x$) som stödje alternativet,
+förslagsvis $w = 1 + x^2$ för färre än tio röstberättigade. Det vinnande alternativet slumpas sedan fram utifrån
+vikterna, förslagsvis genom att man låter $w$ kopior av varje alternativ tävla i en
+[simulerad omgång av hungerspelen](https://adrian-thumbtack.github.io/HungerGames/index).

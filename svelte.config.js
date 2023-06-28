@@ -5,7 +5,9 @@ import preprocess from 'svelte-preprocess'
 import { mdsvex } from 'mdsvex'
 import resolveConfig from 'tailwindcss/resolveConfig.js'
 import twConfig from './tailwind.config.cjs'
+import remarkMath from 'remark-math'
 import rehypeSlug from 'rehype-slug'
+import rehypeKatexSvelte from 'rehype-katex-svelte'
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -20,7 +22,8 @@ const config = {
         quotes: false,
         dashes: 'oldschool',
       },
-      rehypePlugins: [rehypeSlug],
+      remarkPlugins: [remarkMath],
+      rehypePlugins: [rehypeSlug, rehypeKatexSvelte],
     }),
     preprocess({
       postcss: true,
