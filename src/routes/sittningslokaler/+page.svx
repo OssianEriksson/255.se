@@ -1,6 +1,6 @@
 ---
 title: Sittningslokaler
-keywords: sittning lokal
+keywords: sittning fest rum lokal
 ---
 
 # {title}

@@ -1,6 +1,6 @@
 ---
 title: Krönikor
-keywords: historia
+keywords: historia dagbok
 ---
 
 <script type="ts">
@@ -18,8 +18,8 @@ Efter den inledande programmeringskursen i Java utvecklar Potatis spelet Termina
 Till 25:e i 5:e-sittningen leder R2 den något tidspressade utvecklingen av ett text-baserat rollspel som spelas under
 kvällen. Man finner då stort nöje i att hitta cykliska vägar innuti spelet.
 
-R2 och Björn(?) bakede kaka på kaka som de bjuder på för att testa hypotesen att kaka på kaka är för mycket av det goda.
-En kontrollgrupp får sockerpiller. Försöket visade på att de som fick kaka på kaka blev något gladare men å andra sidan
+R2 och Björn bakede kaka på kaka som de bjuder på för att testa hypotesen att kaka på kaka är för mycket av det goda. En
+kontrollgrupp får sockerpiller. Försöket visade på att de som fick kaka på kaka blev något gladare men å andra sidan
 också något sämre på matte.
 
 Källa: Potatis, R2, Oscar
