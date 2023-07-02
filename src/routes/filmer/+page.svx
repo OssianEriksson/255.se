@@ -168,7 +168,6 @@ title: Filmer
 - Street Fighter (1994)
 - Sunday School Musical (2008)
 - Sunset Blvd (1950)
-- System Volume Information
 - Terminator 2 - Judgment Day (1991)
 - The Amazing Bulk (2012)
 - The Aristocrats (2005)
