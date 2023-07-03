@@ -5,7 +5,8 @@ keywords: sittning fest rum lokal
 
 # {title}
 
-Lista över några sittningslokaler på och i omgivningen av Chalmers.
+Lista över några sittningslokaler på och i omgivningen av Chalmers. Kom ihåg att
+[festanmäla](https://www.chalmers.se/utbildning/studera-hos-oss/studentliv/arrangemang-i-sektionslokaler/)!
 
 | Namn                                                                   | Kök | Plaser | Uppdaterad | Kommentar                                                                                                                                                                        |
 | ---------------------------------------------------------------------- | --- | ------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,6 +27,7 @@ Lista över några sittningslokaler på och i omgivningen av Chalmers.
 | Kalle Glader                                                           | Ja  |        | 2023       | Endast för hyresgäster hos Chalmers Studentbostäder. Hör med [kårservice](https://chalmersstudentkar.se/information-desk/).                                                      |
 | [Rotary Pub](http://rotarypub.se/sv-hyra)                              |     |        | 2022       | Pub vid Rotary studenthem. Uthyrningar sker vanligen på lördagar eller andra tider då ordinarie pubverksamhet ligger nere (nyår, sommarlov etc.).                                |
 | [Bulten](https://cafebulten.se/bokning-2/)                             | Ja  |        | 2023       | Café på hörsalsvägen. Ingen tillagning av kött är tillåten i köket – kall förvaring går dock bra.                                                                                |
+| [Isobaren](https://www.festforeningenhaddock.com/kalender)             | Ja  |        | 2023       | Tillhör [Haddock](https://www.festforeningenhaddock.com/) som är del av [Gõta studentkår](https://www.gotastudentkar.se/sv/foreningar/festforeningen-haddock).                   |
 
 ## Lokaler för större sittningar
 
