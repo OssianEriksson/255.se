@@ -5,7 +5,7 @@ keywords: anekdoter historia
 
 # {title}
 
-Några ankeboter (anekdoter) med varierande sanningsgrad samt förklaringar av vanligt förekommande ord och förkortningar.
+Några ankeboter (anekdoter) av varierande sanningsgrad samt förklaringar av vanligt förekommande ord och förkortningar.
 
 ## Bokningssystemet
 
