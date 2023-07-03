@@ -147,7 +147,7 @@ utan att behöva vara ärlig, ut vilken lapp som motsvarar vilket alternativ. Ö
 
 ## Single Elimination med auktion
 
-Varje röstberättigad startar mer ett förutbestämt antal röster, förslagsvis tio, som kan spenderas allt efter
+Varje röstberättigad startar med ett förutbestämt antal röster, förslagsvis tio, som kan spenderas allt efter
 röstningens gång. Därefter hålls en
 [Single Elimination](https://en.wikipedia.org/wiki/Single-elimination_tournament)-turnering där varje match avgörs genom
 auktion. De röstberättigade kan budge med det antal röster de har kvar sedan föregående omrösningar. Om en match blir
