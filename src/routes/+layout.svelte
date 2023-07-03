@@ -108,14 +108,14 @@
     :global(h2) {
       @apply text-2xl;
       @apply font-bold;
-      @apply mt-4;
+      @apply mt-6;
       @apply mb-4;
     }
 
     :global(h3) {
       @apply text-xl;
       @apply font-bold;
-      @apply mt-2;
+      @apply mt-4;
       @apply mb-2;
     }
 
