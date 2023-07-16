@@ -1,4 +1,4 @@
-FROM node:16.14.2-buster AS builder
+FROM node:16-alpine AS builder
 
 # Create app directory
 WORKDIR /usr/src/app
@@ -11,7 +11,7 @@ RUN npm install
 RUN npm run build
 
 
-FROM node:16.14.2-buster
+FROM node:16-alpine
 
 # Create app directory
 WORKDIR /usr/src/app
@@ -19,11 +19,11 @@ WORKDIR /usr/src/app
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
 # where available (npm@5+)
-COPY package*.json .
+COPY package*.json ./
 
 COPY --from=builder /usr/src/app/build build
 
-RUN npm ci --only=production --ignore-scripts
+RUN npm ci --omit=dev --ignore-scripts
 
 EXPOSE 3000
 CMD [ "node", "build" ]
