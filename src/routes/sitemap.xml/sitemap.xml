@@ -23,6 +23,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>${origin}/recensioner</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
     <loc>${origin}/r%C3%B6stsystem</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
