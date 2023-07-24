@@ -3,7 +3,7 @@
 
   export let src: import('&Image').Source | `${string}.svg`
   export let alt: string | undefined = undefined
-  export let delayed: boolean = false
+  export let delayed = false
 
   let clazz: string | undefined = undefined
   export { clazz as class }
@@ -19,8 +19,8 @@
       : src
 
   let img: HTMLImageElement
-  let loaded: boolean = false
-  let startLoad: boolean = !delayed
+  let loaded = false
+  let startLoad = !delayed
 
   function onLoad() {
     loaded = true

@@ -10,7 +10,7 @@ declare namespace App {
 }
 
 declare namespace svelteHTML {
-  interface HTMLAttributes<T> {
+  interface HTMLAttributes {
     'on:enterViewport'?: (event: Event) => void
     'on:exitViewport'?: (event: Event) => void
   }

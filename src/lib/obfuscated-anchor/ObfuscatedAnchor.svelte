@@ -6,10 +6,10 @@
 
   export let href: Obfuscated
 
-  let clazz: string = ''
+  let clazz = ''
   export { clazz as class }
 
-  let plaintext: string = ''
+  let plaintext = ''
   onMount(() => (plaintext = deobfuscate(href)))
 </script>
 
