@@ -1,12 +1,45 @@
 ---
-title: recensioner
+title: Recensioner
 keywords: kritik film
 ---
 
+<!-- cSpell:words Carlstens Schulze Bogovote motorsågsarm -->
+<!-- cSpell:ignore skådespelarnes -->
+
 # {title}
 
-Recensioner skrivna av 255:or.
+Recensioner av diverse media samt lite information om hur och när det granskade materialet konsumerades.
 
 ## Filmer
 
 ### Animal Protector (1988)
+
+Underbar upplevelse i 120p. Svensk film inspelad på Marstrand. Producenten ville egentligen spela in tre filmer
+samtidigt utan skådespelarnes vetskap. På amerikansk militärbas (Carlstens fästning) strider militär inbördes samt med
+CIA och djurrättsaktivister. Misstänkt homosexuell kärlekskoppling som ej blommar ut. Hårda strider och görmånga
+explosioner, sällan med anledning. (Vebb ger filmen 12 av 10 i betyg.)
+
+Sedd: 21:e juli 2023  
+Röstsystem: [Schulze-metoden](/röstsystem#schulze-metoden)  
+Recensent: Bönmannen
+
+### Tenet (2020)
+
+Film som är bra på riktigt. Föremål som färdas bakåt i tiden upptäcks. Fysiken bakom detta förklaras med terminologi som
+ej är främmande för eho som läst kvantfysik. Sedan är det väldigt många saker som färdas baklänges i tiden och man blir
+förvirrad när det dyker upp ting som istället färdas framåt i tiden. För bättre förståelse för handling uppmanas
+åskådare se filmen åter (gärna baklänges)
+
+Sedd: 7:e juli 2023  
+Röstsystem: [Bogovote](/röstsystem#bogovote)  
+Recensent: Bönmannen
+
+### Army of Darkness (1992)
+
+Snabb film. Strider och flykter med hastiga ryck där varelser liksom kameran snabbt byter rörelseriktning. Mysko osynlig
+demon sänder man tillbaka till medeltiden. Väl där skaffar han sig en motorsågsarm och strider tillsammans med riddare
+och soldater mot en här av lik. Det är ej alltför verklighetsfrånvänt att misstänka manusförfattare för att ha utgått
+från sina barndoms lekar med lego.
+
+Sedd: Våren 2023  
+Recensent: Bönmannen
