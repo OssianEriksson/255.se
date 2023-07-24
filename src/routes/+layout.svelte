@@ -22,12 +22,19 @@
           href: '/krönikor',
         },
         {
-          text: 'Sångverser',
-          href: '/verser',
-        },
-        {
           text: 'Gamla sidan',
           href: '/gamla-sidan.html',
+        },
+      ],
+    },
+    {
+      title: {
+        text: 'Innehåll',
+      },
+      dropdown: [
+        {
+          text: 'Recensioner',
+          href: '/recensioner',
         },
       ],
     },
@@ -43,6 +50,10 @@
         {
           text: 'Filmer',
           href: '/filmer',
+        },
+        {
+          text: 'Sångverser',
+          href: '/verser',
         },
       ],
     },
