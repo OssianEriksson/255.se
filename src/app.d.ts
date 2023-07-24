@@ -9,6 +9,13 @@ declare namespace App {
   // interface Stuff {}
 }
 
+declare namespace svelteHTML {
+  interface HTMLAttributes<T> {
+    'on:enterViewport'?: (event: Event) => void
+    'on:exitViewport'?: (event: Event) => void
+  }
+}
+
 declare module '*&Image' {
   export type Srcset = { srcset: string; type: string }
 
