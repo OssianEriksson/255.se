@@ -1,5 +1,8 @@
 /// <reference types="./src/app" />
 
+// cSpell:words mdsvex rehype Katex
+// cSpell:ignore oldschool
+
 import adapter from '@sveltejs/adapter-node'
 import preprocess from 'svelte-preprocess'
 import { mdsvex } from 'mdsvex'

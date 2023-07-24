@@ -1,7 +1,9 @@
 ---
-title: Röstsytem
+title: Röstsystem
 keywords: röst omröstning val valsystem filmkväll
 ---
+
+<!-- cSpell:words paddning handvis rutvis bogovote bogo -->
 
 # {title}
 
@@ -10,13 +12,13 @@ Här är en lista på beprövade bra (och dåliga) röstsystem.
 ## Single Elimination
 
 Vanlig [Single Elimination](https://en.wikipedia.org/wiki/Single-elimination_tournament)-turnering där varje match
-avgörs genom handuppräckning. Vid lika antal röster kan slant singlas, allternativt tas röstningen om tills dess ett
+avgörs genom handuppräckning. Vid lika antal röster kan slant singlas, alternativt tas röstningen om tills dess ett
 avgörande resultat erhålls.
 
 ## Double Elimination
 
 Vanlig [Double Elimination](https://en.wikipedia.org/wiki/Double-elimination_tournament)-turnering där varje match
-avgörs genom handuppräckning. Vid lika antal röster kan slant singlas, allternativt tas röstningen om tills dess ett
+avgörs genom handuppräckning. Vid lika antal röster kan slant singlas, alternativt tas röstningen om tills dess ett
 avgörande resultat erhålls.
 
 ## Enkel överförbar röst (Single Transferable Vote)
@@ -31,7 +33,7 @@ Först definieras en lem. Därefter beslutas på lämpligt vis (förslagsvis gen
 hela processen. Varje lem motsvarar en röst. Näst beslutas på lämpligt vis huruvida flera lemmar ska kunna läggas på
 samma alternativ. Därefter läses alternativen upp i turordning så de röstberättigande kan sträcka upp en eller flera
 lemmar för att markera en röst på motsvarande alternativ. Det alternativ med flest röster vinner. Vid lika antal röster
-kan slant singlas, allternativt tas röstningen om tills dess ett avgörande resultat erhålls.
+kan slant singlas, alternativt tas röstningen om tills dess ett avgörande resultat erhålls.
 
 ## Handuppräckning à la Davelni
 
@@ -39,7 +41,7 @@ Alla alternativ börjar med noll röster. Antalet röster ett alternativ har bev
 omgång gäller röstning med handuppräckning (varje röstberättigad får maximalt två röster som kan läggas på samma eller
 olika alternativ). Därefter stryks i första omgången en röst från alla alternativ. De alternativ som i detta läge har
 ett negativt antal röster förkastas. Därefter inleds nästa röstningsomgång då två röster stryks efter handuppräckningen.
-Generellt stryks _n_ röster i omgång _n_. Då endast ett alternatv återstår har detta vunnit. Om inget alternativ
+Generellt stryks _n_ röster i omgång _n_. Då endast ett alternativ återstår har detta vunnit. Om inget alternativ
 återstår rullas det senaste förkastningen tillbaks och det alternativ som i detta läge har flest röster vinner. Vid lika
 antal röster kan slant singlas, alternativt tas sista röstningsomgången om tills dess ett avgörande resultat erhålls.
 
@@ -49,12 +51,12 @@ Vanlig [Single Elimination](https://en.wikipedia.org/wiki/Single-elimination_tou
 avgörs på följande vis: En oberoende person vänder ryggen mot alla röstberättigade. De röstberättigande kan under denna
 period röra en eller två händer från och till uppsträckt läge. Vid ett osignalerat ögonblick vänder sig den den
 oberoende personen tillbaks mot de röstberättigade, varpå dessa måste förbli stilla (likt i leken
-ett-två-tre-rött-ljus!). Därefter tas handvis XOR (En uppsträckt hand motsvarar 1, övriga handlägen 0). Är resultatet av
-denna opertion 1 vinner det första alternativet matchen, annars vinner det andra.
+ett-två-tre-rött-ljus!). Därefter tas handvis XOR (en uppsträckt hand motsvarar 1, övriga handlägen 0). Är resultatet av
+denna operation 1 vinner det första alternativet matchen, annars vinner det andra.
 
 ## Schrödingers röstsystem
 
-Alla röstberättigade skriver sitt alternativ på en bit papper som viks och samlas in. Papprena rivs därefter sönder och
+Alla röstberättigade skriver sitt alternativ på en bit papper som viks och samlas in. Papperna rivs därefter sönder och
 slängs, och det första alternativet vinner.
 
 ## Hästkapplöpning
@@ -64,11 +66,11 @@ vilken häst som ska tilldelas alternativ ett. Sedan röstar man igenom genom ha
 som ska tilldelas alternativ två och så vidare tills dess alla alternativ motsvarar en häst. Därefter spelar man upp
 hästkapplöpningen och det alternativ vars häst kommer först i mål vinner.
 
-## Kamelskönhetstävlig
+## Kamelskönhetstävling
 
 Man finner ett lika antal distinkta bilder på kameler, och tilldelar genom [handuppräckning](#handuppräckning) varje
-valbart alternativ till en kamel. Därefter beger man sig ut i allmännheten och ber folk välja den vackraste kamelen.
-Efter att man samlat in ett förutbestämt antal röster välljs sedan det alternativ som motsvarar den kamel som fått flest
+valbart alternativ till en kamel. Därefter beger man sig ut i allmänheten och ber folk välja den vackraste kamelen.
+Efter att man samlat in ett förutbestämt antal röster väljs sedan det alternativ som motsvarar den kamel som fått flest
 allmänna röster.
 
 ## [USA](https://en.wikipedia.org/wiki/Voice_vote#United_States)
@@ -80,7 +82,7 @@ Församlingen får skrika ut varje alternativ. De som ljuder starkast vinner.
 Röstberättigade kan utnämna sig själva till elektorer och avstår därigenom rätten att rösta. Röstberättigade som ej är
 elektorer väljer genom [handuppräckning](#handuppräckning) ut en elektor. Denna elektor får sedan full makt att bestämma
 vilket alternativ som vinner. Om alla röstberättigade utser sig själva till elektorer börjar röstningen om från början
-tills dess åtmindstone en av de röstberättigade inte utser sig själv till elektor.
+tills dess åtminstone en av de röstberättigade inte utser sig själv till elektor.
 
 ## Sverige
 
@@ -102,7 +104,7 @@ omröstningens vinnare.
 Varje alternativ tilldelas ett unikt heltal större eller lika med 0 och mindre än _N_ där _N_ är antalet alternativ.
 Varje röstberättigad person fyller i ett kvadratiskt
 [Conway's Game of Life](https://sv.wikipedia.org/wiki/Game_of_Life)-bräde, förslagsvis med sidlängd fyra. Alla sådana
-bräden kombineras sedan till ett initialivillkor för Game of Life genom rutvis XOR. Initialvillkoret bäddas sedan in i
+bräden kombineras sedan till ett initialvillkor för Game of Life genom rutvis XOR. Initialvillkoret bäddas sedan in i
 ett oändligt stort Game of Life-bräde och simuleras i tre tidssteg. Avslutningsvis räknas antalet levande rutor modulo
 _N_, och det alternativ som motsvarar det resulterande talet vinner.
 
@@ -132,7 +134,7 @@ primärt alternativ används för att utse vinnaren av omröstningen.
 Alla alternativ sorteras in i en ordning och paddas med ett förutbestämt alternativ till en jämn tvåpotens. En vektor
 med längd av antalet alternativ (inklusive paddning) initialiseras till noll. De röstberättigade väljer därefter alla en
 fasfaktor och ett index i vektorn att addera denna fas till. Därefter appliceras inversa
-Fast-Fourier-Transform-algoritmen på vektorn, och det alternativ vars index i den inverstrasformerade vektorn har högst
+Fast-Fourier-Transform-algoritmen på vektorn, och det alternativ vars index i den inverstransformerade vektorn har högst
 realdel vinner. Ett smidigt MATLAB-skript skrivet år 2022 av Eken för att bistå i omröstningsprocessen finns
 tillgängligt [här](/scripts/FFTVoting.m).
 
@@ -142,7 +144,7 @@ Röstberättigade kan nominera sig själva till snille. Alla röstberättigade v
 [handuppräckning](#handuppräckning) vem av de nominerade som ska vara snillet. Snillet skriver sedan varje alternativ på
 exakt en bit papper per alternativ så att det finns en bijektion mellan lapparna och alternativen. Snillet placerar
 sedan lapparna på ett bord vända så att det inte går att se vilken lapp som hör till vilket alternativ, och pekar sedan,
-utan att behöva vara ärlig, ut vilken lapp som motsvarar vilket alternativ. Övriga i försmaligen väljer sedan genom
+utan att behöva vara ärlig, ut vilken lapp som motsvarar vilket alternativ. Övriga i församlingen väljer sedan genom
 [handuppräckning](#handuppräckning) ut en lapp, och det alternativ som står på lappen vinner.
 
 ## Single Elimination med auktion
@@ -150,7 +152,7 @@ utan att behöva vara ärlig, ut vilken lapp som motsvarar vilket alternativ. Ö
 Varje röstberättigad startar med ett förutbestämt antal röster, förslagsvis tio, som kan spenderas allt efter
 röstningens gång. Därefter hålls en
 [Single Elimination](https://en.wikipedia.org/wiki/Single-elimination_tournament)-turnering där varje match avgörs genom
-auktion. De röstberättigade kan budge med det antal röster de har kvar sedan föregående omrösningar. Om en match blir
+auktion. De röstberättigade kan budge med det antal röster de har kvar sedan föregående omröstningar. Om en match blir
 lika vinner den kandidat som först nådde upp i det antal röster där auktionen stängdes. Alla röster som lagts på
 matchens vinnande alternativ försvinner, medans övriga röster återbördas till respektive röstberättigad. När alla
 röstberättigade har fått slut på röster återfår alla röstberättigade det ursprungliga antalet röster.
@@ -174,7 +176,7 @@ proceduren tills dess att en kandidat vinner.
 ## Viktad slump
 
 Man går igenom alla alternativ, och de röstberättigade får antingen välja att stödja alternativet eller inte. Därefter
-tilldelas varje alternativ en vikt ($w$) som beror av hur många röstberättigade ($x$) som stödje alternativet,
+tilldelas varje alternativ en vikt ($w$) som beror av hur många röstberättigade ($x$) som stödjer alternativet,
 förslagsvis $w = 1 + x^2$ för färre än tio röstberättigade. Det vinnande alternativet slumpas sedan fram utifrån
 vikterna, förslagsvis genom att man låter $w$ kopior av varje alternativ tävla i en
 [simulerad omgång av hungerspelen](https://adrian-thumbtack.github.io/HungerGames/index).

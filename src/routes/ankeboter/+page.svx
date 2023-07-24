@@ -3,6 +3,9 @@ title: Ankeboter
 keywords: anekdoter historia
 ---
 
+<!-- cSpell:words Ertl Ertls Isemo Kallemedalj Kallemedaljen Olgastr Olgastraße PRIBO Rydé Santén Suède -->
+<!-- cSpell:ignore nohup Psushi -->
+
 # {title}
 
 Några ankeboter (anekdoter) av varierande sanningsgrad samt förklaringar av vanligt förekommande ord och förkortningar.
@@ -13,7 +16,7 @@ Chalmersankeboter som har förts ned genom generationerna i tal eller skrift.
 
 ### Emil och Emilia
 
-Emil och Emilia är namn för samtilga manliga respektive kvinnliga chalmerister.
+Emil och Emilia är namn för samtliga manliga respektive kvinnliga chalmerister.
 
 > Emil Santén var en skojig herre som blev känd redan tidigt under sina studier. I Tofsen Nr 2 1973 står det i Emils
 > dödsruna att "Hans fruntimmerstycke var känt, varför andra teknologer, som begav sig ut på staden för att göra
@@ -38,7 +41,7 @@ att ses på
 
 ### Kopparbunken
 
-Kopparbunken är ett gammalt högspänningslabb (idag finns där en klätervägg) som ligger i det sydöstra hörnet av Campus.
+Kopparbunken är ett gammalt högspänningslabb (idag finns där en klättervägg) som ligger i det sydöstra hörnet av Campus.
 Då studenterna vid elektro- och data-sektionerna fick höra att byggnaden skulle K-märkas smög de på natten innan
 beslutet om K-märkning skulle fattas till kopparbunken och målade dit Quarl Anka och Hacke Hackspett, sektionshelgon för
 respektive sektion. Dagen efter K-märktes byggnaden med Quarl och Hacke på. Därför går de nu inte att ta bort dessa
@@ -49,10 +52,10 @@ bilder eftersom de måste bevaras tillsammans med resten av huset.
 När det nya kårhuset skulle byggas vände sig kåren först till Chalmers för hjälp med finansieringen, men högskolan var
 inte omedelbart redo att skjuta till pengar. Dock erbjöd sig Chalmers att matcha den summa som kåren kunde samla in från
 annat håll. Men i denna överenskommelse fanns inget tak för hur mycket Chalmers kunde bidra med. Kåren lade därför stor
-energi på att kontakta företag, gamla alumner och andra sponsorer som kubde tänka sig bidra till det nya kårhuset. Hur
-mycket som faktiskt samlades in har varit föremål för viss ryktesspridning och olika siffor har cirkulerat, men en ofta
-nämnd summa är 60 miljoner kronor. Chalmers var förtsåeligt nog inte glada över att behöva matcha denna summa men gick
-efter viss förhandling med på att hålla sitt löfte och skjöt till ytterligare 60 miljoner. Med en finansiella grunden
+energi på att kontakta företag, gamla alumner och andra sponsorer som kunde tänka sig bidra till det nya kårhuset. Hur
+mycket som faktiskt samlades in har varit föremål för viss ryktesspridning och olika siffror har cirkulerat, men en ofta
+nämnd summa är 60 miljoner kronor. Chalmers var förståeligt nog inte glada över att behöva matcha denna summa men gick
+efter viss förhandling med på att hålla sitt löfte och sköt till ytterligare 60 miljoner. Med en finansiella grunden
 säkrad kunde kåren bygga det nuvarande kårhuset som sedan dess har varit Sveriges största.
 
 Kårhusets ställning som Sveriges största har dock periodvis varit hotad. Ett tag var det tal om att KTH skulle bygga ut
@@ -85,7 +88,7 @@ trappor.
 Som ett nolluppdrag köpte en gång ett par studenter en begagnad parkbänk hos parkförvaltningen och börjar bära runt
 bänken på stan. De blir flera gånger stoppade av poliser som tror att bänken är stulen, men eftersom bärarna kan visa
 kvitto för inköpet får de varje gång fortsätta på sin vandring genom staden. För att undvika att mer av polisens tid
-ockuperas av denna företelse går en patrull till slut ut på polisradion med att den grupp av studenter som kånkar på en
+ockuperas av denna företeelse går en patrull till slut ut på polisradion med att den grupp av studenter som kånkar på en
 parkbänk redan har kontrollerats och inte ska stoppas. Detta meddelande snappas upp av andra Chalmerister som tar
 tillfället i akt att ge sig ut på stan och bära runt parkbänkar.
 
@@ -98,7 +101,7 @@ tillfället i akt att ge sig ut på stan och bära runt parkbänkar.
 > -- [HØK-16](http://www.nollk.se/wp-content/uploads/2016/07/H0K-16.pdf)
 
 > [År] 2022 gavs boken Göteborg ut och innehåller Göteborgs samlade historia. En specialutgåva trycktes med namnet
-> "Ankeborg" på omslaget och delades ut till kårens samtliga kommitteer under kommitteeavslutningen innan sommaren 2022.
+> "Ankeborg" på omslaget och delades ut till kårens samtliga kommittéer under kommittéavslutningen innan sommaren 2022.
 >
 > -- [Marskalkämbetet](https://sites.google.com/marskalk.chs.chalmers.se/sve/historia/chalmerskosa-humorutbrott)
 
@@ -115,13 +118,13 @@ Marskalkämbetet hämtar följande ur Rickard Wilson-Sällskapets monter i Volvo
 
 ### Tågvagnen
 
-Det finns flera versioner av berättelsen om hur tvågvagnen kom till Campus. Enligt en källa skulle SJ vid ett tillfälle
+Det finns flera versioner av berättelsen om hur tågvagnen kom till Campus. Enligt en källa skulle SJ vid ett tillfälle
 ha sålt äldre tågvagnar till andra operatörer till ett relativt billigt pris. Studenter vid Chalmers ska då på skämt ha
 samlat ihop tillräckligt med pengar för att köpa en vagn. Dock hade de efter köpet inget sätt att transportera eller
 förvara vagnen varpå saftiga avgifter väntade bara för att vagnen skulle få stå kvar på rälsen. Därför bad man kåren om
 hjälp och kunde så skänka vagnen till kåren som ordnade transport till Campus där den står idag.
 
-Alternativt ska studentkåren vid sitt hundraårsjubilieum ha önskat sig en ny festlokal för sina medlemmar. I första hand
+Alternativt ska studentkåren vid sitt hundraårsjubileum ha önskat sig en ny festlokal för sina medlemmar. I första hand
 hade man velat ha en U-båt, men man insåg snart att detta var en orimlig önskan. Istället ringde kåren till SJ och
 förklarade sin önskan om en tågvagn varpå SJ vänligt erbjöd en vagn från 1963 som gått ur användning sedan ett par år
 tillbaks.
@@ -137,14 +140,14 @@ tillbaks.
 >
 > -- [Marskalkämbetet](https://web.archive.org/web/20200813134316/https://marskalk.wordpress.com/marskalksambetet/)
 
-Rent formellt har kåren fortfarande inte erkännt upplösningen av unionen med Norge.
+Rent formellt har kåren fortfarande inte erkänt upplösningen av unionen med Norge.
 
 ### Øhl-pipelinen
 
-> 1959 förvärvade Chalmers Studentkår en aktie i dåvarande AB Pripp & Lyckholm. Chalmersisterna fick då tillträde till
+> 1959 förvärvade Chalmers Studentkår en aktie i dåvarande AB Pripp & Lyckholm. Chalmeristerna fick då tillträde till
 > Pripps bolagsstämma och framförde där varje år kravet på en pipeline mellan Pripps och Chalmers kårhus. Chalmeristerna
 > äskande blev en uppskattad tradition. När AB Pripps i början av 70-talet förvärvades av svenska staten till 60%
-> (sedemera 75%) fick alla aktieägare utom staten och PRIBO/Beijer "maka på sig" och en hemställan till dåvarande
+> (sedermera 75%) fick alla aktieägare utom staten och PRIBO/Beijer "maka på sig" och en hemställan till dåvarande
 > finansministern Gunnar Sträng från Chalmers Studentkår avvisades. Han trodde inte att ledamöterna i Sveriges Riksdag
 > kunde uppbåda tillräckligt med sinne för humor, vilket skulle möjliggöra ett beslut om försäljning av en (1) aktie
 > till Chalmers Studentkår.
@@ -165,7 +168,7 @@ Rent formellt har kåren fortfarande inte erkännt upplösningen av unionen med 
 > -- [Föreningen Ölbruket](https://sites.google.com/olbruket.se/sve/historia)
 
 > Den vänligt sinnade stormningen av Carlsberg Sverige inleddes vid elvatiden med deltagande av såväl Chalmersbalett som
-> Alllianceorkester. Syftet var solklart men i praktiken ouppnåeligt även om ett rör för maltdrycker utifrån
+> Allianceorchester. Syftet var solklart men i praktiken ouppnåeligt även om ett rör för maltdrycker utifrån
 > klimatperspektiv teoretiskt säkert är en mer hållbar lösning än alla dessa lastbilstransporter mellan bryggeriet och
 > Sveriges andra stad.
 >
@@ -200,7 +203,7 @@ Sånt som kanske mest intresserar oss 255:or och F:are.
 Systemet som användes för att boka [Focus och Hilbert](https://ftek.se/sektionslokal/) var ihopslängt av
 [Spidera](https://ftek.se/spidera) på en eftermiddag. Det bestod av ett Googleformulär som vid inskickning lade till en
 ny rad i ett kalkylark. Ett copy-paste:at skript lyssnade sedan på ändringar i kalkylarket och skickade ut
-bekräftelsemejl m.m. med hjälp av nätmästarens, Spideras ordförandes, google-konto. En dag råkade
+bekräftelsemejl m.m. med hjälp av nätmästarens, Spideras ordförandes, Googlekonto. En dag råkade
 [DP](https://ftek.se/djungelpatrullen/) göra en manuell ändring i kalkylarket som fick formuläret att placera nya rader
 med kolumnerna förskjutna ett steg åt höger. Detta ledde i sin tur till att skriptet (som inte var så bra kodat) började
 mejla ut bekräftelsemejl till alla som någonsin bokat Focus eller Hilbert de senaste tre åren. Dessutom flaggade efter
@@ -241,7 +244,7 @@ En annan episod utspelar sig utanför labbsalen, då några IPT-laboranter inser
 vätska (av annat bestånd än vatten) på. Så sent på natten var det tomt i sektionslokalen Focus, och vad fanns inte där
 om platta glasskivor i form av ugnsglas? Man extraherade därför ett ugnsglas och tog det till ett trapphus i
 fysikforskarhuset där man från trettio meters höjd droppade vätska på glaset. Detta gick utmärkt tills dess att
-droppröret tappades och med nöd och näppe missade glaset. För denna epsiod nominerades upphovspersonen till en
+droppröret tappades och med nöd och näppe missade glaset. För denna episod nominerades upphovspersonen till en
 [dumväst](https://ftek.se/dumvast/), men styret förbjöd nomineringen från att nämnas vid sektionsmötet då det var "för
 dumt".
 
@@ -255,11 +258,11 @@ Därför är det ingen svart flaggstång på fysikhusets tak, utan en fanstång.
 ### Finger
 
 Linuxkommandot [`finger`](https://linux.die.net/man/1/finger) visar information om en användare, och en 255:a bestämda
-sig för att göra en lek av detta genom att ränka antalet gånger någon kört `finger` mot dennes användare och visa
+sig för att göra en lek av detta genom att räkna antalet gånger någon kört `finger` mot dennes användare och visa
 resultatet i en scoreboard. Snart hade flera personer startat skript som loopade `finger` för att komma högst upp på
 scoreboarden. När det närmade sig tentaperioden bestämde sig en annan 255:a för att prokrastinera genom att försöka ta
 topplatsen i `finger`-listan, men hur skulle det gå till? Försprånget de andra tävlande hade var mycket stort. Han
-började med en vanlig loop, startad i [`screen`](https://linux.die.net/man/1/screen) så att skritet inte skulle dö när
+började med en vanlig loop, startad i [`screen`](https://linux.die.net/man/1/screen) så att skriptet inte skulle dö när
 man loggade ut. Dock fungerade detta inte alltid, och skriptet dog ändå efter ett tag. Hur löser man detta problem? Jo,
 skriptet kör sin loop, men efter ett tag startar det en kopia av sig själv på en annan dator så att det alltid finns
 minst en skriptinstans körande. Man inser dock snabbt efter att ha startat igång ett sådant skript att detta
@@ -277,7 +280,7 @@ raden "I morgon gör jag likadant" men det är en annan historia.
 ### Förkylningsrisk
 
 En dag fick [Chalmers barockensemble](https://www.chalmersbarockensemble.se/) en förfrågan: Kunde de med mindre än en
-måndas varsel tänka sig att spela fyra timmar utomhus i ruskig höst på ett lastbilsflak fyllt med vatten som del av en
+månads varsel tänka sig att spela fyra timmar utomhus i ruskig höst på ett lastbilsflak fyllt med vatten som del av en
 musikvideoinspelning? Ensemblen försäkrades att allt var under kontroll. Att instrument och vatten inte går bra ihop
 behövde man inte oroa sig för, och mellan tagningarna skulle man kunna värma sig runt en brasa i ett oljefat. Dock
 avböjde ensemblen om inte annat med hänvisning till den föreslagna betalningen samt risken för förkylning.
@@ -297,7 +300,7 @@ känd för att vara ganska krånglig och obrydd. Men då ställde sig Von, som r
 tog över föreläsningen och räddade labben. Efter denna dag lobbade kursutvärderarna för att Von skulle få fortsätta som
 labbhandledare nästa år, vilket han fick.
 
-Under linuxintron ett annat år ville en annan 255-nolla lära sig om bakrundsjobb och redirects så provade därför
+Under linuxintron ett annat år ville en annan 255-nolla lära sig om bakgrundsjobb och redirects så provade därför
 kommandot
 
 ```bash
@@ -319,23 +322,23 @@ uppmärksamhet.
 
 För länge sedan under nollanstädet av [Focus](https://ftek.se/sektionslokal/) under det att sektionslokalen höll på att
 byggas om kunder en 255:a inte hitta lampknappen för att släcka efter sig när städet var klart. Han hittade dock en
-öppen strömbrytare som han stoppade in sin penna i för att komma åt knappen innne i uttaget. Till och med 255:an Gustav
+öppen strömbrytare som han stoppade in sin penna i för att komma åt knappen inne i uttaget. Till och med 255:an Gustav
 som var vänd bort såg ljusblixten som följde, men alla var oskadda och ljuset i Focus slocknade, så slutet gott allting
 gott.
 
 ### Prisma
 
-Då 255:an Anka hade trågigt en eftermiddag tänkte han försöka läras sig PostScript - det programmeringsspråk som används
+Då 255:an Anka hade tråkigt en eftermiddag tänkte han försöka läras sig PostScript - det programmeringsspråk som används
 på skrivare för att beskriva layout på utskrifter. Anka kände dock inte för att börja med "Hello World", utan bestämde
 sig istället för ett bättre första program: En oändlig loop! För att inte få slut på PQ var Anka klipsk nog att inte
-placera loopen så att utskriften fick oändligt många sidor, utan isället en den del av programmet innan själva
-sidlayouten definieras. När detta skrivarjobb skickades till Chalmers utskriftsystem Prisma låste sig inte bara en
+placera loopen så att utskriften fick oändligt många sidor, utan istället en den del av programmet innan själva
+sidlayouten definieras. När detta skrivarjobb skickades till Chalmers utskriftssystem Prisma låste sig inte bara en
 printer utan hela Prismas utskriftskö och inga fler utskrifter skedde på Chalmers den dagen, samma dag som F hade en
 stor kvantinlämning.
 
 ### Stor inlämning
 
-En F-student skulle skriva ut sin EP-labbraport på 15-20 sidor i samma veva som man skrev ut plancher för muntliga
+En F-student skulle skriva ut sin EP-labbrapport på 15-20 sidor i samma veva som man skrev ut planscher för muntliga
 presentationer. Så kom det sig att studenten fick vänta ovanligt länge innan skrivaren började spotta ur sig det första
 arket, och när det till sist började matas ut insåg studenten till sin fasa att utskriften påbörjats i A1-format. I sin
 skam lämnade han skrivarrummet och gick därifrån medans utskriften fortsatte.
@@ -350,7 +353,7 @@ och godkände rapporten, som rent innehållsmässigt var välskriven, med en jä
 datorsal på våning fyra i fysikhuset, belägen approximativt under DD7. Det är vanligt att 255:or spontant ansamlas i
 DD7.
 
-**DuP** Ursprungligen förkortning för Djungel-Pub (Tillstälning som ordnas av [DP](https://ftek.se/dp), F-sektionens
+**DuP** Ursprungligen förkortning för Djungel-Pub (Tillställning som ordnas av [DP](https://ftek.se/dp), F-sektionens
 rustmästeri, varje fredag kl. 17:23 i Focus, F:s sektionslokal). Bland 255:or syftar DuP ofta mer på datorspelkvällen
 som brukar hållas i KINSLS efter att mat intagits på DuP:en i Focus.
 
@@ -359,5 +362,5 @@ med tentaveckans slut. Kombineras ofta med brädspel, datorspel, filmvisning ell
 
 **KINSLS** Förkortning för Kan Inte Nollan Sluta Labba Snart? Beskriver två datorsalar på våning 7 i fysikforskarhuset.
 KINSLS brukar också inkludera lunchrummet KINSLS-torget som ligger utanför salarna. Som nollan tycker man inte alls att
-man labbar där särskillt ofta, men när man inte är nollan längre är plötsligt nollan alltid där. 255 intar regelbundet
+man labbar där särskilt ofta, men när man inte är nollan längre är plötsligt nollan alltid där. 255 intar regelbundet
 lunch tillsammans i KINSLS (eller KINSLS-torget), och spelas det datorspel görs det oftast i KINSLS.

@@ -1,3 +1,5 @@
+// cSpell:words imagetools
+
 import { sveltekit } from '@sveltejs/kit/vite'
 import { imagetools } from 'vite-imagetools'
 import doSync from 'do-sync'

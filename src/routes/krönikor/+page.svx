@@ -3,6 +3,8 @@ title: Krönikor
 keywords: historia dagbok
 ---
 
+<!-- cSpell:words Strangelove Koyaanisqatsi -->
+
 <script type="ts">
   import logo2022 from '$lib/assets/logo-2022.svg';
   import Image from '$lib/Image.svelte';
@@ -16,9 +18,9 @@ Kortare redogörelser för 255:s moderna historia.
 
 Efter den inledande programmeringskursen i Java utvecklar Potatis spelet Terminal-Warlock med hjälp av bl.a. Davelni.
 Till 25:e i 5:e-sittningen leder R2 den något tidspressade utvecklingen av ett text-baserat rollspel som spelas under
-kvällen. Man finner då stort nöje i att hitta cykliska vägar innuti spelet.
+kvällen. Man finner då stort nöje i att hitta cykliska vägar inuti spelet.
 
-R2 och Björn bakede kaka på kaka som de bjuder på för att testa hypotesen att kaka på kaka är för mycket av det goda. En
+R2 och Björn bakade kaka på kaka som de bjuder på för att testa hypotesen att kaka på kaka är för mycket av det goda. En
 kontrollgrupp får sockerpiller. Försöket visade på att de som fick kaka på kaka blev något gladare men å andra sidan
 också något sämre på matte.
 
@@ -26,10 +28,10 @@ Källa: Potatis, R2, Oscar
 
 ## 2017/2018
 
-Många luncher spenderas i KINSLS. Ett återkommade samtalsämne är definitioner av olika object, t.ex. diskuteras lämpliga
-sätt att definiera en soppa. Potatis fortsätter utveckla Terminal-Warlock, och spelet spelas flera gånger på lunchen.
-Detta år bildas också en Discord-guild, till en början främst för intern kommunikation mellan några av 255:s medlemar,
-men under kommande år kommer fler och fler 255:or bli medlemmar i guilden.
+Många luncher spenderas i KINSLS. Ett återkommande samtalsämne är definitioner av olika object, t.ex. diskuteras
+lämpliga sätt att definiera en soppa. Potatis fortsätter utveckla Terminal-Warlock, och spelet spelas flera gånger på
+lunchen. Detta år bildas också en Discord-guild, till en början främst för intern kommunikation mellan några av 255:s
+medlemmar, men under kommande år kommer fler och fler 255:or bli medlemmar i guilden.
 
 255 bidrar med två frågor till FnollK:s självdeklaration som nollan fyller i innan mottagningen:
 
@@ -50,28 +52,28 @@ yngre 255:or med i Barocken. Vanligtvis kommer 10-15 personer till lunch, och of
 spela datorspel, bl.a. Terminal-Warlock, WC3 och OpenArena. Några nollan är intresserade av lingvistik, vilket även
 vissa phaddrar visar sig vara. Vi lever upp till självdeklarationsfrågorna genom att prata om brunnslock, riskok i
 tvättmaskiner och fortsätter de redan påbörjade diskussionerna om krigståg. Främst R2 anordnar några filmkvällar under
-året då kalkonfilm är vanligast förekommande. Regelbundna spelkvällar hålls i Kyrakan tillsammans med phaddergruppen
-polynomnom (eller vad de nu heter) från KfKb-sektionen. Efter varje läsperiod äts Efter-Tenta-Pizza (ETP).
+året då kalkonfilm är vanligast förekommande. Regelbundna spelkvällar hålls i Kyrkan tillsammans med phaddergruppen
+Polynomnom (eller vad de nu heter) från KfKb-sektionen. Efter varje läsperiod äts Efter-Tenta-Pizza (ETP).
 
 Källa: Dancis
 
 ## 2019/2020
 
-Första-dagen gücklet görs om till ett röst-baserat äventyrsspel. Phaddergruppen förtsätter ha regelbundna luncher i
+Första-dagen gücklet görs om till ett röst-baserat äventyrsspel. Phaddergruppen fortsätter ha regelbundna luncher i
 KINSLS: Vi pratar om möbler (är en tavla en möbel?), mackor, m.m. Man samlas för att se Doctor Who tillsammans. Veckan
-innan tentaveckan i LP3 slår corona till och alla tentor blir hastit och i varierande grad av lustighet till
+innan tentaveckan i LP3 slår corona till och alla tentor blir hastigt och i varierande grad av lustighet till
 distanstentor. 25:e i 5:e sittningen hålls på kårens Minecraft-server. Potatis gjorde en inspelning av detta evenemang
 som bl.a. innehåller ett efter omständigheterna bra försök att sjunga livet över Discord: Discord-servern blir för
 övrigt mycket mer aktiv under detta år, möjligen som en konsekvens av corona, och fortsätter vara aktiv även åren efter
-coronans uttåg.
+coronas uttåg.
 
 Källa: Dancis
 
 ## 2020/2021
 
 Till allas förvåning hålls mottagningen i person (dock får inte fulphaddrar närvara, ens/särskilt inte under
-sittningar), men därefter stängs campus ned och hela året hålls all undervisning på distans. Snart hålls dock vekovisa
-lunchträffar i Discord, och på lördagarna spelas diverse datorspel: 5D-chess with multiverse timetravel, Dwarfheim, och
+sittningar), men därefter stängs campus ned och hela året hålls all undervisning på distans. Snart hålls dock veckovisa
+lunchträffar i Discord, och på lördagarna spelas diverse datorspel: 5D-Chess With Multiverse Time Travel, Dwarfheim, och
 Space Station 13. Filmkvällar hålls på distans. Potatis hostar en Minecraft-server med modpacket Feed-The-Beast och en
 stor del av 255 strömmar till. Till och med urgamble Gustav frekventerar servern och delar med sig av sina livs- och
 modpacks-erfarenheter. Nollan håller en mycket ambitiös tacksittning på samma server där de bl.a. mycket trovärdigt
@@ -100,7 +102,7 @@ godtas varje vecka. Exempel på filmer som setts är
 - 2001 -- A Space Odyssey
 - Hercules i New York (I VHS-format!)
 - The Little Panda Fighter
-- Star Wars Holidy Special
+- Star Wars Holiday Special
 - Gudfadern
 - Lawrence of Arabia
 - Det våras för rymden
@@ -123,12 +125,12 @@ DuP:en, och de som gick till KINSLS och spelade kortspelet Ergo.
 Metrecon ordnade också brädspelskvällar i Focus eller Singes på lördagskvällarna, då vi spelade favoriter som
 Twister-Blokus och Monopol med tärnings-bias så att man oftast gick baklänges. Vi slog även världsrekord i
 sockerkaks-speedrun (Metrecon har video). Tiden stannade på 13:37 från framplockade ingredienser till ätbar sockerkaka.
-Den var förvånansvärt god och vi bjöd förbipasserade folk i natten. En videoinspelning av baket gjordes av Metrecon,
+Den var förvånansvärt god och vi bjöd förbipasserande folk i natten. En videoinspelning av baket gjordes av Metrecon,
 även Dancis har tillgång till videofilen. Vi försökte senare få upp vår prestation på speedrun.com genom att införa det
-som ett sidequest på ett bakspel, men lyckades inte få tag på rätt administratör (d.v.s. administatören på det spelet
+som en sidequest på ett bakspel, men lyckades inte få tag på rätt administratör (d.v.s. administratören på det spelet
 var nog inte aktiv sedan flera år tillbaka).
 
-Vi tittar på cortégen tillsammans och grillar efterråt i sektionens kundvagnsburna grill. Dock brinner både kolet och
+Vi tittar på cortégen tillsammans och grillar efteråt i sektionens kundvagnsburna grill. Dock brinner både kolet och
 själva grillen, och vi släcker den senare med vattenflaskor. Efteråt spelas brädspel i Signes. Till 25/5 skrivs ett
 [text-baserat äventyrsspel](https://github.com/OssianEriksson/text-based) och sittningsdeltagarna får rösta om vilka val
 som ska göras i spelet.
@@ -138,7 +140,7 @@ F:s IT-förening [Spidera](https://ftek.se/spidera) består till majoriteten av 
 Inför nästa års mottagning bestämmer vi att hitta på en logga att ha på tygmärken åt phaddergruppen. Många förslag
 skickas in i Discord och en lång omröstning hålls med hjälp av
 [STV](/röstsystem#enkel-överförbar-röst-single-transferable-vote). Dock blir vi ändå inte nöjda med resultatet och först
-efter applicering av diverse heuristiker kommer vi fram till loggan som visas nedan.
+efter applicering av viss heuristik kommer vi fram till loggan som visas nedan.
 
 <div class="flex justify-center"><Image src={logo2022} class="w-56" /></div>
 
@@ -148,7 +150,7 @@ Källa: Dancis, Metrecon
 
 ## 2022/2023
 
-Filmvällarna fortsatte regelbundet på fredagarna. Fler icke-255:or kommer också på dessa, trots att röstsysemen som
+Filmkvällarna fortsatte regelbundet på fredagarna. Fler icke-255:or kommer också på dessa, trots att röstsystemen som
 används nu ofta är mer invecklade och tidskrävande (bättre) än förra året. Inte bara 255:or gillar röstsystem verkar det
 som. Under slutet av förra året hade främst Potatis och Bönmannen ordnat några integral-kvällar då man tävlar i att lösa
 så många integraler som möjligt. Dessa kvällar fortsätter förekomma sporadiskt under hösten och får även några spin-offs
@@ -164,7 +166,7 @@ Maskinälskaren, Maskin {'<'}3 {'<'}3 {'<'}3, m.m.
 Vi tittar återigen på cortégen tillsammans, grillar på origo och spelar brädspel efteråt i signes tillsammans med våra
 vänner och deras vänner. Det blev en mycket lyckad kväll, vädret var på vår sida och grillkolen räckte precis. Bland
 annat grillades en hel gul lök med spaghettistrån som grillspett, vilket gick förvånansvärt bra. För framtida år
-rekomenderas dock att man sätter sig på gibraltargatans östra istället för västra sida för att potentiellt fånga lite
+rekommenderas dock att man sätter sig på gibraltargatans östra istället för västra sida för att potentiellt fånga lite
 solljus.
 
 Under 25/5-sittningen spelas en uppföljare av Moms textbaserade äventyrsspel från förra året.

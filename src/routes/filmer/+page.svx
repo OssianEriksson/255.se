@@ -2,6 +2,8 @@
 title: Filmer
 ---
 
+<!-- cSpell:words Azumi Royale Malkovich Drácula Strangelove eXistenZ Goodfellas Hatari Herz Ikiru Jiro Dredd Hoole Metropia Kombat Mulholland Rashōmon Melonia Robogeisha Shaolin Sharknado Verden Soylent Spaceballs Stargate Beastmaster Caligari Imaginarium Ipcress Airbender NIMH Shawshank Eastwick Transmorphers Videodrome Waterworld Wonka Yojimbo Zatôichi -->
+
 # Filmer
 
 - 2001 - A Space Odyssey (1968)

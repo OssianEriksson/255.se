@@ -4,6 +4,8 @@
   import Image from '$lib/Image.svelte';
 </script>
 
+<!-- cSpell:words Renneby -->
+
 # Phaddergruppen 255
 
 Denna hemsida tillhör phaddergruppen 255 på [F-sektionen](https://ftek.se) vid Chalmers tekniska högskola. Vill du läsa
@@ -37,7 +39,7 @@ finns många båda nyantagna och gamla studenter, doktorander och utexaminerade 
 Kumla-Frasse som var med när phaddergruppen startades har följande att berätta: 255 bildades inför mottagningen år 2003.
 Konventionellt har phaddergrupperna på F haft nummer till namn, och talet 255 valdes för att det representeras
 hexadecimalt som `FF`. FF är också förkortningen för sektionens tidning, [FinForm](https://ftek.se/finform). Alla som
-var med och startade phaddergruppen var inte med i Finforms redaktion, men det var ett stort överlapp. Kumla-Frasse har
+var med och startade phaddergruppen var inte med i FinForms redaktion, men det var ett stort överlapp. Kumla-Frasse har
 inte sparat någon av de ursprungliga beskrivningarna som skrevs om phaddergruppen, men drar sig till minnes att ord som
-brädspel, poesi och nördkultur nämdes i nollmodulen. Genom gemensamma vänner och kulturella likheter kom 255 att redan
+brädspel, poesi och nördkultur nämndes i nollmodulen. Genom gemensamma vänner och kulturella likheter kom 255 att redan
 från starten stå nära 42:an, en annan phaddergrupp på F-sektionen.
