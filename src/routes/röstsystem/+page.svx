@@ -3,7 +3,7 @@ title: Röstsystem
 keywords: röst omröstning val valsystem filmkväll
 ---
 
-<!-- cSpell:words paddning handvis rutvis bogovote bogo -->
+<!-- cSpell:words paddning handvis rutvis bogovote bogo Schulze -->
 
 # {title}
 
@@ -25,6 +25,13 @@ avgörande resultat erhålls.
 
 Vanlig [Enkel överförbar röst](https://en.wikipedia.org/wiki/Single_transferable_vote) där varje röstberättigad markerar
 första- andra- och tredjehandsval på en valsedel. En jury bestående av minst två personer tolkar alla röster.
+
+## Schulze-metoden
+
+Vanliga [Schulze-metoden](https://en.wikipedia.org/wiki/Schulze_method) där varje röstberättigad anger sin
+preferensordning på en valsedel. Vinner fler än ett alternativ omröstningen slumpas den slutgiltiga vinnaren uniformt
+fram utifrån de alternativ som vann omröstningen med Schulze-metoden. Ett behändigt onlineverktyg för att beräkna
+resultatet av omröstningen finns [här](https://schulz.webfort.net/).
 
 ## Handuppräckning
 
