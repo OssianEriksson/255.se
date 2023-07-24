@@ -10,6 +10,159 @@ keywords: anekdoter historia
 
 Några ankeboter (anekdoter) av varierande sanningsgrad samt förklaringar av vanligt förekommande ord och förkortningar.
 
+## Upplevt eller uppsnappat av 255:or
+
+Sånt som kanske mest intresserar oss 255:or och F:are.
+
+### Bokningssystemet
+
+Systemet som användes för att boka [Focus och Hilbert](https://ftek.se/sektionslokal/) var ihopslängt av
+[Spidera](https://ftek.se/spidera) på en eftermiddag. Det bestod av ett Googleformulär som vid inskickning lade till en
+ny rad i ett kalkylark. Ett copy-paste:at skript lyssnade sedan på ändringar i kalkylarket och skickade ut
+bekräftelsemejl m.m. med hjälp av nätmästarens, Spideras ordförandes, Googlekonto. En dag råkade
+[DP](https://ftek.se/djungelpatrullen/) göra en manuell ändring i kalkylarket som fick formuläret att placera nya rader
+med kolumnerna förskjutna ett steg åt höger. Detta ledde i sin tur till att skriptet (som inte var så bra kodat) började
+mejla ut bekräftelsemejl till alla som någonsin bokat Focus eller Hilbert de senaste tre åren. Dessutom flaggade efter
+några hundra mejl Google detta som spam och blockade nätmästarens, tillika administratören över hela sektionens Google
+workspace, Googlekonto.
+
+### Chalmers är inte nördigt
+
+Många icke-chalmerister hyser fördomen att Chalmers är nördigt, men bl.a.
+[enligt Dragos själv](https://youtu.be/oOlELEdINb4) är så alltså inte fallet.
+
+### Det finns ingen häst på Chalmers
+
+Efter mottagningen ska nollan förhoppningsvis kunna hålla med om devisen
+
+> Det finns ingen hets på Chalmers
+
+Däremot skulle det kunna finnas en häst. Som vi erfar i denna [dokumentär](https://youtu.be/-b3WOqrANis) är dock frågan
+mycket känslig.
+
+### Expfys
+
+Expfysen (eller [IPT](https://iptnet.info/)) är en oändlig källa till underhållande ankeboter. Nedan följer några
+exempel på sådana, utan att nämna namnet på någon av de inblandade...
+
+Under en expfyslabb skulle kollisioner mellan metalldiskar studeras på luftbord. Dock var några av diskarna lite för
+tunga och skrapade svagt mot bordet. Hur kunde man minska diskarnas friktion mot bordet? Jo, med såpa förstås!
+Laboranterna insåg sitt misstag när luftbordet började blåsa bubblor ur vart och ett av de tusen hålen. Betänk även
+svårigheterna med att torka upp såpan ur alla dessa hål.
+
+Ett annat år, men under samma labb fick några laboranter idén att som extrauppgift inte studera energiöverföring mellan
+diskar, utan mellan raketbränsle och en raket. De fick [XP-verkstaden](https://x-p.nu/) att bygga dem en liten
+raketmotor. Att brandvarnaren i labbsalen tejpades för visade sig nyttigt när hela rummet rökfylldes under det första av
+tre experiment som vart och ett avslutades genom att steg för steg släppa ut röken i korridoren i hopp om att inte
+trigga de optiska brandvarnarna utanför salen.
+
+En annan episod utspelar sig utanför labbsalen, då några IPT-laboranter inser sitt behov av en platt yta att droppa
+vätska (av annat bestånd än vatten) på. Så sent på natten var det tomt i sektionslokalen Focus, och vad fanns inte där
+om platta glasskivor i form av ugnsglas? Man extraherade därför ett ugnsglas och tog det till ett trapphus i
+fysikforskarhuset där man från trettio meters höjd droppade vätska på glaset. Detta gick utmärkt tills dess att
+droppröret tappades och med nöd och näppe missade glaset. För denna episod nominerades upphovspersonen till en
+[dumväst](https://ftek.se/dumvast/), men styret förbjöd nomineringen från att nämnas vid sektionsmötet då det var "för
+dumt".
+
+### Fysikhusets fanstång
+
+F-sektionen ville ha en flaggstång för att hänga sektionsflaggan i, men då man ringde in till kommunen för att be om
+tillstånd att sätta upp en flaggstång fick man nej då det finns regler för var flaggstänger får och inte får sättas upp.
+Man kom då på idén att måla flaggstången svart och kalla den för fanstång, ty fanstänger finns det inga regler för.
+Därför är det ingen svart flaggstång på fysikhusets tak, utan en fanstång.
+
+### Finger
+
+Linuxkommandot [`finger`](https://linux.die.net/man/1/finger) visar information om en användare, och en 255:a bestämda
+sig för att göra en lek av detta genom att räkna antalet gånger någon kört `finger` mot dennes användare och visa
+resultatet i en scoreboard. Snart hade flera personer startat skript som loopade `finger` för att komma högst upp på
+scoreboarden. När det närmade sig tentaperioden bestämde sig en annan 255:a för att prokrastinera genom att försöka ta
+topplatsen i `finger`-listan, men hur skulle det gå till? Försprånget de andra tävlande hade var mycket stort. Han
+började med en vanlig loop, startad i [`screen`](https://linux.die.net/man/1/screen) så att skriptet inte skulle dö när
+man loggade ut. Dock fungerade detta inte alltid, och skriptet dog ändå efter ett tag. Hur löser man detta problem? Jo,
+skriptet kör sin loop, men efter ett tag startar det en kopia av sig själv på en annan dator så att det alltid finns
+minst en skriptinstans körande. Man inser dock snabbt efter att ha startat igång ett sådant skript att detta
+tillvägagångssätt leder till exponentiell tillväxt av antalet körande processer -- en
+[forkbomb](https://en.wikipedia.org/wiki/Fork_bomb). Hela denna olycka hade orsakats medans upphovspersonen var
+fjärransluten till skoldatorerna i DD, och denne upptäckte inte att något var fel förrän fjärrsessionen plötsligt bröts.
+Han försökte då fjärransluta till andra datorer i samma datorsal utan att lyckas. Nu hade vår 255:a en tanke om vad som
+hade hänt och sprang så in till campus för att se datorerna i person. I dörren möter han en phadder som säger att
+datorerna i DD är nere. Anledningen till att vår 255:a fick [dumvästen](https://ftek.se/dumvast/) var att han på detta
+svarade "Jag vet!".
+
+Till minne av denna episod komponerades [en vers till sången Solen](/verser#solen). Det finns även en förklaring till
+raden "I morgon gör jag likadant" men det är en annan historia.
+
+### Förkylningsrisk
+
+En dag fick [Chalmers barockensemble](https://www.chalmersbarockensemble.se/) en förfrågan: Kunde de med mindre än en
+månads varsel tänka sig att spela fyra timmar utomhus i ruskig höst på ett lastbilsflak fyllt med vatten som del av en
+musikvideoinspelning? Ensemblen försäkrades att allt var under kontroll. Att instrument och vatten inte går bra ihop
+behövde man inte oroa sig för, och mellan tagningarna skulle man kunna värma sig runt en brasa i ett oljefat. Dock
+avböjde ensemblen om inte annat med hänvisning till den föreslagna betalningen samt risken för förkylning.
+
+### Ifrågasättbar orienteringsförmåga
+
+En 255:a bosatt på Olofshöjd visade prov på sin ifrågasättbara orienteringsförmåga genom att varje morgon promenera ned
+till Korsvägen för att därifrån ta spårvagn till Chalmers istället för att promenera den mycket kortare biten direkt
+till campus Johanneberg. Det hela upptäcktes när en annan 255:a följde med vår huvudperson till Willys hemma på Viktor
+Rydbergsgatan där denne brukade handla varpå han plötsligt stannade mitt på gatan och förtvivlat utbrast "Näe, det är
+inte så här nära!"
+
+### Linuxintro
+
+Då 255:an Von som nollan gick på en av sina linuxintro-labbar i KINSLS dök labbhandledaren inte upp. Handledaren var
+känd för att vara ganska krånglig och obrydd. Men då ställde sig Von, som redan var bekant med linux, spontant upp och
+tog över föreläsningen och räddade labben. Efter denna dag lobbade kursutvärderarna för att Von skulle få fortsätta som
+labbhandledare nästa år, vilket han fick.
+
+Under linuxintron ett annat år ville en annan 255-nolla lära sig om bakgrundsjobb och redirects så provade därför
+kommandot
+
+```bash
+nohup yes > fil
+```
+
+men ingenting intressant verkade hända. Efter ett tag började dock datorn bli lite trög, så nollan tänkte logga in och
+logga ut igen. Efter en mycket utdragen utloggningsanimering försökte nollan logga in igen, men varje tecken tar lång
+tid att skriva. Efter ett tag kommer labbhandledarna och gör en norsk omstart.
+
+Möjligtvis inspirerat av dessa två episoder infördes under några år en bonusfråga i linuxintron, tänkt för att de som
+redan hade ett gott grepp om linux inte skulle behöva sitta igenom den annars obligatoriska introduktionen. Frågan var
+formulerad som att förklara vad ett kommando gör. Kommandot i frågan var en obfuskerad
+[forkbomb](https://en.wikipedia.org/wiki/Fork_bomb), så att om någon obetänksam student som inte visste mycket om linux
+försökte köra programmet för att se vad det gjorde skulle dennes dator dö en död som påkallade labbhandledarnas
+uppmärksamhet.
+
+### Nollanstädet
+
+För länge sedan under nollanstädet av [Focus](https://ftek.se/sektionslokal/) under det att sektionslokalen höll på att
+byggas om kunder en 255:a inte hitta lampknappen för att släcka efter sig när städet var klart. Han hittade dock en
+öppen strömbrytare som han stoppade in sin penna i för att komma åt knappen inne i uttaget. Till och med 255:an Gustav
+som var vänd bort såg ljusblixten som följde, men alla var oskadda och ljuset i Focus slocknade, så slutet gott allting
+gott.
+
+### Prisma
+
+Då 255:an Anka hade tråkigt en eftermiddag tänkte han försöka läras sig PostScript - det programmeringsspråk som används
+på skrivare för att beskriva layout på utskrifter. Anka kände dock inte för att börja med "Hello World", utan bestämde
+sig istället för ett bättre första program: En oändlig loop! För att inte få slut på PQ var Anka klipsk nog att inte
+placera loopen så att utskriften fick oändligt många sidor, utan istället en den del av programmet innan själva
+sidlayouten definieras. När detta skrivarjobb skickades till Chalmers utskriftssystem Prisma låste sig inte bara en
+printer utan hela Prismas utskriftskö och inga fler utskrifter skedde på Chalmers den dagen, samma dag som F hade en
+stor kvantinlämning.
+
+### Stor inlämning
+
+En F-student skulle skriva ut sin EP-labbrapport på 15-20 sidor i samma veva som man skrev ut planscher för muntliga
+presentationer. Så kom det sig att studenten fick vänta ovanligt länge innan skrivaren började spotta ur sig det första
+arket, och när det till sist började matas ut insåg studenten till sin fasa att utskriften påbörjats i A1-format. I sin
+skam lämnade han skrivarrummet och gick därifrån medans utskriften fortsatte.
+
+Då nästa grupp skulle skriva ut sin rapport upptäcktes bunten med A1-papper vilket ledde till en
+[dumväst](https://ftek.se/dumvast/)nominering. Till utdelningen av dumvästen hade examinatorn i EP-momentet bjudits in
+och godkände rapporten, som rent innehållsmässigt var välskriven, med en jättestor signatur på förstasidan.
+
 ## Ankeboter ur historien
 
 Chalmersankeboter som har förts ned genom generationerna i tal eller skrift.
@@ -193,159 +346,6 @@ av en kopparkittel från Pripps gama bryggerier som idag befinner sig innanför 
 > snabba slutsatser, i själva verket skulle fartyget "SS Port Chalmers" ta över lasten.
 >
 > -- [Tofsen](https://tofsen.se/vilka-var-emil-och-olga-och-varfor-hade-hamnen-19-ton-ol-till-chalmers/)
-
-## Upplevt eller uppsnappat av 255:or
-
-Sånt som kanske mest intresserar oss 255:or och F:are.
-
-### Bokningssystemet
-
-Systemet som användes för att boka [Focus och Hilbert](https://ftek.se/sektionslokal/) var ihopslängt av
-[Spidera](https://ftek.se/spidera) på en eftermiddag. Det bestod av ett Googleformulär som vid inskickning lade till en
-ny rad i ett kalkylark. Ett copy-paste:at skript lyssnade sedan på ändringar i kalkylarket och skickade ut
-bekräftelsemejl m.m. med hjälp av nätmästarens, Spideras ordförandes, Googlekonto. En dag råkade
-[DP](https://ftek.se/djungelpatrullen/) göra en manuell ändring i kalkylarket som fick formuläret att placera nya rader
-med kolumnerna förskjutna ett steg åt höger. Detta ledde i sin tur till att skriptet (som inte var så bra kodat) började
-mejla ut bekräftelsemejl till alla som någonsin bokat Focus eller Hilbert de senaste tre åren. Dessutom flaggade efter
-några hundra mejl Google detta som spam och blockade nätmästarens, tillika administratören över hela sektionens Google
-workspace, Googlekonto.
-
-### Chalmers är inte nördigt
-
-Många icke-chalmerister hyser fördomen att Chalmers är nördigt, men bl.a.
-[enligt Dragos själv](https://youtu.be/oOlELEdINb4) är så alltså inte fallet.
-
-### Det finns ingen häst på Chalmers
-
-Efter mottagningen ska nollan förhoppningsvis kunna hålla med om devisen
-
-> Det finns ingen hets på Chalmers
-
-Däremot skulle det kunna finnas en häst. Som vi erfar i denna [dokumentär](https://youtu.be/-b3WOqrANis) är dock frågan
-mycket känslig.
-
-### Expfys
-
-Expfysen (eller [IPT](https://iptnet.info/)) är en oändlig källa till underhållande ankeboter. Nedan följer några
-exempel på sådana, utan att nämna namnet på någon av de inblandade...
-
-Under en expfyslabb skulle kollisioner mellan metalldiskar studeras på luftbord. Dock var några av diskarna lite för
-tunga och skrapade svagt mot bordet. Hur kunde man minska diskarnas friktion mot bordet? Jo, med såpa förstås!
-Laboranterna insåg sitt misstag när luftbordet började blåsa bubblor ur vart och ett av de tusen hålen. Betänk även
-svårigheterna med att torka upp såpan ur alla dessa hål.
-
-Ett annat år, men under samma labb fick några laboranter idén att som extrauppgift inte studera energiöverföring mellan
-diskar, utan mellan raketbränsle och en raket. De fick [XP-verkstaden](https://x-p.nu/) att bygga dem en liten
-raketmotor. Att brandvarnaren i labbsalen tejpades för visade sig nyttigt när hela rummet rökfylldes under det första av
-tre experiment som vart och ett avslutades genom att steg för steg släppa ut röken i korridoren i hopp om att inte
-trigga de optiska brandvarnarna utanför salen.
-
-En annan episod utspelar sig utanför labbsalen, då några IPT-laboranter inser sitt behov av en platt yta att droppa
-vätska (av annat bestånd än vatten) på. Så sent på natten var det tomt i sektionslokalen Focus, och vad fanns inte där
-om platta glasskivor i form av ugnsglas? Man extraherade därför ett ugnsglas och tog det till ett trapphus i
-fysikforskarhuset där man från trettio meters höjd droppade vätska på glaset. Detta gick utmärkt tills dess att
-droppröret tappades och med nöd och näppe missade glaset. För denna episod nominerades upphovspersonen till en
-[dumväst](https://ftek.se/dumvast/), men styret förbjöd nomineringen från att nämnas vid sektionsmötet då det var "för
-dumt".
-
-### Fysikhusets fanstång
-
-F-sektionen ville ha en flaggstång för att hänga sektionsflaggan i, men då man ringde in till kommunen för att be om
-tillstånd att sätta upp en flaggstång fick man nej då det finns regler för var flaggstänger får och inte får sättas upp.
-Man kom då på idén att måla flaggstången svart och kalla den för fanstång, ty fanstänger finns det inga regler för.
-Därför är det ingen svart flaggstång på fysikhusets tak, utan en fanstång.
-
-### Finger
-
-Linuxkommandot [`finger`](https://linux.die.net/man/1/finger) visar information om en användare, och en 255:a bestämda
-sig för att göra en lek av detta genom att räkna antalet gånger någon kört `finger` mot dennes användare och visa
-resultatet i en scoreboard. Snart hade flera personer startat skript som loopade `finger` för att komma högst upp på
-scoreboarden. När det närmade sig tentaperioden bestämde sig en annan 255:a för att prokrastinera genom att försöka ta
-topplatsen i `finger`-listan, men hur skulle det gå till? Försprånget de andra tävlande hade var mycket stort. Han
-började med en vanlig loop, startad i [`screen`](https://linux.die.net/man/1/screen) så att skriptet inte skulle dö när
-man loggade ut. Dock fungerade detta inte alltid, och skriptet dog ändå efter ett tag. Hur löser man detta problem? Jo,
-skriptet kör sin loop, men efter ett tag startar det en kopia av sig själv på en annan dator så att det alltid finns
-minst en skriptinstans körande. Man inser dock snabbt efter att ha startat igång ett sådant skript att detta
-tillvägagångssätt leder till exponentiell tillväxt av antalet körande processer -- en
-[forkbomb](https://en.wikipedia.org/wiki/Fork_bomb). Hela denna olycka hade orsakats medans upphovspersonen var
-fjärransluten till skoldatorerna i DD, och denne upptäckte inte att något var fel förrän fjärrsessionen plötsligt bröts.
-Han försökte då fjärransluta till andra datorer i samma datorsal utan att lyckas. Nu hade vår 255:a en tanke om vad som
-hade hänt och sprang så in till campus för att se datorerna i person. I dörren möter han en phadder som säger att
-datorerna i DD är nere. Anledningen till att vår 255:a fick [dumvästen](https://ftek.se/dumvast/) var att han på detta
-svarade "Jag vet!".
-
-Till minne av denna episod komponerades [en vers till sången Solen](/verser#solen). Det finns även en förklaring till
-raden "I morgon gör jag likadant" men det är en annan historia.
-
-### Förkylningsrisk
-
-En dag fick [Chalmers barockensemble](https://www.chalmersbarockensemble.se/) en förfrågan: Kunde de med mindre än en
-månads varsel tänka sig att spela fyra timmar utomhus i ruskig höst på ett lastbilsflak fyllt med vatten som del av en
-musikvideoinspelning? Ensemblen försäkrades att allt var under kontroll. Att instrument och vatten inte går bra ihop
-behövde man inte oroa sig för, och mellan tagningarna skulle man kunna värma sig runt en brasa i ett oljefat. Dock
-avböjde ensemblen om inte annat med hänvisning till den föreslagna betalningen samt risken för förkylning.
-
-### Ifrågasättbar orienteringsförmåga
-
-En 255:a bosatt på Olofshöjd visade prov på sin ifrågasättbara orienteringsförmåga genom att varje morgon promenera ned
-till Korsvägen för att därifrån ta spårvagn till Chalmers istället för att promenera den mycket kortare biten direkt
-till campus Johanneberg. Det hela upptäcktes när en annan 255:a följde med vår huvudperson till Willys hemma på Viktor
-Rydbergsgatan där denne brukade handla varpå han plötsligt stannade mitt på gatan och förtvivlat utbrast "Näe, det är
-inte så här nära!"
-
-### Linuxintro
-
-Då 255:an Von som nollan gick på en av sina linuxintro-labbar i KINSLS dök labbhandledaren inte upp. Handledaren var
-känd för att vara ganska krånglig och obrydd. Men då ställde sig Von, som redan var bekant med linux, spontant upp och
-tog över föreläsningen och räddade labben. Efter denna dag lobbade kursutvärderarna för att Von skulle få fortsätta som
-labbhandledare nästa år, vilket han fick.
-
-Under linuxintron ett annat år ville en annan 255-nolla lära sig om bakgrundsjobb och redirects så provade därför
-kommandot
-
-```bash
-nohup yes > fil
-```
-
-men ingenting intressant verkade hända. Efter ett tag började dock datorn bli lite trög, så nollan tänkte logga in och
-logga ut igen. Efter en mycket utdragen utloggningsanimering försökte nollan logga in igen, men varje tecken tar lång
-tid att skriva. Efter ett tag kommer labbhandledarna och gör en norsk omstart.
-
-Möjligtvis inspirerat av dessa två episoder infördes under några år en bonusfråga i linuxintron, tänkt för att de som
-redan hade ett gott grepp om linux inte skulle behöva sitta igenom den annars obligatoriska introduktionen. Frågan var
-formulerad som att förklara vad ett kommando gör. Kommandot i frågan var en obfuskerad
-[forkbomb](https://en.wikipedia.org/wiki/Fork_bomb), så att om någon obetänksam student som inte visste mycket om linux
-försökte köra programmet för att se vad det gjorde skulle dennes dator dö en död som påkallade labbhandledarnas
-uppmärksamhet.
-
-### Nollanstädet
-
-För länge sedan under nollanstädet av [Focus](https://ftek.se/sektionslokal/) under det att sektionslokalen höll på att
-byggas om kunder en 255:a inte hitta lampknappen för att släcka efter sig när städet var klart. Han hittade dock en
-öppen strömbrytare som han stoppade in sin penna i för att komma åt knappen inne i uttaget. Till och med 255:an Gustav
-som var vänd bort såg ljusblixten som följde, men alla var oskadda och ljuset i Focus slocknade, så slutet gott allting
-gott.
-
-### Prisma
-
-Då 255:an Anka hade tråkigt en eftermiddag tänkte han försöka läras sig PostScript - det programmeringsspråk som används
-på skrivare för att beskriva layout på utskrifter. Anka kände dock inte för att börja med "Hello World", utan bestämde
-sig istället för ett bättre första program: En oändlig loop! För att inte få slut på PQ var Anka klipsk nog att inte
-placera loopen så att utskriften fick oändligt många sidor, utan istället en den del av programmet innan själva
-sidlayouten definieras. När detta skrivarjobb skickades till Chalmers utskriftssystem Prisma låste sig inte bara en
-printer utan hela Prismas utskriftskö och inga fler utskrifter skedde på Chalmers den dagen, samma dag som F hade en
-stor kvantinlämning.
-
-### Stor inlämning
-
-En F-student skulle skriva ut sin EP-labbrapport på 15-20 sidor i samma veva som man skrev ut planscher för muntliga
-presentationer. Så kom det sig att studenten fick vänta ovanligt länge innan skrivaren började spotta ur sig det första
-arket, och när det till sist började matas ut insåg studenten till sin fasa att utskriften påbörjats i A1-format. I sin
-skam lämnade han skrivarrummet och gick därifrån medans utskriften fortsatte.
-
-Då nästa grupp skulle skriva ut sin rapport upptäcktes bunten med A1-papper vilket ledde till en
-[dumväst](https://ftek.se/dumvast/)nominering. Till utdelningen av dumvästen hade examinatorn i EP-momentet bjudits in
-och godkände rapporten, som rent innehållsmässigt var välskriven, med en jättestor signatur på förstasidan.
 
 # Förkortningsordlista
 
