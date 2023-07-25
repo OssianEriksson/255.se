@@ -1,0 +1,27 @@
+---
+title: Galleri
+keywords: bilder konst
+---
+
+<script lang="ts">
+  import doc02111320230723143458fin from '$lib/assets/gallery/konst/doc02111320230723143458fin.jpg?w=400;800&format=webp&Image';
+
+  import Showcase from './Showcase.svelte';
+  import { Image } from '$lib/images';
+</script>
+
+# {title}
+
+Mediaalbum av olika slag.
+
+<Showcase href="/galleri/konst" thumbnail={doc02111320230723143458fin}>
+
+## Konst
+
+eller
+
+### Diverse uträkningar
+
+av Bönmannen, 2021-2023
+
+</Showcase>

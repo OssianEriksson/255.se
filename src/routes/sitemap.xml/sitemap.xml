@@ -18,6 +18,11 @@
     <priority>0.1</priority>
   </url>
   <url>
+    <loc>${origin}/galleri</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>${origin}/kr%C3%B6nikor</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -1,0 +1,23 @@
+---
+title: Konst eller Diverse anteckningar
+---
+
+<script lang="ts">
+  const sources = Object.values(import.meta.glob('$lib/assets/gallery/konst/*.*', {
+    import: 'default',
+    eager: true,
+    query: { w: '400;full', format: 'webp', Image: true },
+  }))
+
+  import { Image, GalleryGrid } from '$lib/images';
+</script>
+
+# {title}
+
+av Bönmannen, 2021-2023
+
+<GalleryGrid>
+
+{#each sources as src} <Image {src} delayed /> {/each}
+
+</GalleryGrid>

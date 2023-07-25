@@ -36,6 +36,10 @@
           text: 'Recensioner',
           href: '/recensioner',
         },
+        {
+          text: 'Galleri',
+          href: '/galleri',
+        },
       ],
     },
     {
