@@ -1,4 +1,4 @@
-<script type="ts">
+<script lang="ts">
   import { page } from '$app/stores'
 
   // we don't want to use <svelte:window bind:online> here, because we only care about the online state when the page
