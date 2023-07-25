@@ -1,4 +1,5 @@
 <script lang="ts">
+  import type { HTMLAnchorAttributes } from 'svelte/elements'
   import { onMount } from 'svelte'
 
   import type { Obfuscated } from '.'
@@ -6,13 +7,14 @@
 
   export let href: Obfuscated
 
-  let clazz = ''
-  export { clazz as class }
+  type $$Props = Omit<HTMLAnchorAttributes, 'href'> & {
+    href: Obfuscated
+  }
 
   let plaintext = ''
   onMount(() => (plaintext = deobfuscate(href)))
 </script>
 
-<a class={clazz} href={plaintext}>
+<a {...$$restProps} href={plaintext}>
   <slot />
 </a>
