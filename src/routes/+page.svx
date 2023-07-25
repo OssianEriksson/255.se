@@ -1,7 +1,7 @@
-<script type="ts">
-  import img from '$lib/assets/255.png?w=400;800;1200&format=avif;webp&Image';
+<script lang="ts">
+  import img from '$lib/assets/255.png?w=400;800;1200&format=webp&Image';
   import logo2022 from '$lib/assets/logo-2022.svg';
-  import Image from '$lib/Image.svelte';
+  import { Image } from '$lib/images';
 </script>
 
 <!-- cSpell:words Renneby -->
@@ -20,7 +20,7 @@ finns många båda nyantagna och gamla studenter, doktorander och utexaminerade 
 
 <div class="flex flex-wrap items-center justify-center gap-x-20 gap-y-4">
 
-<Image src={img} class="w-128" />
+<Image src={img} class="w-128" sizes="min(100vw,32rem)" />
 
 <Image src={logo2022} class="w-56" />
 
