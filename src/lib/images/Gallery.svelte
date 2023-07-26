@@ -101,7 +101,7 @@
     on:mousemove={onMouseMove}
   >
     <Image
-      class="max-w-full max-h-full top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
+      class="max-h-full top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
       src={sources[index]}
       sizes="100vw"
       gallery={false}
