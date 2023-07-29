@@ -3,8 +3,8 @@ title: Sångverser
 keywords: sittning sånghäfte
 ---
 
-<!-- cSpell:words Kumlin -->
-<!-- cSpell:ignore klyvar- klyvarbon krävam skepparm nåsem tumgam skepparms Systeme Imperiale barl. övrs -->
+<!-- cSpell:words Kumlin Tavaritj -->
+<!-- cSpell:ignore klyvar- klyvarbon krävam skepparm nåsem tumgam skepparms Systeme Imperiale barl. övrs Sicka Fiskarelivet Tavar- komm- -->
 
 # {title}
 
@@ -47,6 +47,42 @@ Där ham satt uti bleket
 Jag vill ha sill, hördes nåsem rope  
 Och skepparm svarte: Jag vill ha OP  
 On blott jag får, on blott jag får
+
+### Måsen utan måsen
+
+(Först sjungen under nollan 2022:s tacksittning på våren 2023)
+
+Det satt en på en klyvarbom och  
+Tom i krävan var kräket och  
+Tungan lådde vid skeppar'ns gom där  
+Han satt uti bleket jag  
+Vill ha sill hördes rope och skeppar'n  
+Svarte jag vill ha: OP om blott jag  
+Får om blott jag, får mellan sup
+
+## Dragos Dragos
+
+### 255
+
+(Skriven av 3 till nollan 2022:s tacksittning på våren 2023)
+
+När jag kom till F så togs jag in av ett nytt hem  
+Det var en grupp av nördar som kallas två fem fem  
+Sicka killar hoppas att de FinPhaddrar igen  
+Vi är F:are till vår död
+
+Dragos Dragos ...
+
+### Valen Åke
+
+(Skriven av 3 till nollan 2022:s tacksittning på våren 2023)
+
+Uti Träslövsläges hamn de hittade en val  
+Valde då att spara dess skelett i en stor sal  
+Hedersmedlem Åke fick ett mycket lätt inval  
+Han blev F:are vid sin död
+
+Dragos Dragos ...
 
 ## Gamla punschvisan (kall)
 
@@ -91,3 +127,19 @@ _centner uns per kubik kabel gross_
 _barleycorn per jiffy kvadrat_  
 _barleycorn per jiffy kvadrat_  
 _farad!_
+
+## Livet
+
+### Fiskarelivet
+
+(Skriven av bl.a. Torsken och 3, först sjungen under nollan 2022:s tacksittning på våren 2023)
+
+Fiskarelivet  
+är härligt Tavaritj vårt fisk-  
+areliv är härligt Vi alla våra  
+små bekymmer glömmer När vi har fått!  
+en tår på tand en  
+skål Tag dig en vodka Tavar-  
+itj en liten vodka Glasen i botten  
+vi tillsammans tömmer Det komm-  
+er!
