@@ -94,5 +94,6 @@
     "Zaloonen",
     "Λαyωt"
   ],
-  "cSpell.ignoreWords": ["FnollK", "webp", "clazz", "tailwindcss", "MDsveX"]
+  "cSpell.ignoreWords": ["FnollK", "webp", "clazz", "tailwindcss", "MDsveX"],
+  "cSpell.enabled": true
 }
