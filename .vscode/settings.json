@@ -33,6 +33,8 @@
     "ftek",
     "fulphaddrar",
     "fysikteknologsektionen",
+    "Gasquearrangörer",
+    "Gasquen",
     "Gaussiska",
     "görmånga",
     "Gõta",
@@ -94,6 +96,6 @@
     "Zaloonen",
     "Λαyωt"
   ],
-  "cSpell.ignoreWords": ["FnollK", "webp", "clazz", "tailwindcss", "MDsveX"],
+  "cSpell.ignoreWords": ["FnollK", "webp", "clazz", "tailwindcss", "MDsveX", "GasqueK"],
   "cSpell.enabled": true
 }
