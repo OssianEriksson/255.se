@@ -1,0 +1,25 @@
+---
+title: Lustigheter
+---
+
+<script lang="ts">
+  const sources = Object.values(import.meta.glob('$lib/assets/gallery/lustigheter/*.*', {
+    import: 'default',
+    eager: true,
+    query: { w: '400;full', format: 'webp', Image: true },
+  }))
+
+  import { Image, GalleryGrid } from '$lib/images';
+  import { ObfuscatedAnchor, MAILTO_HELLO_DANCIS_SE } from '$lib/obfuscated-anchor';
+</script>
+
+# {title}
+
+av Dancis, 2022-2023. Har du egna bilder som du tycker passar här är du högst välkommen att skica dem till
+<ObfuscatedAnchor class="hover:underline" href={MAILTO_HELLO_DANCIS_SE}>Webbansvarig</ObfuscatedAnchor>.
+
+<GalleryGrid>
+
+{#each sources as src} <Image {src} delayed /> {/each}
+
+</GalleryGrid>
