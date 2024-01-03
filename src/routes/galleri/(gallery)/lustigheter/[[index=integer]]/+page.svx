@@ -15,8 +15,10 @@ title: Lustigheter
 
 # {title}
 
-av Dancis, 2022-2023. Har du egna bilder som du tycker passar här är du högst välkommen att skica dem till
+<p>
+av Dancis, 2022-2023. Har du egna bilder som du tycker passar här är du högst välkommen att skicka dem till
 <ObfuscatedAnchor class="hover:underline" href={MAILTO_HELLO_DANCIS_SE}>Webbansvarig</ObfuscatedAnchor>.
+</p>
 
 <GalleryGrid>
 
