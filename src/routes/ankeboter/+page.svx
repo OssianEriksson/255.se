@@ -7,14 +7,14 @@ keywords: anekdoter historia
 <!-- cSpell:ignore nohup roooll -->
 
 <script lang="ts">
-  import { ObfuscatedAnchor, MAILTO_HELLO_DANCIS_SE } from '$lib/obfuscated-anchor'
+  import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/obfuscated-anchor'
 </script>
 
 # {title}
 
 Några ankeboter (anekdoter) av varierande sanningsgrad. Alla med bra Chalmershistorier är högst välkomna att bidra,
-mejla gärna <ObfuscatedAnchor class="hover:underline" href={MAILTO_HELLO_DANCIS_SE}>Webbansvarig</ObfuscatedAnchor>.
-Sidan inleds med allmänna Chalmersankeboter för att sedan övergå till mer personliga berättelser av 255:or.
+mejla gärna <ObfuscatedAnchor class="hover:underline" href={MAILTO_SITE_ADMIN}>Webbansvarig</ObfuscatedAnchor>. Sidan
+inleds med allmänna Chalmersankeboter för att sedan övergå till mer personliga berättelser av 255:or.
 
 ## Ankeboter ur historien
 

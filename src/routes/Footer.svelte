@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { ObfuscatedAnchor, MAILTO_HELLO_DANCIS_SE } from '$lib/obfuscated-anchor'
+  import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/obfuscated-anchor'
   import { page } from '$app/stores'
 </script>
 
@@ -8,7 +8,7 @@
     <a class="hover:underline" href={`https://github.com/OssianEriksson/255.se/tree/main/src/routes${$page.route.id}`}>
       Redigera på GitHub
     </a>
-    | <ObfuscatedAnchor class="hover:underline" href={MAILTO_HELLO_DANCIS_SE}>Webbansvarig</ObfuscatedAnchor>
+    | <ObfuscatedAnchor class="hover:underline" href={MAILTO_SITE_ADMIN}>Webbansvarig</ObfuscatedAnchor>
     | {new Date().getUTCFullYear()}
   </span>
 </div>
