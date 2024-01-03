@@ -1,5 +1,5 @@
 <script lang="ts">
-  import img from '$lib/assets/255.png?w=400;800;1200&format=webp&Image';
+  import img from '$lib/assets/255.png?w=400;800;1200&format=webp&as=Image';
   import logo2022 from '$lib/assets/logo-2022.svg';
   import { Image } from '$lib/images';
 </script>

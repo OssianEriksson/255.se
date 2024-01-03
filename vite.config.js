@@ -18,7 +18,7 @@ const imageFormat = () => (metadatas) => {
     formats[meta.format].push(meta)
   })
 
-  /** @type {import('&Image').Srcset[]} */
+  /** @type {import('&as=Image').Srcset[]} */
   const sources = Object.entries(formats).map(([format, metas]) => ({
     srcset: metas.map((meta) => `${meta.src} ${meta.width}w`).join(', '),
     type: `image/${format}`,
@@ -57,7 +57,7 @@ const config = {
         return out.map((directives) => {
           if ('Image' in directives) {
             return Object.fromEntries(
-              Object.entries(directives).filter(([key, values]) => key !== 'w' || values !== 'full')
+              Object.entries(directives).filter(([key, values]) => key !== 'w' || values !== 'full'),
             )
           }
           return directives

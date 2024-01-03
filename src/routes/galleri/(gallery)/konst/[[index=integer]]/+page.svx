@@ -6,7 +6,7 @@ title: Konst eller Diverse anteckningar
   const sources = Object.values(import.meta.glob('$lib/assets/gallery/konst/*.*', {
     import: 'default',
     eager: true,
-    query: { w: '400;full', format: 'webp', Image: true },
+    query: { w: '400;full', format: 'webp', as: 'Image' },
   }))
 
   import { Image, GalleryGrid } from '$lib/images';

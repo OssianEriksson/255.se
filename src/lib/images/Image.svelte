@@ -1,5 +1,5 @@
 <script lang="ts" context="module">
-  export type Src = import('&Image').Source | `${string}.svg`
+  export type Src = import('&as=Image').Source | `${string}.svg`
 </script>
 
 <script lang="ts">
@@ -35,7 +35,7 @@
     galleryContext.updateImage(galleryIndex, src)
   }
 
-  let source: import('&Image').Source
+  let source: import('&as=Image').Source
   $: source =
     typeof src === 'string'
       ? {
@@ -96,6 +96,8 @@
   on:enterViewport|once={onEnterViewport}
   on:click={onClick}
   on:keypress={onClick}
+  role="button"
+  tabindex="-1"
 >
   {#if startLoad}
     <picture class="absolute top-0 left-0 w-full h-full">

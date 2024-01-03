@@ -4,8 +4,8 @@ keywords: bilder konst
 ---
 
 <script lang="ts">
-  import calculations from '$lib/assets/gallery/konst/doc02111320230723143458fin.jpg?w=400;800&format=webp&Image';
-  import OPAndersson from '$lib/assets/gallery/lustigheter/20230402_201728.jpg?w=400;800&format=webp&Image';
+  import calculations from '$lib/assets/gallery/konst/doc02111320230723143458fin.jpg?w=400;800&format=webp&as=Image';
+  import OPAndersson from '$lib/assets/gallery/lustigheter/20230402_201728.jpg?w=400;800&format=webp&as=Image';
 
   import Showcase from './Showcase.svelte';
   import { Image } from '$lib/images';

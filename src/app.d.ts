@@ -16,7 +16,7 @@ declare namespace svelteHTML {
   }
 }
 
-declare module '*&Image' {
+declare module '*&as=Image' {
   export type Srcset = { srcset: string; type: string }
 
   export type Source = {

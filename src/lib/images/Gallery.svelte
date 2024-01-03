@@ -99,6 +99,8 @@
     on:click={toggleUIVisible}
     on:keypress={toggleUIVisible}
     on:mousemove={onMouseMove}
+    role="button"
+    tabindex="-1"
   >
     <Image
       class="max-h-full top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
