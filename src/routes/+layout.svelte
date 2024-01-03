@@ -33,6 +33,10 @@
       },
       dropdown: [
         {
+          text: 'Ordlista',
+          href: '/ordlista',
+        },
+        {
           text: 'Recensioner',
           href: '/recensioner',
         },
