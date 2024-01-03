@@ -145,6 +145,15 @@ Fast-Fourier-Transform-algoritmen på vektorn, och det alternativ vars index i d
 realdel vinner. Ett smidigt MATLAB-skript skrivet år 2022 av Eken för att bistå i omröstningsprocessen finns
 tillgängligt [här](/scripts/FFTVoting.m).
 
+## CFD
+
+Man förbereder en flödessimulering och placerar för varje alternativ ut en punkt på inloppsarean. För ökad rättvisa bör
+övriga randvillkor, förutom vid utloppsarean, vara periodiska. De röstberättigade får sedan en i taget definiera ett
+hinder i flödet. Man behöver alltså först, förslagsvis med röstsystemet [Sverige](#sverige) komma överens om dels en
+inbördes ordning, dels regler för vilka hinder som anses tillåtna (t.ex. hur stora de får vara, hur komplex geometri de
+får ha o.s.v.). Därefter simuleras flödet, och det alternativ som motsvarar den punkt på inloppsarean som först når
+utloppsarean vinner.
+
 ## Battle of Wits
 
 Röstberättigade kan nominera sig själva till snille. Alla röstberättigade väjer sedan genom
