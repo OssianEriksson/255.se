@@ -92,10 +92,10 @@
     <slot />
   </GalleryGrid>
 {/if}
-{#if typeof index !== 'undefined' && index >= 0 && index < sources.length}
+{#if typeof index !== 'undefined' && Number.isInteger(index) && index >= 0 && index < sources.length}
   <div
     transition:fade={{ duration: transDuration }}
-    class="fixed h-full w-full bg-white top-0 left-0"
+    class="cursor-default fixed h-full w-full bg-white top-0 left-0"
     on:click={toggleUIVisible}
     on:keypress={toggleUIVisible}
     on:mousemove={onMouseMove}

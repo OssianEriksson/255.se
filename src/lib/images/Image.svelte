@@ -20,6 +20,9 @@
   let clazz = ''
   export { clazz as class }
 
+  let clientWidth: number
+  let isHovering: boolean = false
+
   let galleryIndex: number
   if (galleryContext) {
     galleryIndex = galleryContext.registerImage(src)
@@ -90,12 +93,19 @@
 </script>
 
 <div
-  class={`${clazz}${galleryContext ? ' hover:scale-105 transition-transform cursor-pointer rounded my-4' : ''}`}
-  style={'position: relative' + (source.aspect ? `; aspect-ratio: ${source.aspect}` : '')}
+  class={`${clazz}${galleryContext ? ' transition-transform rounded mb-4' : ' cursor-default'}`}
+  style={`position: relative${source.aspect ? `; aspect-ratio: ${source.aspect}` : ''}${
+    galleryContext && isHovering ? `; transform: scale(${(clientWidth + 10) / clientWidth})` : ''
+  }`}
+  bind:clientWidth
   use:viewport={{ rootMargin: '512px' }}
   on:enterViewport|once={onEnterViewport}
   on:click={onClick}
   on:keypress={onClick}
+  on:focus={() => (isHovering = true)}
+  on:blur={() => (isHovering = false)}
+  on:mouseover={() => (isHovering = true)}
+  on:mouseout={() => (isHovering = false)}
   role="button"
   tabindex="-1"
 >

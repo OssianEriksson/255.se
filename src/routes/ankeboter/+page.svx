@@ -3,11 +3,18 @@ title: Ankeboter
 keywords: anekdoter historia
 ---
 
-<!-- cSpell:words Ertl Ertls Isemo Kallemedalj Kallemedaljen Olgastr Olgastraße PRIBO Rippe Rydé Santén Suède -->
-<!-- cSpell:ignore nohup roooll -->
+<!-- cSpell:words Ertl Ertls Isemo Kallemedalj Kallemedaljen Maskinavnjutare Maskinofil Olgastr Olgastraße PRIBO Rippe Rydé Santén Suède -->
+<!-- cSpell:ignore nohup roooll tricontourf -->
 
 <script lang="ts">
   import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/obfuscated-anchor'
+  import programmering from '$lib/assets/infiltration/programmering.png?w=400;full&format=webp&as=Image';
+  import matte from '$lib/assets/infiltration/matte.png?w=400;800;full&format=webp&as=Image';
+  import tricontourf from '$lib/assets/infiltration/tricontourf.png?w=400;full&format=webp&as=Image';
+  import machinist from '$lib/assets/infiltration/machinist.png?w=full&format=webp&as=Image';
+  import strike from '$lib/assets/infiltration/strike.png?w=full&format=webp&as=Image';
+  import admin from '$lib/assets/infiltration/admin.png?w=full&format=webp&as=Image';
+  import { Image, Gallery } from '$lib/images';
 </script>
 
 # {title}
@@ -381,6 +388,42 @@ till Korsvägen för att därifrån ta spårvagn till Chalmers istället för at
 till campus Johanneberg. Det hela upptäcktes när en annan 255:a följde med vår huvudperson till Willys hemma på Viktor
 Rydbergsgatan där denne brukade handla varpå han plötsligt stannade mitt på gatan och förtvivlat utbrast "Näe, det är
 inte så här nära!"
+
+### Infiltration
+
+<Gallery noGrid>
+
+Under mottagningen ett år lyckades en 42:a få syn på en QR-kod som ledde till en Discord-guild (Discord-grupper är inte
+servrar, utan kallas mer korrekt för _guilder_) avsedd för Maskinnollan. Denna person spred sedan inbjudningslänken
+vidare till andra 42:or och 255:or som också tog chansen att gå med i guilden. Man tog sig namn som "Maskinälskaren",
+"Maskin {'<'}3 {'<'}3 {'<'}3", "Maskinavnjutare", "Maskin är gott och nyttigt", "Maskinbeundrare", "Maskinofil" (allt
+som allt gick omkring 20 fysikare med) och tog tillfället i akt att rollspela som maskinnollan. Nedan följer några
+exempel på konversationer mellan infiltratörer och maskinnollan:
+
+<div class="flex flex-wrap items-center justify-center gap-x-20 gap-y-4">
+<Image src={programmering} class="w-128" sizes="min(100vw, 32rem)" />
+<Image src={machinist} class="w-128" sizes="min(100vw, 32rem)" />
+<Image src={matte} class="w-128" sizes="min(100vw, 32rem)" />
+<Image src={tricontourf} class="w-128" sizes="min(100vw, 32rem)" />
+</div>
+
+(255:an som förvirrande nog kallar sig för Maskinist42 försäkrar att han verkligen försökte hjälpa till med uppgift 7.1
+b), men inte hann göra den samma dag. Han blev mycket besviken när det visade sig att inlämningen inte kunde vänta tills
+imorgon.)
+
+Efter någon tid uppenbarade sig en otrolig möjlighet:
+
+<div class="flex justify-center">
+<Image src={strike} class="w-128" sizes="min(100vw, 32rem)" />
+</div>
+
+Och till slut kunde den ultimata infiltrationen rapporteras tillbaks till 255 och 42:ans gemensamma Discord:
+
+<div class="flex justify-center">
+<Image src={admin} class="w-128" sizes="min(100vw, 32rem)" />
+</div>
+
+</Gallery>
 
 ### Linuxintro
 

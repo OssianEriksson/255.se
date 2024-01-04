@@ -1,6 +1,9 @@
 {
   "svelte.enable-ts-plugin": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
   "files.associations": {
     "*.svx": "markdown"
   },
@@ -37,6 +40,7 @@
     "fortsan",
     "ftek",
     "fulphaddrar",
+    "fysikare",
     "fysikteknologsektionen",
     "Gasquearrangörer",
     "Gasquen",
