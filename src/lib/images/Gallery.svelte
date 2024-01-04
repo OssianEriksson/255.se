@@ -13,6 +13,7 @@
   import { setContext, createEventDispatcher, onMount } from 'svelte'
   import { fade } from 'svelte/transition'
   import { Image, GalleryGrid, galleryKey } from '.'
+
   import MdClose from 'svelte-icons/md/MdClose.svelte'
   import MdChevronLeft from 'svelte-icons/md/MdChevronLeft.svelte'
   import MdChevronRight from 'svelte-icons/md/MdChevronRight.svelte'

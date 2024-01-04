@@ -38,3 +38,6 @@ declare const tailwindcss: {
     theme: DeepPartial<import('tailwindcss/types/generated/default-theme').DefaultTheme>
   }
 }
+
+// Remove after svelte-icons gets typescript support
+declare module 'svelte-icons/*'
