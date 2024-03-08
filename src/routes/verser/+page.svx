@@ -60,6 +60,36 @@ Jag vill ha sill, hördes nåsem rope
 Och skepparm svarte: Jag vill ha OP  
 On blott jag får, on blott jag får
 
+### Gammalgrekiska måsen
+
+(Skriven av Potatis, sjöngs under 255:s tack²-sittning och sektionsmiddagen(!) 2024)
+
+<!-- cSpell: disable -->
+
+ΙΖΑΝΕ ΛΑΡΟΣ ΕΠΙ ΙΣΤΩΙ  
+ΛΙΜΗΡΟΝ ΗΝ ΜΕΝ ΤΟ ΖΩΙΟΝ  
+ΔΙΨΗΡΟΣ ΗΝ ΔΕ Ο ΝΑΥΤΙΛΟΣ  
+ΕΝΘΑ ΙΖΑΝΕ ΕΝ ΑΛΜΗΙ  
+ΒΟΥΛΟΜΑΙ ΙΧΘΥΝ Ο ΛΑΡΟΣ ΕΙΠΕΝ  
+ΑΝΗΡ ΔΕ ΕΙΠΕΝ ΒΟΥΛΟΜΑΙ ΩΠ  
+ΕΙΚ ΕΞΕΣΤΙΝ, ΕΙΚ ΕΞΕΣΤΙΝ
+
+<!-- cSpell: enable -->
+
+_Uttalshjälp:_
+
+<!-- cSpell: disable -->
+
+_hiz-da-ne la-ros e-pi his-tåj_  
+_li-mä-ron än men to zdåj-on_  
+_dip-sä-ros än de ho nau-ti-los_  
+_en-tha hiz-da-ne en hal-mäj_  
+_bou-lo-maj ich-thyn ho la-ros ee-pen_  
+_ha-när de ee-pen bou-lo-maj å-pi_  
+_eek ek-ses-tin, eek ek-ses-tin_
+
+<!-- cSpell: enable -->
+
 ### Måsen utan måsen
 
 (Först sjungen under nollan 2022:s tacksittning på våren 2023)
@@ -127,7 +157,7 @@ barl./jiffy²
 barl./jiffy²  
 F!
 
-_övrs:_
+_Uttalshjälp:_
 
 _hästkrafter pund mile weber kvartal_  
 _mho sjömil tesla ampere tunnland famn gon_  
