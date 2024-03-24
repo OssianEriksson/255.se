@@ -3,7 +3,7 @@ title: Sångverser
 keywords: sittning sånghäfte
 ---
 
-<!-- cSpell:words Kumlin Tavaritj Sakka -->
+<!-- cSpell:words Kumlin Tavaritj Sakka Trysilresa -->
 <!-- cSpell:ignore klyvar- klyvarbon krävam skepparm nåsem tumgam skepparms Systeme Imperiale barl. övrs Sicka Fiskarelivet Tavar- komm- -->
 
 # {title}
@@ -90,27 +90,49 @@ _eek ek-ses-tin, eek ek-ses-tin_
 
 <!-- cSpell: enable -->
 
+<!-- cSpell: disable -->
+
+### Fôgglen
+
+<!-- cSpell: enable -->
+
+(Skriven av Torsken på [FIF](https://ftek.se/fif/) 2023/2024:s Trysilresa där Grums kom på tal "många gånger fler än vad
+hålan förtjänar". Sjöngs sedan bl.a. på 255:s tack²- och tack³-sittningar samma år.)
+
+<!-- cSpell: disable -->
+
+Dä va e fôggel som flög te Grums,  
+had' möe grôschel i plôska  
+Han skôlle köpe nävgröt te lunch,  
+dretsvôlten rop' han ôt pôjkera:  
+"Kôm hit me fläsket, o ge mej lingôn!"  
+Di svare "Glôpen e man i Stôckhôlm"  
+Allt som han feck:  
+En feschli' fesk
+
+<!-- cSpell: enable -->
+
 ### Kinesiska måsen
 
 (Skriven av Boris, först sjungen under tack$^n$-sittningarna 2023/2024. Titeln är dock en efterkonstruktion.)
 
-Längst upp i klyftan satt Sakka.  
-Det jag förväntade mig var att kräkas.  
-Han rörde vid huvudet med tungan.  
-och gul senna.  
-Jag vill höra havets brus.  
-Allmänt: Jag vill ha OP.  
-Jag vill träffa dig.
+Längst upp i klyftan satt Sakka  
+Det jag förväntade mig var att kräkas  
+Han rörde vid huvudet med tungan  
+och gul senna  
+Jag vill höra havets brus  
+Allmänt: Jag vill ha OP  
+Jag vill träffa dig
 
 (Foto av Helen)
 
-Nu är Gil ganska cool.  
-Och tåget blåste.  
+Nu är Gil ganska cool  
+Och tåget blåste  
 OP värmde kaptenens läppar;  
-Jag vill se.  
+Jag vill se  
 Gläds åt lidande  
-Armbandet är original.  
-Skicka föräldrar till havet i ett och ett halvt år.
+Armbandet är original  
+Skicka föräldrar till havet i ett och ett halvt år
 
 (halvt ris)
 
