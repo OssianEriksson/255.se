@@ -6,6 +6,8 @@ title: Filmer
 
 # Filmer
 
+Se även [recensioner](/recensioner#filmer) av urvalda filmer.
+
 - 2001 - A Space Odyssey (1968)
 - 2081 (2009)
 - Action of the Tiger (1957)
@@ -41,7 +43,7 @@ title: Filmer
 - Cube (1997)
 - Dance of the Drunk Mantis (1979)
 - Dark City (1998)
-- Der Führer'\''s Face (1944)
+- Der Führer's Face (1944)
 - Det Sjunde Inseglet (1957)
 - Dirty Harry (1971)
 - Doktor Mabuse, der Spieler (1922)
@@ -97,8 +99,8 @@ title: Filmer
 - Kung Fu Hustle (2004)
 - Labyrinth (1986)
 - Lawrence of Arabia (1962)
-- Legend of the Guardians - The Owls of Ga'\''Hoole (2010)
-- Logan'\''s Run (1976)
+- Legend of the Guardians - The Owls of Ga'Hoole (2010)
+- Logan's Run (1976)
 - M (1931)
 - M.A.S.H. (1970)
 - Mega Shark vs. Giant Octopus (2009)
@@ -116,13 +118,13 @@ title: Filmer
 - Nineteen Eighty-Four (1984)
 - North by Northwest (1959)
 - Nosferatu (1922)
-- Ocean'\''s 11 (1960)
+- Ocean's 11 (1960)
 - One Point O (2004)
 - Ong Bak 2 (2008)
 - Ong-Bak - The Thai Warrior (2003)
 - Operation Condor (1991)
 - Pass Thru (2016)
-- Pee-Wee'\''s Big Adventure (1985)
+- Pee-Wee's Big Adventure (1985)
 - Pi (1998)
 - Plan 9 from Outer Space (1957)
 - Predator (1987)
