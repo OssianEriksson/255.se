@@ -4,6 +4,7 @@ keywords: röst omröstning val valsystem filmkväll
 ---
 
 <!-- cSpell:words paddning handvis rutvis bogovote bogo Schulze -->
+<!-- cSpell:ignore suno.com -->
 
 # {title}
 
@@ -79,6 +80,16 @@ Man finner ett lika antal distinkta bilder på kameler, och tilldelar genom [han
 valbart alternativ till en kamel. Därefter beger man sig ut i allmänheten och ber folk välja den vackraste kamelen.
 Efter att man samlat in ett förutbestämt antal röster väljs sedan det alternativ som motsvarar den kamel som fått flest
 allmänna röster.
+
+## AI-låttävling
+
+Opartiska textbeskrivningar av varje alternativ ges till en AI (förslagsvis [suno.com](https://suno.com/)) som
+instrueras att konstruera en låt till varje alternativ utifrån dess beskrivning. De röstberättigade poängsätter därefter
+varje låt utifrån dess musikaliska kvalitet. Det vinnande alternativet är det vars motsvarande låt får flest poäng. I
+fallet då omröstningen rör val av film att se vid en filmkväll rekommenderas
+[IMDb](https://www.imdb.com/)-sammanfattningen av filmer som källa till textbeskrivningarna, ett exempel på låtar som
+genererades för omröstning vid en 255-filmkväll finns
+[här](https://suno.com/playlist/00ee1c62-e6c3-4267-8182-f7595c1dd6a1).
 
 ## [USA](https://en.wikipedia.org/wiki/Voice_vote#United_States)
 
