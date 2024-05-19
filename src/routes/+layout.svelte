@@ -138,6 +138,13 @@
       @apply mb-2;
     }
 
+    :global(h4) {
+      @apply text-lg;
+      @apply font-bold;
+      @apply mt-2;
+      @apply mb-1;
+    }
+
     :global(p) {
       @apply mt-4;
       @apply mb-4;

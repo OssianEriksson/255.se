@@ -72,7 +72,10 @@ Källa: Dancis
 ## 2020/2021
 
 Till allas förvåning hålls mottagningen i person (dock får inte fulphaddrar närvara, ens/särskilt inte under
-sittningar), men därefter stängs campus ned och hela året hålls all undervisning på distans. Snart hålls dock veckovisa
+sittningar). Phaddergrupperna delas in i "storphaddergrupper" som hålls isolerade från varandra för att minska
+smittspridningen. 255 bildar storphaddergruppen "Curie" tillsammans med 42:an, 34:an och en phaddergrupp till.
+
+Efter mottagningen stängs campus ned och hela året hålls all undervisning på distans. Snart hålls dock veckovisa
 lunchträffar i Discord, och på lördagarna spelas diverse datorspel: 5D-Chess With Multiverse Time Travel, Dwarfheim, och
 Space Station 13. Filmkvällar hålls på distans. Potatis hostar en Minecraft-server med modpacket Feed-The-Beast och en
 stor del av 255 strömmar till. Till och med urgamble Gustav frekventerar servern och delar med sig av sina livs- och

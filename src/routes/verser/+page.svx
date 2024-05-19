@@ -1,16 +1,48 @@
 ---
-title: Sångverser
+title: Sånger och verser
 keywords: sittning sånghäfte
 ---
 
-<!-- cSpell:words Kumlin Tavaritj Sakka Trysilresa -->
-<!-- cSpell:ignore klyvar- klyvarbon krävam skepparm nåsem tumgam skepparms Systeme Imperiale barl. övrs Sicka Fiskarelivet Tavar- komm- -->
+<!-- cSpell:words Kumlin Tavaritj Sakka Trysilresa Polyushko-polye -->
+<!-- cSpell:ignore klyvar- klyvarbon krävam skepparm nåsem tumgam skepparms Systeme Imperiale barl. övrs Sicka Fiskarelivet Tavar- komm- Fôgglen -->
 
 # {title}
 
-## Solen
+## Innehåll
 
-(Se [ankeboten](/ankeboter#finger) om historien bakom denna text.)
+<div class="[&_li]:list-none [&>ul]:!pl-0">
+
+- [**Ytterligare verser till befintliga sånger**](#ytterligare-verser-till-befintliga-sånger)
+  - [Solen](#solen)
+    - [DD](#dd)
+  - [Måsen](#måsen)
+    - [255](#255)
+    - [Fiskmåsen](#fiskmåsen)
+    - [Nåsem](#nåsem)
+    - [Gammalgrekiska måsen](#gammalgrekiska-måsen)
+    - [Fôgglen](#fôgglen)
+    - [Kinesiska måsen](#kinesiska-måsen)
+    - [Måsen utan måsen](#måsen-utan-måsen)
+  - [Dragos Dragos](#dragos-dragos)
+    - [255](#255-1)
+    - [Valen Åke](#valen-åke)
+- [**Fristående sånger**](#fristående-sånger)
+  - [Cubsec kommer](#cubsec-kommer)
+  - [KTH:s fel](#kths-fel)
+  - [Systeme Imperiale](#systeme-imperiale)
+  - [Fiskarelivet](#fiskarelivet)
+
+</div>
+
+<div class="[&_h3]:border-b [&_h3]:border-gray-200">
+
+## Ytterligare verser till befintliga sånger
+
+### Solen
+
+#### DD
+
+_Se [ankeboten](/ankeboter#finger) om historien bakom denna text._
 
 DD det går upp och ned doda, doda  
 Jag ska aldrig skripta mer, hej di doda dej  
@@ -22,11 +54,11 @@ I morgon gör jag likadant, hej di doda dej
 Hej di doda dej, hej di doda dej  
 I morgon gör jag likadant, hej di doda dej
 
-## Måsen
+### Måsen
 
-### 255
+#### 255
 
-(Skriven av 3 hösten 2023.)
+_Skriven av 3 hösten 2023._
 
 Men 255 är dem ur sitt vett  
 De bör var hemma och sova  
@@ -36,9 +68,9 @@ If allting gott då bör fyllan segra
 Else dra till KINSLS och programmera  
 Vi röstar väl, det trösta väl
 
-### Fiskmåsen
+#### Fiskmåsen
 
-(Troligtvis skriven av Moms och R2 ca år 2017.)
+_Troligtvis skriven av Moms och R2 ca år 2017._
 
 Det satt en fiskmås på en klyvar-  
 bom Och tom i krävan var krä-  
@@ -48,9 +80,9 @@ ket Jag vill ha sill, hördes fiskmåsen
 rope Och skeppar'n svarte: Jag vill ha  
 OP Om blott jag får, om blott
 
-### Nåsem
+#### Nåsem
 
-(Först sjungen på nollan 2018:s tacksittning inspirerat av Peter Kumlin, föreläsare i fortsan, vars n såg ut som m.)
+_Först sjungen på nollan 2018:s tacksittning inspirerat av Peter Kumlin, föreläsare i fortsan, vars n såg ut som m._
 
 Det satt em nås på em klyvarbon  
 Och ton i krävam var kräket  
@@ -60,9 +92,9 @@ Jag vill ha sill, hördes nåsem rope
 Och skepparm svarte: Jag vill ha OP  
 On blott jag får, on blott jag får
 
-### Gammalgrekiska måsen
+#### Gammalgrekiska måsen
 
-(Skriven av Potatis, sjöngs under 255:s tack²-sittning och sektionsmiddagen(!) 2024.)
+_Skriven av Potatis, sjöngs under 255:s tack²-sittning och sektionsmiddagen(!) 2024._
 
 <!-- cSpell: disable -->
 
@@ -92,12 +124,12 @@ _eek ek-ses-tin, eek ek-ses-tin_
 
 <!-- cSpell: disable -->
 
-### Fôgglen
+#### Fôgglen
 
 <!-- cSpell: enable -->
 
-(Skriven av Torsken på [FIF](https://ftek.se/fif/) 2023/2024:s Trysilresa där Grums kom på tal "många gånger fler än vad
-hålan förtjänar". Sjöngs sedan bl.a. på 255:s tack²- och tack³-sittningar samma år.)
+_Skriven av Torsken på [FIF](https://ftek.se/fif/) 2023/2024:s Trysilresa där Grums kom på tal "många gånger fler än vad
+hålan förtjänar". Sjöngs sedan bl.a. på 255:s tack²- och tack³-sittningar samma år._
 
 <!-- cSpell: disable -->
 
@@ -112,9 +144,9 @@ En feschli' fesk
 
 <!-- cSpell: enable -->
 
-### Kinesiska måsen
+#### Kinesiska måsen
 
-(Skriven av Boris, först sjungen under tack$^n$-sittningarna 2023/2024. Titeln är dock en efterkonstruktion.)
+_Skriven av Boris, först sjungen under tack$^n$-sittningarna 2023/2024. Titeln är dock en efterkonstruktion._
 
 Längst upp i klyftan satt Sakka  
 Det jag förväntade mig var att kräkas  
@@ -136,9 +168,9 @@ Skicka föräldrar till havet i ett och ett halvt år
 
 (halvt ris)
 
-### Måsen utan måsen
+#### Måsen utan måsen
 
-(Först sjungen under nollan 2022:s tacksittning på våren 2023.)
+_Först sjungen under nollan 2022:s tacksittning på våren 2023._
 
 Det satt en på en klyvarbom och  
 Tom i krävan var kräket och  
@@ -148,11 +180,11 @@ Vill ha sill hördes rope och skeppar'n
 Svarte jag vill ha: OP om blott jag  
 Får om blott jag, får mellan sup
 
-## Dragos Dragos
+### Dragos Dragos
 
-### 255
+#### 255
 
-(Skriven av 3 till nollan 2022:s tacksittning på våren 2023.)
+_Skriven av 3 till nollan 2022:s tacksittning på våren 2023._
 
 När jag kom till F så togs jag in av ett nytt hem  
 Det var en grupp av nördar som kallas två fem fem  
@@ -161,9 +193,9 @@ Vi är F:are till vår död
 
 Dragos Dragos ...
 
-### Valen Åke
+#### Valen Åke
 
-(Skriven av 3 till nollan 2022:s tacksittning på våren 2023.)
+_Skriven av 3 till nollan 2022:s tacksittning på våren 2023._
 
 Uti Träslövsläges hamn de hittade en val  
 Valde då att spara dess skelett i en stor sal  
@@ -172,9 +204,12 @@ Han blev F:are vid sin död
 
 Dragos Dragos ...
 
-## Gamla punschvisan (kall)
+## Fristående sånger
 
-(Skriven av Moms år 2022 till 25/5-sittningen.)
+### Cubsec kommer
+
+_Mel: Änkevalsen (Gamla punschvisan)_  
+_Skriven av Moms år 2022 till 25/5-sittningen._
 
 Cubsec kommer Cubsec kommer  
 Arg och sur  
@@ -186,11 +221,56 @@ Nollan måste lära
 (sig) stänga varje dörr  
 Då kommer dörren aldrig pipa mer
 
-## Systeme Internationale
+### KTH:s fel
+
+_Mel: Bögarnas fel_  
+_Skriven av Torsken, först sjungen på 1234255-sittningen 14/5-2024._
+
+Över hela denna jord (oh yeah oh yeah)  
+Sker katastrofer, terror, mord (å ack o ve)  
+Men vi som går på Chalmers har ändå ryggen fri  
+För roten till all världens ondska är inte vi  
+Nej det är KTH:s fel (KTH:s fel)  
+KTH:s fel (KTH:s fel)  
+I Beta står det skrivet "Det är KTH:s fel"  
+Jag vet inte vilken rad och sats, kapitel eller del  
+Men nånstans här i står det "Det är KTH:s fel"
+
+Att jag på janan fick ett U (KTH:s fel)  
+Och att jag är så jävla ful (KTH:s fel)  
+Och jordskalv, översvämningar och allt annat hemskt  
+Att Danmark, Finland, Skåne, Norge inte ens är svenskt  
+Ja det är KTH:s fel (KTH:s fel)  
+KTH:s fel (KTH:s fel)  
+Världen står i brand och det är KTH:s fel  
+LaTeX ej kompilerar och bilden den e sne  
+På nåt sätt kan jag känna det var KTH:s fel
+
+[Att Chalmers inte har en häst](/ankeboter#det-finns-ingen-häst-på-chalmers) (KTH:s fel)  
+Med nollan får man ej ha sex (KTH:s fel)  
+Att Weidow blivit PA och TM har bibliotek  
+Att expfys existerar och att Cavendish mig svek  
+Ja det är KTH:s fel (KTH:s fel)  
+KTH:s fel (KTH:s fel)  
+255 får inga tjejer det är KTH:s fel  
+Min skolgång gjort att jag nog aldrig kan bli psykiskt hel  
+Men min familj är enig det är KTH:s fel
+
+Min existentiella kris (KTH:s fel)  
+[Storphaddergruppen Curie](/krönikor#20202021) (KTH:s fel)  
+Istället för att plugga så festar jag förstås  
+Men skulden till att det är så den faller ej på oss  
+Nej det är KTH:s fel (KTH:s fel)  
+KTH:s fel (KTH:s fel)  
+Därom kan vi enas det är KTH:s fel  
+Man tror att det är Satan själv som spelar oss sitt spel  
+Men även han går fri för allt är KTH:s fel  
+Det är KTH:s fel
 
 ### Systeme Imperiale
 
-(Sjungs i moll. Skriven av Dancis år 2021.)
+_Mel: "Studentsången", sjungs i moll_  
+_Skriven av Dancis år 2021 till nollans tacksittning._
 
 hk lb mi Wb Q  
 ℧ M T A ac fm gon  
@@ -216,11 +296,10 @@ _barleycorn per jiffy kvadrat_
 _barleycorn per jiffy kvadrat_  
 _farad!_
 
-## Livet
-
 ### Fiskarelivet
 
-(Skriven av bl.a. Torsken och 3, först sjungen under nollan 2022:s tacksittning på våren 2023.)
+_Mel: Polyushko-polye (Livet)_  
+_Skriven av bl.a. Torsken och 3, först sjungen under nollan 2022:s tacksittning på våren 2023._
 
 Fiskarelivet  
 är härligt Tavaritj vårt fisk-  
@@ -231,3 +310,5 @@ skål Tag dig en vodka Tavar-
 itj en liten vodka Glasen i botten  
 vi tillsammans tömmer Det komm-  
 er!
+
+</div>
