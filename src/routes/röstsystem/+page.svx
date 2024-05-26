@@ -81,12 +81,12 @@ valbart alternativ till en kamel. Därefter beger man sig ut i allmänheten och 
 Efter att man samlat in ett förutbestämt antal röster väljs sedan det alternativ som motsvarar den kamel som fått flest
 allmänna röster.
 
-## AI-låttävling
+## Melodifest(AI)valen
 
 Opartiska textbeskrivningar av varje alternativ ges till en AI (förslagsvis [suno.com](https://suno.com/)) som
-instrueras att konstruera en låt till varje alternativ utifrån dess beskrivning. De röstberättigade poängsätter därefter
-varje låt utifrån dess musikaliska kvalitet. Det vinnande alternativet är det vars motsvarande låt får flest poäng. I
-fallet då omröstningen rör val av film att se vid en filmkväll rekommenderas
+instrueras att konstruera en låt till varje alternativ utifrån dess beskrivning. Varje röstberättigad fördelar därefter
+poängen 12, 10, 8, 7, ..., 1 på låtarna utifrån dess musikaliska kvalitet. Det vinnande alternativet är det vars
+motsvarande låt får flest poäng. I fallet då omröstningen rör val av film att se vid en filmkväll rekommenderas
 [IMDb](https://www.imdb.com/)-sammanfattningen av filmer som källa till textbeskrivningarna, ett exempel på låtar som
 genererades för omröstning vid en 255-filmkväll finns
 [här](https://suno.com/playlist/00ee1c62-e6c3-4267-8182-f7595c1dd6a1).
@@ -146,6 +146,13 @@ examinator som får full makt att bestämma utfallet av valet.
 
 Alla alternativ postas på [r/teenagers](https://www.reddit.com/r/teenagers/) och den första kommentar som utväljer ett
 primärt alternativ används för att utse vinnaren av omröstningen.
+
+## Lögndetektor
+
+Varje röstberättigad lägger sin röst genom att att yttra den för en lögndetektor (förslagsvis
+[lie-detector-online.com](https://lie-detector-online.com)). Om detektorn flaggar yttrandet som en lögn måste den
+röstberättigade ändra sin röst till ett nytt alternativ och återupprepa röstförfarandet. Den första röst som går igenom
+röstdetektorn anses giltig, och det vinnande alternativet är det som får flest giltiga röster.
 
 ## FFT
 
