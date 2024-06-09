@@ -7,7 +7,9 @@ keywords: historia dagbok
 
 <script lang="ts">
   import logo2022 from '$lib/assets/logo-2022.svg';
-  import { Image } from '$lib/images';
+  import minecraft from '$lib/assets/chronicles/minecraft.webp?w=400;800;1200&format=webp&as=Image';
+  import grilla from '$lib/assets/chronicles/grilla.jpg?w=400;800;1200&format=webp&as=Image';
+  import { Image, ImageFrame, ImageCaption, Gallery } from '$lib/images';
 </script>
 
 # {title}
@@ -62,10 +64,18 @@ Källa: Dancis
 Första-dagen gücklet görs om till ett röst-baserat äventyrsspel. Phaddergruppen fortsätter ha regelbundna luncher i
 KINSLS: Vi pratar om möbler (är en tavla en möbel?), mackor, m.m. Man samlas regelbundet för att titta på Doctor Who.
 Veckan innan tentaveckan i LP3 slår corona till och alla tentor blir hastigt och i varierande grad av lustighet till
-distanstentor. 25:e i 5:e sittningen hålls på kårens Minecraft-server. Potatis gjorde en inspelning av detta evenemang
-som bl.a. innehåller ett efter omständigheterna bra försök att sjunga livet över Discord: Discord-guilden blir för
-övrigt mycket mer aktiv under detta år, möjligen som en konsekvens av corona, och fortsätter vara aktiv även åren efter
-coronas uttåg.
+distanstentor. 25:e i 5:e sittningen hålls på [kårens Minecraft-server](https://mc.chs.se/). Potatis gjorde en
+inspelning av detta evenemang som bl.a. innehåller ett efter omständigheterna bra försök att sjunga livet över Discord.
+
+<div class="flex justify-center">
+  <ImageFrame>
+    <Image src={minecraft} class="w-128" sizes="min(100vw, 32rem)" />
+    <ImageCaption>"Jag har inte permissions att äta tårtan" - Eddan under 25/5</ImageCaption>
+  </ImageFrame>
+</div>
+
+Discord-guilden blir för övrigt mycket mer aktiv under detta år, möjligen som en konsekvens av corona, och fortsätter
+vara aktiv även åren efter coronas uttåg.
 
 Källa: Dancis
 
@@ -134,9 +144,14 @@ som en sidequest på ett bakspel, men lyckades inte få tag på rätt administra
 var nog inte aktiv sedan flera år tillbaka).
 
 Vi tittar på cortégen tillsammans och grillar efteråt i sektionens kundvagnsburna grill. Dock brinner både kolet och
-själva grillen, och vi släcker den senare med vattenflaskor. Efteråt spelas brädspel i Signes. Till 25/5 skrivs ett
-[text-baserat äventyrsspel](https://github.com/OssianEriksson/text-based) och sittningsdeltagarna får rösta om vilka val
-som ska göras i spelet.
+själva grillen, och vi släcker den senare med vattenflaskor. Efteråt spelas brädspel i Signes.
+
+<div class="flex justify-center">
+  <Image src={grilla} class="w-128" sizes="min(100vw, 32rem)" />
+</div>
+
+Till 25/5 skrivs ett [text-baserat äventyrsspel](https://github.com/OssianEriksson/text-based) och sittningsdeltagarna
+får rösta om vilka val som ska göras i spelet.
 
 F:s IT-förening [Spidera](https://ftek.se/spidera) består till majoriteten av 255:or.
 
@@ -145,9 +160,12 @@ skickas in i Discord och en lång omröstning hålls med hjälp av
 [STV](/röstsystem#enkel-överförbar-röst-single-transferable-vote). Dock blir vi ändå inte nöjda med resultatet och först
 efter applicering av viss heuristik kommer vi fram till loggan som visas nedan.
 
-<div class="flex justify-center"><Image src={logo2022} class="w-56" /></div>
-
-Loggan visar det komplexa talplanet (enhetscirkeln anger skalan) och en faktorisering av 255 i Gaussiska primtal.
+<div class="flex justify-center">
+  <ImageFrame>
+    <Image src={logo2022} class="w-56" />
+    <ImageCaption>Det komplexa talplanet (enhetscirkeln anger skalan) och en faktorisering av 255 i Gaussiska primtal.</ImageCaption>
+  </ImageFrame>
+</div>
 
 Källa: Dancis, Metrecon
 

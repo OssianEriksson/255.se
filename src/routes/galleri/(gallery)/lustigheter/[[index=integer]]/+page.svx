@@ -16,7 +16,7 @@ title: Lustigheter
 # {title}
 
 <p>
-av Dancis, 2022-2023. Har du egna bilder som du tycker passar här är du högst välkommen att skicka dem till
+Av Dancis och Twoots, 2020-2023. Har du egna bilder som du tycker passar här är du högst välkommen att skicka dem till
 <ObfuscatedAnchor class="hover:underline" href={MAILTO_SITE_ADMIN}>Webbansvarig</ObfuscatedAnchor>.
 </p>
 

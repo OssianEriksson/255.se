@@ -405,26 +405,26 @@ som allt gick omkring 20 fysikare med) och tog tillfället i akt att rollspela s
 exempel på konversationer mellan infiltratörer och maskinnollan:
 
 <div class="flex flex-wrap items-center justify-center gap-x-20 gap-y-4">
-<Image src={programmering} class="w-128" sizes="min(100vw, 32rem)" />
-<Image src={machinist} class="w-128" sizes="min(100vw, 32rem)" />
-<Image src={matte} class="w-128" sizes="min(100vw, 32rem)" />
-<Image src={tricontourf} class="w-128" sizes="min(100vw, 32rem)" />
+  <Image src={programmering} class="w-128" sizes="min(100vw, 32rem)" />
+  <Image src={machinist} class="w-128" sizes="min(100vw, 32rem)" />
+  <Image src={matte} class="w-128" sizes="min(100vw, 32rem)" />
+  <Image src={tricontourf} class="w-128" sizes="min(100vw, 32rem)" />
 </div>
 
 (255:an som förvirrande nog kallar sig för Maskinist42 försäkrar att han verkligen försökte hjälpa till med uppgift 7.1
-b), men inte hann göra den samma dag. Han blev mycket besviken när det visade sig att inlämningen inte kunde vänta tills
+b, men inte hann göra den samma dag. Han blev mycket besviken när det visade sig att inlämningen inte kunde vänta tills
 imorgon.)
 
 Efter någon tid uppenbarade sig en otrolig möjlighet:
 
 <div class="flex justify-center">
-<Image src={strike} class="w-128" sizes="min(100vw, 32rem)" />
+  <Image src={strike} class="w-128" sizes="min(100vw, 32rem)" />
 </div>
 
 Och till slut kunde den ultimata infiltrationen rapporteras tillbaks till 255 och 42:ans gemensamma Discord:
 
 <div class="flex justify-center">
-<Image src={admin} class="w-128" sizes="min(100vw, 32rem)" />
+  <Image src={admin} class="w-128" sizes="min(100vw, 32rem)" />
 </div>
 
 </Gallery>

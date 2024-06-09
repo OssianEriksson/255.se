@@ -14,7 +14,7 @@ title: Konst eller Diverse anteckningar
 
 # {title}
 
-av Bönmannen, 2021-2023
+Av Bönmannen, 2021-2023
 
 <GalleryGrid>
 
