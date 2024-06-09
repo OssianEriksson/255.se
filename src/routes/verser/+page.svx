@@ -10,7 +10,7 @@ keywords: sittning sånghäfte
 
 ## Innehåll
 
-<div class="[&_li]:list-none [&>ul]:!pl-0">
+<div class="[&_li]:list-none [&_ul]:!pl-4 [&>ul>li]:!mt-4">
 
 - [**Ytterligare verser till befintliga sånger**](#ytterligare-verser-till-befintliga-sånger)
   - [Solen](#solen)
@@ -34,7 +34,7 @@ keywords: sittning sånghäfte
 
 </div>
 
-<div class="[&_h3]:border-b [&_h3]:border-gray-200">
+<div class="[&_h3]:border-t [&_h3]:border-gray-200">
 
 ## Ytterligare verser till befintliga sånger
 
