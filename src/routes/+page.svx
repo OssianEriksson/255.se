@@ -19,11 +19,8 @@ blivande studenterna innan mottagningen. Gränserna mellan phaddergrupperna efte
 finns många båda nyantagna och gamla studenter, doktorander och utexaminerade som tillhör 255:s gemenskap.
 
 <div class="flex flex-wrap items-center justify-center gap-x-20 gap-y-4">
-
-<Image src={img} class="w-128" sizes="min(100vw,32rem)" />
-
-<Image src={logo2022} class="w-56" />
-
+  <Image src={img} class="w-128" sizes="min(100vw,32rem)" />
+  <Image src={logo2022} class="w-56" />
 </div>
 
 > I DD knattrar fingrar energiskt över härdade tangentbord. Samma fingrar kan lika lätt söka sig längs med ett
