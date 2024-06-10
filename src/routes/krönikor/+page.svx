@@ -4,11 +4,16 @@ keywords: historia dagbok
 ---
 
 <!-- cSpell:words Strangelove Koyaanisqatsi -->
+<!-- cSpell:ignore loek -->
 
 <script lang="ts">
   import logo2022 from '$lib/assets/logo-2022.svg';
   import minecraft from '$lib/assets/chronicles/minecraft.webp?w=400;800;1200&format=webp&as=Image';
   import grilla from '$lib/assets/chronicles/grilla.jpg?w=400;800;1200&format=webp&as=Image';
+  import holt1 from '$lib/assets/chronicles/holt-1.jpg?w=400;800;full&format=webp&as=Image';
+  import holt2 from '$lib/assets/chronicles/holt-2.jpg?w=400;800;full&format=webp&as=Image';
+  import onion from '$lib/assets/chronicles/loek.jpg?w=400;800&format=webp&as=Image';
+  import maths from '$lib/assets/chronicles/matte.jpg?w=400;800;1200&format=webp&as=Image';
   import { Image, ImageFrame, ImageCaption, Gallery } from '$lib/images';
 </script>
 
@@ -90,8 +95,22 @@ lunchträffar i Discord, och på lördagarna spelas diverse datorspel: 5D-Chess 
 Space Station 13. Filmkvällar hålls på distans. Potatis hostar en Minecraft-server med modpacket Feed-The-Beast och en
 stor del av 255 strömmar till. Till och med urgamble Gustav frekventerar servern och delar med sig av sina livs- och
 modpacks-erfarenheter. Nollan håller en mycket ambitiös tacksittning på samma server där de bl.a. mycket trovärdigt
-återskapat Holt (efter att endast ha upplevt rummet en gång i mycket trött tillstånd för nästan ett år sedan). På 25:e i
-5:e ses vi dock ansikte mot ansikte när vi grillar i regnet på Origogården och spelar brädspel i Signes.
+återskapat Holt (efter att endast ha upplevt rummet en gång i mycket trött tillstånd för nästan ett år sedan).
+
+<Gallery noGrid>
+  <div class="flex flex-wrap items-start justify-center gap-x-20 gap-y-4">
+    <ImageFrame>
+      <Image src={holt1} class="h-64" sizes="min(100vw,32rem)" />
+      <ImageCaption>Foto av Metrecons (som var nollan detta år) vy av Holt, återskapad i Minecraft till tacksittningen.</ImageCaption>
+    </ImageFrame>
+    <ImageFrame>
+      <Image src={holt2} class="h-64" sizes="min(100vw,32rem)" />
+      <ImageCaption>Holt från en annan vinkel</ImageCaption>
+    </ImageFrame>
+  </div>
+</Gallery>
+
+På 25:e i 5:e ses vi dock ansikte mot ansikte när vi grillar i regnet på Origogården och spelar brädspel i Signes.
 
 Några månader innan mottagningen hade Dancis lagt märke till att den tidigare ägaren av domänen [255.se](https://255.se)
 inte förnyat sitt köp. Därför blev domänen ledig några veckor in på mottagningen, och Dancis köpte domänen samma dag.
@@ -147,7 +166,10 @@ Vi tittar på cortégen tillsammans och grillar efteråt i sektionens kundvagnsb
 själva grillen, och vi släcker den senare med vattenflaskor. Efteråt spelas brädspel i Signes.
 
 <div class="flex justify-center">
-  <Image src={grilla} class="w-128" sizes="min(100vw, 32rem)" />
+  <ImageFrame>
+    <Image src={grilla} class="w-128" sizes="min(100vw, 32rem)" />
+    <ImageCaption>Eken tar meta-grillningen med ro</ImageCaption>
+  </ImageFrame>
 </div>
 
 Till 25/5 skrivs ett [text-baserat äventyrsspel](https://github.com/OssianEriksson/text-based) och sittningsdeltagarna
@@ -163,7 +185,7 @@ efter applicering av viss heuristik kommer vi fram till loggan som visas nedan.
 <div class="flex justify-center">
   <ImageFrame>
     <Image src={logo2022} class="w-56" />
-    <ImageCaption>Det komplexa talplanet (enhetscirkeln anger skalan) och en faktorisering av 255 i Gaussiska primtal.</ImageCaption>
+    <ImageCaption>En faktorisering av 255 i Gaussiska primtal angiven i det komplexa talplanet (enhetscirkeln anger skalan)</ImageCaption>
   </ImageFrame>
 </div>
 
@@ -189,6 +211,19 @@ vänner och deras vänner. Det blev en mycket lyckad kväll, vädret var på vå
 annat grillades en hel gul lök med spaghettistrån som grillspett, vilket gick förvånansvärt bra. För framtida år
 rekommenderas dock att man sätter sig på gibraltargatans östra istället för västra sida för att potentiellt fånga lite
 solljus.
+
+<Gallery noGrid>
+  <div class="flex flex-wrap items-start justify-center gap-x-20 gap-y-4">
+    <ImageFrame>
+      <Image src={onion} class="h-64" sizes="min(100vw, 16rem)" />
+      <ImageCaption>Bönmannen grillar lök på spaghetti efter Cortégen</ImageCaption>
+    </ImageFrame>
+    <ImageFrame>
+      <Image src={maths} class="h-64" sizes="min(100vw,32rem)" />
+      <ImageCaption>En fransk twitch-streamer löser Bönmannens funktionalanalysuppgifter (inskickade i chatten på knagglig franska) innan en filmkväll</ImageCaption>
+    </ImageFrame>
+  </div>
+</Gallery>
 
 Under 25/5-sittningen spelas en uppföljare av Moms textbaserade äventyrsspel från förra året.
 
