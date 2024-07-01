@@ -9,9 +9,10 @@ keywords: förkortning ord förklaring betydelse
 
 Förklaringar av ord och förkortningar.
 
-**DD** Förkortning för Djungel-Data. DD7 är namnet på en samling datorsalar på 7:e våningen i fysikhuset. DD4 är en
-datorsal på våning fyra i fysikhuset, belägen approximativt under DD7. Det är vanligt att 255:or spontant ansamlas i
-DD7.
+**DD** Förkortning för Djungeldata
+([historiskt dokument](http://web.archive.org/web/20010210004637/http://www.dd.chalmers.se/dd/index.html)). DD7 är idag
+namnet på en samling datorsalar på 7:e våningen i fysikhuset. DD4 är en datorsal på våning fyra i fysikhuset, belägen
+approximativt under DD7. Det är vanligt att 255:or spontant ansamlas i DD7.
 
 **DuP** Ursprungligen förkortning för Djungel-Pub (Tillställning som ordnas av [DP](https://ftek.se/dp), F-sektionens
 rustmästeri, varje fredag kl. 17:23 i Focus, F:s sektionslokal). Bland 255:or syftar DuP ofta mer på datorspelkvällen
