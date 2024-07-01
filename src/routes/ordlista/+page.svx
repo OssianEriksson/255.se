@@ -21,6 +21,8 @@ som brukar hållas i KINSLS efter att mat intagits på DuP:en i Focus.
 **ETP** Förkortning för Efter-Tenta-Pizza alt. Efter-Tenta-Pasta alt. Efter-Tenta-Psushi. Pizza som intages i samband
 med tentaveckans slut. Kombineras ofta med brädspel, datorspel, filmvisning eller annan aktivitet.
 
+**Fest** Kod för matematiktävling.
+
 **KINSLS** Förkortning för Kan Inte Nollan Sluta Labba Snart? Beskriver två datorsalar på våning 7 i fysikforskarhuset.
 KINSLS brukar också inkludera lunchrummet KINSLS-torget som ligger utanför salarna. Som nollan tycker man inte alls att
 man labbar där särskilt ofta, men när man inte är nollan längre är plötsligt nollan alltid där. 255 intar regelbundet

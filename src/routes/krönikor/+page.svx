@@ -228,3 +228,32 @@ solljus.
 Under 25/5-sittningen spelas en uppföljare av Moms textbaserade äventyrsspel från förra året.
 
 Källa: Dancis, Bönmannen
+
+## 2023/2024
+
+Påverkansoperationer från vissa phaddrar ledde till att tacksittningen kom ovanligt tidigt -- redan i december. Denna
+åtföljdes av löjligt många tack$^n$-sittningar, ett mycket bra sätt att fira phaddergruppens 20-årsjubileum. När datumet
+25/5 inföll blev det dock ingen sittning då man fann att det redan hade suttits tillräckligt (och tentorna krockade).
+Däremot hölls en 1234255-sittning i maj där även 12:an, 23:an och 42:an deltog. Många nya sånger och verser komponerades
+till dessa sittningar, några av vilka kan hittas under [här på hemsidan](/verser).
+
+Under bland annat mottagningen spelades Griffins plot-krig vars källkod finns att
+[hämta på GitHub](https://github.com/grufkork/plotkrig) för den som vill provspela (krävs minst två spelare).
+
+Under många filmkvällar blir röstsystemen alltmer självstående underhållningsmoment, primärt genom en stor mängd
+simulerings- eller AI-baserade bidrag från Rasmus. Under läsårets sista filmkväll, som råkade vara gemensam med ett
+annat sällskap uppdagades det att 255 som lag inte var några höjdare på röstsystemet våldsmonopol.
+
+Bland andra händelser under läsåret återfinns en utflykt till Torslanda under våren, där nitton 255:or tävlade i gokart
+innan Oggy slutligen korades till 255-mästare. Cortégen följs traditionsenligt av brädspel. Efter diskussion kommer man
+fram till att ETP är att föredra framför FTP eller UTP (före- respektive under-tenta-pizza, ej att förväxla med
+[FTP](https://en.m.wikipedia.org/wiki/File_Transfer_Protocol) och
+[UTP](https://en.m.wikipedia.org/wiki/Twisted_pair#Unshielded_twisted_pair)).
+
+Många integral- och mattekvällar fortsatte att arrangeras av medlemmar i [Fε∫2π](/ordlista#fest)-klubben, ungefär
+hälften av Potatis och övriga av Hugo Bäckman och Oskar Olander. Dessa kvällar involverar dock främst icke-255:or: En
+kväll under hösten hittade på något vis 60 personer dit och var med. Roligt nog uppmärksammas också Fε∫2π-klubben med
+[pris för bästa entreprenörskap](https://web.archive.org/web/20240701075709/https://www.chalmers.se/aktuellt/nyheter/mv-f%CE%B5-2%CF%80-klubben-matematikforening-vinner-pris-for-basta-entreprenorskap/),
+grattis!
+
+Källa: Bönmannen
