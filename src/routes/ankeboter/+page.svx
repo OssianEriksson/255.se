@@ -32,11 +32,11 @@ Chalmersankeboter som har förts ned genom generationerna i tal eller skrift.
 Dr. Mombasa (1943-2018) är ett välkänt namn i hela studentorkestersverige. Han var medlem i
 [Alliancen](https://alliancen.se/), och har gett upphov till många ankeboter.
 
-> Kenneth Aalborg [en karaktär ur Galenskaparnas sketch "inte bara glögg"] är baserad på ingen mindre än
-> studentorkesterlegenden Dr. Mombasa! Tv-versionen av sketchen är dessutom inspelad i dennes kök, en plats som många
-> studentmusiker besökt och som bland annat har beskrivits som "det äckligaste jag har sett". Doktorns villkor för att
-> upplåta sitt kök till inspelningen ska ha varit att det skulle vara riktig sprit i flaskorna. Tre tagningar gjordes.
-> Den första var inte bra och i den tredje var Rippe helt enkelt för full, så det är den andra som blivit legendarisk.
+> Kenneth Aalborg [en karaktär ur Galenskaparnas sketch "inte bara glögg"] är baserad på ingen mindre än studentorkesterlegenden
+> Dr. Mombasa! Tv-versionen av sketchen är dessutom inspelad i dennes kök, en plats som många studentmusiker besökt och som
+> bland annat har beskrivits som "det äckligaste jag har sett". Doktorns villkor för att upplåta sitt kök till inspelningen
+> ska ha varit att det skulle vara riktig sprit i flaskorna. Tre tagningar gjordes. Den första var inte bra och i den tredje
+> var Rippe helt enkelt för full, så det är den andra som blivit legendarisk.
 >
 > [...]
 >
@@ -324,22 +324,20 @@ Den sanna historien bakom fysikhusets flagga och stång går att läsa i
 [sektionsmötesprotokollet 1976-02-12](https://ftek.se/wp-content/uploads/ftek-documents/protokoll/sektion/1970-1979/1976/1976-02-12.pdf):
 
 > Enligt punkt 2. [Tänk STORT!!! (helst större)] beslutades i rask takt att en flaggstång skulle uppsättas å Origohusets
-> tak och att denna liksom flaggorna skulle vara stora. Hur går man då tillväga för att förverkliga dessa högt sittande
-> planer? När de stora dragen klarnat, vilket de gjorde snabbt, konstaterades att en flaggstång behövdes! Då en rask
-> blick i Telefonkatalogens yrkesdel gav vid handen att en tillverkare av dessa långa vita skapelser fanns i Partille
-> togs <u>bussen</u> ut för att införskaffa en dylik tingest. Det som dock gav en något tryckande känsla var att en
-> flaggstång av lämpliga dimensioner betingar ett pris av ~1000 Skr. Väl hos den välrenommerade flaggstångstillverkaren
-> Strömblad i Partille lugnades alla oroliga känslor, ty efter en utläggning om fattiga teknologer <u>fick</u> vi
-> F-teknologer <u>inte</u> en flaggstång, utan två!! (Begagnade, men dock.) Smolket i glädjebägaren var att vi var
-> tvungna att frakta dem själva, men man kan ju inte få allt här i världen. Efter att i tacksamhet ha inhandlat en styck
-> flaggstångsknopp konstaterades att en flaggstång inte går in i en buss, inte heller två. Varefter en hemresa företogs
-> utan flaggstänger. [...]
+> tak och att denna liksom flaggorna skulle vara stora. Hur går man då tillväga för att förverkliga dessa högt sittande planer?
+> När de stora dragen klarnat, vilket de gjorde snabbt, konstaterades att en flaggstång behövdes! Då en rask blick i Telefonkatalogens
+> yrkesdel gav vid handen att en tillverkare av dessa långa vita skapelser fanns i Partille togs <u>bussen</u> ut för att
+> införskaffa en dylik tingest. Det som dock gav en något tryckande känsla var att en flaggstång av lämpliga dimensioner
+> betingar ett pris av ~1000 Skr. Väl hos den välrenommerade flaggstångstillverkaren Strömblad i Partille lugnades alla oroliga
+> känslor, ty efter en utläggning om fattiga teknologer <u>fick</u> vi F-teknologer <u>inte</u> en flaggstång, utan två!!
+> (Begagnade, men dock.) Smolket i glädjebägaren var att vi var tvungna att frakta dem själva, men man kan ju inte få allt
+> här i världen. Efter att i tacksamhet ha inhandlat en styck flaggstångsknopp konstaterades att en flaggstång inte går in
+> i en buss, inte heller två. Varefter en hemresa företogs utan flaggstänger. [...]
 >
-> Innan det egentliga slutliga beskedet [om bygglov] hade kommit, hade emellertid tiden kommit till Valborg och
-> infraktandet av själva flaggstängerna verkade angeläget. Det slumpade sig så att infraktandet skedde på själva
-> Valborgsmäss, medförande at många förvånande (?) Göteborgare utmed färdvägen drog slutsatsen att två teknologer på en
-> (hyrd) traktor med släp måste vara ett reklamjippo för Cortégen och följaktligen uppvaktade med div. frågor om
-> densamma.
+> Innan det egentliga slutliga beskedet [om bygglov] hade kommit, hade emellertid tiden kommit till Valborg och infraktandet
+> av själva flaggstängerna verkade angeläget. Det slumpade sig så att infraktandet skedde på själva Valborgsmäss, medförande
+> at många förvånande (?) Göteborgare utmed färdvägen drog slutsatsen att två teknologer på en (hyrd) traktor med släp måste
+> vara ett reklamjippo för Cortégen och följaktligen uppvaktade med div. frågor om densamma.
 >
 > I början av maj erhölls också ett bidrag på 500 Skr som tillsammans med att välvilliga firmor hjälpte oss, gjorde att
 > teknologerna på F betalade ung. 100 Skr för en flaggstång, vars material kom att kosta (normalpris) ca. 3000-4000 Skr.
