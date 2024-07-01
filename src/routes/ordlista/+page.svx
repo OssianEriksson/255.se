@@ -3,7 +3,7 @@ title: Ordlista
 keywords: förkortning ord förklaring betydelse
 ---
 
-<!-- cSpell:ignore nohup Psushi roooll -->
+<!-- cSpell:ignore Psushi -->
 
 # {title}
 
@@ -12,16 +12,17 @@ Förklaringar av ord och förkortningar.
 **DD** Förkortning för Djungeldata
 ([historiskt dokument](http://web.archive.org/web/20010210004637/http://www.dd.chalmers.se/dd/index.html)). DD7 är idag
 namnet på en samling datorsalar på 7:e våningen i fysikhuset. DD4 är en datorsal på våning fyra i fysikhuset, belägen
-approximativt under DD7. Det är vanligt att 255:or spontant ansamlas i DD7.
+approximativt under DD7. Det har varit vanligt att 255:or spontant ansamlas i DD7 för att plugga.
 
-**DuP** Ursprungligen förkortning för Djungel-Pub (Tillställning som ordnas av [DP](https://ftek.se/dp), F-sektionens
-rustmästeri, varje fredag kl. 17:23 i Focus, F:s sektionslokal). Bland 255:or syftar DuP ofta mer på datorspelkvällen
-som brukar hållas i KINSLS efter att mat intagits på DuP:en i Focus.
+**DuP** Ursprungligen förkortning för Djungel-pub (Tillställning som ordnas av [DP](https://ftek.se/dp), F-sektionens
+rustmästeri, varje fredag kl. 17:23 i Focus, F:s sektionslokal). Bland vissa generationer av 255:or syftar dock DuP
+primärt på datorspelkvällen som brukar hållas i KINSLS (eller digitalt i Discord) efter att mat intagits på DuP:en i
+Focus.
 
 **ETP** Förkortning för Efter-Tenta-Pizza alt. Efter-Tenta-Pasta alt. Efter-Tenta-Psushi. Pizza som intages i samband
 med tentaveckans slut. Kombineras ofta med brädspel, datorspel, filmvisning eller annan aktivitet.
 
-**Fest** Kod för matematiktävling.
+<span id="fest"><b>Fest</b></span> Matematiktävling.
 
 **KINSLS** Förkortning för Kan Inte Nollan Sluta Labba Snart? Beskriver två datorsalar på våning 7 i fysikforskarhuset.
 KINSLS brukar också inkludera lunchrummet KINSLS-torget som ligger utanför salarna. Som nollan tycker man inte alls att
