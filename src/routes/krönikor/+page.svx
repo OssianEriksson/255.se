@@ -75,7 +75,7 @@ inspelning av detta evenemang som bl.a. innehåller ett efter omständigheterna 
 <div class="flex justify-center">
   <ImageFrame>
     <Image src={minecraft} class="w-128" sizes="min(100vw, 32rem)" />
-    <ImageCaption>"Jag har inte permissions att äta tårtan" - Eddan under 25/5</ImageCaption>
+    <ImageCaption>"Jag har inte permissions att äta tårtan" - Eddan under 25/5.</ImageCaption>
   </ImageFrame>
 </div>
 
@@ -105,7 +105,7 @@ modpacks-erfarenheter. Nollan håller en mycket ambitiös tacksittning på samma
     </ImageFrame>
     <ImageFrame>
       <Image src={holt2} class="h-64" sizes="min(100vw,32rem)" />
-      <ImageCaption>Holt från en annan vinkel</ImageCaption>
+      <ImageCaption>Holt från en annan vinkel.</ImageCaption>
     </ImageFrame>
   </div>
 </Gallery>
@@ -168,7 +168,7 @@ själva grillen, och vi släcker den senare med vattenflaskor. Efteråt spelas b
 <div class="flex justify-center">
   <ImageFrame>
     <Image src={grilla} class="w-128" sizes="min(100vw, 32rem)" />
-    <ImageCaption>Eken tar meta-grillningen med ro</ImageCaption>
+    <ImageCaption>Eken tar meta-grillningen med ro.</ImageCaption>
   </ImageFrame>
 </div>
 
@@ -185,7 +185,7 @@ efter applicering av viss heuristik kommer vi fram till loggan som visas nedan.
 <div class="flex justify-center">
   <ImageFrame>
     <Image src={logo2022} class="w-56" />
-    <ImageCaption>En faktorisering av 255 i Gaussiska primtal angiven i det komplexa talplanet (enhetscirkeln anger skalan)</ImageCaption>
+    <ImageCaption>En faktorisering av 255 i Gaussiska primtal angiven i det komplexa talplanet (enhetscirkeln anger skalan).</ImageCaption>
   </ImageFrame>
 </div>
 
@@ -216,11 +216,11 @@ solljus.
   <div class="flex flex-wrap items-start justify-center gap-x-20 gap-y-4">
     <ImageFrame>
       <Image src={onion} class="h-64" sizes="min(100vw, 16rem)" />
-      <ImageCaption>Bönmannen grillar lök på spaghetti efter Cortégen</ImageCaption>
+      <ImageCaption>Bönmannen grillar lök på spaghetti efter Cortégen.</ImageCaption>
     </ImageFrame>
     <ImageFrame>
       <Image src={maths} class="h-64" sizes="min(100vw,32rem)" />
-      <ImageCaption>En fransk twitch-streamer löser Bönmannens funktionalanalysuppgifter (inskickade i chatten på knagglig franska) innan en filmkväll</ImageCaption>
+      <ImageCaption>En fransk twitch-streamer löser Bönmannens funktionalanalysuppgifter (inskickade i chatten på knagglig franska) innan en filmkväll.</ImageCaption>
     </ImageFrame>
   </div>
 </Gallery>
