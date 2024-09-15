@@ -1,5 +1,5 @@
 <script lang="ts">
-  export let sections: bool = false
+  export let sections: boolean = false
 </script>
 
 <h2>Innehåll</h2>
