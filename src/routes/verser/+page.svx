@@ -353,8 +353,9 @@ att kalla sitt!
 
 ### Plugga inte på F
 
-_Orig: ["Don’t Major in Physics"](https://tomlehrersongs.com/dont-major-in-physics/) av Tom Lehrer, mel: "The Trouble
-With Women" av Kurt Weill (från "One Touch of Venus"), övers: Dancis till mottagningen 2024._
+_Orig: ["Don’t Major in Physics"](https://tomlehrersongs.com/dont-major-in-physics/) av Tom Lehrer, mel:
+["The Trouble With Women"](https://www.youtube.com/watch?v=qfQsmQSozKM) av Kurt Weill (från "One Touch of Venus"),
+övers: Dancis till mottagningen 2024._
 
 _(Student 1)_  
 Å, jag älska' en gång en från F  
@@ -379,7 +380,7 @@ Men nu tar jag mig ej en mot lön nej
 De är alla sig lika, jag vet  
 Allt hon tänkte var termo, mek, flervarr  
 Inga kvällspromenader blev det  
-Sammanflätning är bara nåt för partiklart  
+Sammanflätning är bara nåt för partiklar  
 Enligt dem som gått mer än år tre
 
 _(Kör)_
