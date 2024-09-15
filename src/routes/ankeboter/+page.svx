@@ -15,13 +15,50 @@ keywords: anekdoter historia
   import strike from '$lib/assets/infiltration/strike.png?w=full&format=webp&as=Image';
   import admin from '$lib/assets/infiltration/admin.png?w=full&format=webp&as=Image';
   import { Image, Gallery } from '$lib/images';
+  import TableOfContents from '$lib/TableOfContents.svelte';
 </script>
 
-# {title}
+# {title} <!-- omit in toc -->
 
 Några ankeboter (anekdoter) av varierande sanningsgrad. Alla med bra Chalmershistorier är högst välkomna att bidra,
 mejla gärna <ObfuscatedAnchor class="hover:underline" href={MAILTO_SITE_ADMIN}>Webbansvarig</ObfuscatedAnchor>. Sidan
 inleds med allmänna Chalmersankeboter för att sedan övergå till mer personliga berättelser av 255:or.
+
+<TableOfContents sections={true}>
+
+- [Ankeboter ur historien](#ankeboter-ur-historien)
+  - [Dr. Mombasa](#dr-mombasa)
+  - [Emil och Emilia](#emil-och-emilia)
+  - [Kallemedaljen](#kallemedaljen)
+  - [Kopparbunken](#kopparbunken)
+  - [Kårhuset](#kårhuset)
+  - [Olgas trappor](#olgas-trappor)
+  - [Ommöblering](#ommöblering)
+  - [Omskyltning](#omskyltning)
+  - [Svärdfisken](#svärdfisken)
+  - [Tågvagnen](#tågvagnen)
+  - [Unionsflaggan](#unionsflaggan)
+  - [Øhl-pipelinen](#øhl-pipelinen)
+  - [19 ton øhl](#19-ton-øhl)
+- [Upplevt eller uppsnappat av 255:or](#upplevt-eller-uppsnappat-av-255or)
+  - [Bokningssystemet](#bokningssystemet)
+  - [Bonusuppgifter](#bonusuppgifter)
+  - [Chalmers är inte nördigt](#chalmers-är-inte-nördigt)
+  - [Det finns ingen häst på Chalmers](#det-finns-ingen-häst-på-chalmers)
+  - [Dåligt sätt att kugga](#dåligt-sätt-att-kugga)
+  - [Expfys](#expfys)
+  - [Fysikhusets fanstång](#fysikhusets-fanstång)
+  - [Finger](#finger)
+  - [Förkylningsrisk](#förkylningsrisk)
+  - [Ifrågasättbar orienteringsförmåga](#ifrågasättbar-orienteringsförmåga)
+  - [Infiltration](#infiltration)
+  - [Matlagning](#matlagning)
+  - [Linuxintro](#linuxintro)
+  - [Nollanstädet](#nollanstädet)
+  - [Prisma](#prisma)
+  - [Stor inlämning](#stor-inlämning)
+
+</TableOfContents>
 
 ## Ankeboter ur historien
 
@@ -275,6 +312,31 @@ mejla ut bekräftelsemejl till alla som någonsin bokat Focus eller Hilbert de s
 några hundra mejl Google detta som spam och blockade nätmästarens, tillika administratören över hela sektionens Google
 workspace, Googlekonto.
 
+### Bonusuppgifter
+
+Limes är som bekant när man utan marginal blir godkänd på sin tenta. Potatis fick inte godkänt på mek:en. Men inte U
+heller. Det var nämligen så att examinatorn ansåg att bonusuppgifterna som studenterna instruerades att lösa hemma allt
+efter kursens gång var betygsgrundande, trots att detta inte angivits då kursen registrerades på Chalmers. Potatis som
+inte hade mycket till övers för bonusuppgifterna struntade därför i att lösa dem och hävdade därefter med rätta att
+detta inte borde påverka hans betyg. Examinatorn svarade då med att inte sätta något betyg alls tills uppgifterna var
+lösta.
+
+Även andra årskurser stötte på samma bonusuppgifter i mek:en, men då även förankrade hos Chalmers. Under några år
+använde examinatorn verktyget OpenTA för att förmedla uppgifterna till studenterna. Dock fann några studenter att OpenTA
+inte bara förmedlade uppgifter, utan också svaren på dessa i klartext om man inspekterade nätverkstrafiken, vilket dock
+snart patchades. Andra övergick då istället till att använda MATLABs Symbolic Toolbox för att lösa problemen vilket
+resulterade i ohyggliga lösningsuttryck, ibland över tusen tecken långa, vilket inte var något problem då OpenTA inte
+ställde några krav på förenklingar. Denna platform var för övrigt utvecklad i samarbete med föreläsaren i mek-2 som för
+detta fick fakultetens pedagogiska pris vilket den stora mängd studenter som kuggade mek-2:an varje år fann något
+ironiskt.
+
+Ett annat verktyg för uppgifter var det som förekom i elfältens "veckovisa webbfrågor". Varje student fick individuellt
+slumpade bonuspoänggrundade frågor via en webbapplikation skriven i PHP som inte hade stuckit ut i föregående sekel.
+Dock hade vid något tillfälle en vis gammelphadder listat ut att slumpalgoritmen hade en viss svaghet som därefter
+förmedlades ner från generation till generation: Servern använde innevarande tid i sekunder som frö till
+slumpalgoritmen. Därför samlades man varje vecka så många som möjligt i en datasal och räknade ner till att samtidigt
+starta testet så att alla fick samma frågor.
+
 ### Chalmers är inte nördigt
 
 Många icke-chalmerister hyser fördomen att Chalmers är nördigt, men bl.a.
@@ -288,6 +350,16 @@ Efter mottagningen ska nollan förhoppningsvis kunna hålla med om devisen
 
 Däremot skulle det kunna finnas en häst. Som vi erfar i denna [dokumentär](https://youtu.be/-b3WOqrANis) är dock frågan
 mycket känslig.
+
+### Dåligt sätt att kugga
+
+Alla som var med under coronaåren minns stressen när fem minuter återstod på tentatiden och man bad till högre makter
+att inskanningen och speciellt uppladdningen av lösningar på Canvas inte skulle bråka. Följande sanna historia måste
+vara något av det värsta man kan tänka sig i en sådan situation: Efter att precis ha avverkat hela tesen på sitt dunkla
+studentrum lade vår student sina lösningar under spisfläkten för att få bra ljus. Han scannade av första sidan med
+mobilen, men när han sedan vände sida upptäckte han att alla följande lösningsblad till hans förskräckelse nu var helt
+blanka. Han hade använd suddningsbart bläck, och restvärmen från spisen hade fått alla lösningar att försvinna ut i
+intet...
 
 ### Expfys
 
@@ -426,6 +498,20 @@ Och till slut kunde den ultimata infiltrationen rapporteras tillbaks till 255 oc
 </div>
 
 </Gallery>
+
+### Matlagning
+
+Maten på 255:s sittningar har ofta varit bra, men ibland väldigt, väldigt dålig. Under vissa perioder har man nästan
+fruktat att det låg en förbannelse över phaddergruppen då varje sittning inkluderat en rätt som var näst intill oätlig,
+från semlor till Napoleonbakelse. Men den värsta rätten som någonsin förekommit på en sittning är utan tvekan en
+nudelsoppa från tacksittningen 2022/2023. Tanken med rätten att involvera sittningsdeltagarna på en för 255 något
+radikal utmaning: Soppan var tänkt att vara mycket stark, och gästerna kunde tjäna poäng genom att äta upp, inte dricka
+av det som fanns på bordet (som också var starkt), eller genom att spela sten-sax-påse med sina bordskamrater. Problemet
+var bara det att soppan, som bl.a. innehöll många olika sorters peppar, chili och dessutom en ansenlig mängd vodka,
+faktiskt inte var särskilt stark utan bara _obeskrivligt äcklig_. Både konsistens och smak var av grus och den
+framkallade kräkreflexer hos nästan alla som försökte inta den. Man hade inte tidigare kunnat tro att en sådan soppa ens
+kunde framställas i ett vanligt kök. Som man förstår blev det efter sittningen en del soppa över och denna bevarades i
+en tvåliters läskflaska i ett skåp att visas upp vid andra sittningar under året.
 
 ### Linuxintro
 

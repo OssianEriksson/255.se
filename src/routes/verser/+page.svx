@@ -3,16 +3,18 @@ title: Sånger och verser
 keywords: sittning sånghäfte
 ---
 
-<!-- cSpell:words Kumlin Tavaritj Sakka Trysilresa Polyushko-polye -->
-<!-- cSpell:ignore klyvar- klyvarbon krävam skepparm nåsem tumgam skepparms Systeme Imperiale barl. övrs Sicka Fiskarelivet Tavar- komm- Fôgglen -->
+<!-- cSpell:words Kumlin Tavaritj Sakka Trysilresa Polyushko-polye Lehrer Janas termo flervarr -->
+<!-- cSpell:ignore klyvar- klyvarbon krävam skepparm nåsem tumgam skepparms Systeme Imperiale barl. övrs Sicka Fiskarelivet Tavar- komm- Fôgglen adjek- -->
 
-# {title}
+<script lang="ts">
+  import TableOfContents from '$lib/TableOfContents.svelte';
+</script>
 
-## Innehåll
+# {title} <!-- omit in toc -->
 
-<div class="[&_li]:list-none [&_ul]:!pl-4 [&>ul>li]:!mt-4">
+<TableOfContents sections={true}>
 
-- [**Ytterligare verser till befintliga sånger**](#ytterligare-verser-till-befintliga-sånger)
+- [Ytterligare verser till befintliga sånger](#ytterligare-verser-till-befintliga-sånger)
   - [Solen](#solen)
     - [DD](#dd)
   - [Måsen](#måsen)
@@ -26,13 +28,16 @@ keywords: sittning sånghäfte
   - [Dragos Dragos](#dragos-dragos)
     - [255](#255-1)
     - [Valen Åke](#valen-åke)
-- [**Fristående sånger**](#fristående-sånger)
+- [Fristående sånger](#fristående-sånger)
   - [Cubsec kommer](#cubsec-kommer)
   - [KTH:s fel](#kths-fel)
   - [Systeme Imperiale](#systeme-imperiale)
   - [Fiskarelivet](#fiskarelivet)
+- [Översättningar av utländska sånger](#översättningar-av-utländska-sånger)
+  - [Det finns ett delta för varje epsilon](#det-finns-ett-delta-för-varje-epsilon)
+  - [Plugga inte på F](#plugga-inte-på-f)
 
-</div>
+</TableOfContents>
 
 <div class="[&_h3]:border-t [&_h3]:border-gray-200">
 
@@ -70,7 +75,7 @@ Vi röstar väl, det trösta väl
 
 #### Fiskmåsen
 
-_Troligtvis skriven av Moms och R2 ca år 2017._
+_Upptäckaren av denna vers som dock existerade innan år 2018 är tills vidare okänd._
 
 Det satt en fiskmås på en klyvar-  
 bom Och tom i krävan var krä-  
@@ -310,5 +315,85 @@ skål Tag dig en vodka Tavar-
 itj en liten vodka Glasen i botten  
 vi tillsammans tömmer Det komm-  
 er!
+
+## Översättningar av utländska sånger
+
+### Det finns ett delta för varje epsilon
+
+_Orig: ["There's a Delta for Every Epsilon"](https://tomlehrersongs.com/theres-a-delta-for-every-epsilon/) av Tom
+Lehrer, övers: Dancis till mottagningen 2024._
+
+Det finns ett delta för varje epsilon  
+Det är en sanning, visst, från Janas kanon  
+Det finns ett delta för varje epsilon,  
+och då och då  
+finns det också ett rho
+
+Men en begränsning är aktiv  
+ty epsilon är ju positiv  
+De övriga uthärdar ensamma liv  
+Det finns ingen sats  
+där deras delta får plats
+
+Hur sorgset, grymt, ett svek  
+Hur jämmerligt och andra adjek-  
+tiv som jag kan säga  
+En fråga som vi ej kan väja
+
+Om ett epsilon får det lätt  
+bara för det är större än inget  
+så måste man nog sakna ego  
+om man ligger åt väst om origo
+
+När vi om denna orätt har fått nys  
+bör vi kämpa för en upplyst analys  
+där epsilon alla, minus och plus  
+får ett delta  
+att kalla sitt!
+
+### Plugga inte på F
+
+_Orig: ["Don’t Major in Physics"](https://tomlehrersongs.com/dont-major-in-physics/) av Tom Lehrer, mel: "The Trouble
+With Women" av Kurt Weill (från "One Touch of Venus"), övers: Dancis till mottagningen 2024._
+
+_(Student 1)_  
+Å, jag älska' en gång en från F  
+Den flickan var fager som så  
+Så jag fråga henne ut men fick felträff  
+Det var inlämning i expfys två  
+Mer vanligt att kungar tar bönder  
+än att fysiker tar sig nån alls  
+De bryr sig blott om sådana saker  
+utan koppling till verklighet alls
+
+_(Kör)_  
+Så nej plugga ni aldrig på F,  
+prova K eller A, nåt konkret  
+För i matte kan det nog bli fullträff  
+men i kärlek blir du analfabet
+
+_(Student 2)_  
+Oh, jag älskade också en F-tjej  
+Hon var trevlig och smart och het  
+Men nu tar hag mig ej en mot lön nej  
+De är alla sig lika, jag vet  
+Allt hon tänkte var termo, mek, flervarr  
+Inga kvällspromenader blev det  
+Sammanflätning är bara nåt för partiklart  
+Enligt dem som gått mer än år tre
+
+_(Kör)_
+
+_(Student 3)_  
+Men jag har den omvända sitsen  
+Jag gillar fysik men ej hon  
+Jag visade henne min grunka  
+men hon ville ha instruktion  
+Hon fråga hur F blivit mitt val  
+och bad mig att byta till I  
+Och varje gång jag nämnde kvanttal  
+ville hon bara dra mig till sängs (tvi!)
+
+_(Kör)_
 
 </div>

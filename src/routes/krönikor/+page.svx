@@ -3,7 +3,7 @@ title: Krönikor
 keywords: historia dagbok
 ---
 
-<!-- cSpell:words Strangelove Koyaanisqatsi -->
+<!-- cSpell:words Strangelove Koyaanisqatsi Airbender enumerisk -->
 <!-- cSpell:ignore loek -->
 
 <script lang="ts">
@@ -17,15 +17,46 @@ keywords: historia dagbok
   import { Image, ImageFrame, ImageCaption, Gallery } from '$lib/images';
 </script>
 
-# {title}
+# {title} <!-- omit in toc -->
 
-Kortare redogörelser för 255:s moderna historia.
+Kortare redogörelser för 255:s moderna historia. Som alltid på denna hemsida är bidrag mycket välkomna och efterfrågade,
+oavsett vilken tid du har att förtälja om.
+
+## 2015/2016
+
+Under mottagningen uppvaktas nollan av personer i mörka kostymer och glasögon som gücklar genom att inta en hel rå gul
+lök - ett klassiskt gückel. Potatis drar sig till minnes hur Jesus som enligt egen utsago saknade smaksinne började i
+[F-spexet](https://f-spexet.se) som kock. Jesus blir även under kommande år till stor och behövlig hjälp i köket vid
+255s sittningar, där kvalitén på övriga kockarna under senare år stundvis varit [ödesdigert låg](/ankeboter#matlagning).
+Även Oscar, som också var nollan detta år tillsammans med tidigare nämnda personer, ansluter till spexet. Senare under
+mottagningen hålls en sittning där upphovsmannen till [finger-ankeboten](/ankeboter#finger) var toastmaster. Under året
+intresserar sig några 255:or intresserar sig för Japan, lär sig japanska, och reser sedan dit på studieresa.
+
+Under 25/5-sittningen i Fokus bardel introduceras deltagarna till det första textbaserade äventyrsspel som spelas på en
+255-sittning. Det är Torbjörn tillsammans med en Gigli-phadder (en i skrivande stund tyvärr vilande phaddergrupp) hade
+skapat ett spel baserat på en scen ur Jojo's bisarra äventyr episod 2 där karaktären Kars gör om sin hand till en
+köttätande ekorre. För att sittningsdeltagarna skulle hänga med visade spelskaparna först ett klipp i KINSLS för
+kontext, ungefär [detta](https://youtu.be/Zax63Dal2ik&t=30). Då Dio är namnet på en Jojo-skurk avslutades spelet
+naturligt med en boss inspirerad av [Holy Diver](https://en.wikipedia.org/wiki/Holy_Diver).
+
+Efter den inledande programmeringskursen i Java och med uppväckt intresse för
+[sockets](https://en.wikipedia.org/wiki/Network_socket) börjar Potatis utveckla spelet Terminal-Warlock med attacker
+inspirerade av bl.a. binding of Isaac, Terraria och WC3.
+
+Källa: Potatis
 
 ## 2016/2017
 
-Efter den inledande programmeringskursen i Java utvecklar Potatis spelet Terminal-Warlock med hjälp av bl.a. Davelni.
-Till 25:e i 5:e-sittningen leder R2 den något tidspressade utvecklingen av ett text-baserat rollspel som spelas under
-kvällen. Man finner då stort nöje i att hitta cykliska vägar inuti spelet.
+Gücklet på första dagen utgörs av en pjäs som inkluderar alla tangenter på ett tangentbord med repliker som
+
+> -- Alt är under Ctrl!  
+> -- Nu ska vi inte gå över på en tangent...  
+> -- Du förstör Alt - Gr!  
+> -- Var du tvungen att lägga til(l)de'?
+
+Potatis fortsätter utveckla Terminal-Warlock med hjälp av bl.a. Davelni och Max som båda var nollan detta år. Till
+25/5-sittningen spelas återigen ett textbaserat rollspel som har många likheter med spelet från föregående år. Man
+finner stort nöje i att söka cykliska vägar inuti spelet.
 
 R2 och Björn bakade kaka på kaka som de bjuder på för att testa hypotesen att kaka på kaka är för mycket av det goda. En
 kontrollgrupp får sockerpiller. Försöket visade på att de som fick kaka på kaka blev något gladare men å andra sidan
@@ -35,21 +66,26 @@ Källa: Potatis, R2, Oscar
 
 ## 2017/2018
 
-Många luncher spenderas i KINSLS. Ett återkommande samtalsämne är definitioner av olika object, t.ex. diskuteras
-lämpliga sätt att definiera en soppa. Potatis fortsätter utveckla Terminal-Warlock, och spelet spelas flera gånger på
-lunchen. Detta år bildas också en Discord-guild, till en början främst för intern kommunikation mellan några av 255:s
-medlemmar, men under kommande år kommer fler och fler 255:or bli medlemmar i guilden.
-
 255 bidrar med två frågor till FnollK:s självdeklaration som nollan fyller i innan mottagningen:
 
 1. 1. Hur länge kan du lyssna på någon som pratar om sitt favoritämne?
    1. Vad skulle svaret på föregående fråga vara givet att ämnet är brunnslock?
 1. Du kommer till en dator utan mus. Vad gör du?
 
-Bland annat eftersom många 255:or var medlemmar i [F-spexet](https://f-spexet.se) och/eller
+Under mottagningen hålls filmkväll med nollan vilket man även fortsätter med kommande år. Denna gång ses The Last
+Airbender (2010). Bland annat eftersom många 255:or var medlemmar i [F-spexet](https://f-spexet.se) och/eller
 [Barocken](https://chalmersbarockensemble.se/) beskrev phaddergruppen sig själv som extroverta introverter.
 
-Källa: Λαyωt
+Många luncher spenderas i KINSLS. Ett återkommande samtalsämne är definitioner av olika objekt, t.ex. diskuteras
+lämpliga sätt att definiera en soppa. Potatis fortsätter utveckla Terminal-Warlock, och spelet spelas flera gånger på
+lunchen. Detta år bildas också en Discord-guild, till en början främst för intern kommunikation mellan några av 255:s
+medlemmar, men under kommande år kommer fler och fler 255:or bli medlemmar i guilden. Under tacksittningen bevisar
+nollan Andrzej för första gången de naturliga talens uppräknelighet genom att helt enkelt räkna upp dem i ett
+uppträdande han kallar "enumerisk analys", ett gückel som sedan dess har blivit en klassiker. Till 25/5 skrev Hampus ett
+spel om att prokrastinera att utveckla ett spel med möjliga handlingar som att ta en tupplur i datasalen eller gå till
+Coop och köpa glass.
+
+Källa: Λαyωt, Potatis, Moms
 
 ## 2018/2019
 
