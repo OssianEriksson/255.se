@@ -10,16 +10,24 @@
   const navbarItems: NavbarItem[] = [
     {
       title: {
-        text: 'Lore',
+        text: 'Allmänt',
       },
       dropdown: [
+        {
+          text: 'Krönikor',
+          href: '/krönikor',
+        },
         {
           text: 'Ankeboter',
           href: '/ankeboter',
         },
         {
-          text: 'Krönikor',
-          href: '/krönikor',
+          text: 'Galleri',
+          href: '/galleri',
+        },
+        {
+          text: 'Ordlista',
+          href: '/ordlista',
         },
         {
           text: 'Gamla sidan',
@@ -29,26 +37,7 @@
     },
     {
       title: {
-        text: 'Innehåll',
-      },
-      dropdown: [
-        {
-          text: 'Ordlista',
-          href: '/ordlista',
-        },
-        {
-          text: 'Recensioner',
-          href: '/recensioner',
-        },
-        {
-          text: 'Galleri',
-          href: '/galleri',
-        },
-      ],
-    },
-    {
-      title: {
-        text: 'Bra att ha',
+        text: 'Filmkväll',
       },
       dropdown: [
         {
@@ -56,20 +45,29 @@
           href: '/röstsystem',
         },
         {
-          text: 'Filmer',
+          text: 'Filmlista',
           href: '/filmer',
         },
         {
-          text: 'Sångverser',
-          href: '/verser',
+          text: 'Recensioner',
+          href: '/recensioner',
         },
       ],
     },
     {
       title: {
-        text: 'Sittningslokaler',
-        href: '/sittningslokaler',
+        text: 'Sittning',
       },
+      dropdown: [
+        {
+          text: 'Sångverser',
+          href: '/verser',
+        },
+        {
+          text: 'Sittningslokaler',
+          href: '/sittningslokaler',
+        },
+      ],
     },
   ]
 </script>

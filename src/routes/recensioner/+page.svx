@@ -8,11 +8,9 @@ keywords: kritik film
 
 # {title}
 
-Recensioner av diverse media samt lite information om hur och när det granskade materialet konsumerades.
+Filmrecensioner samt lite information om hur och när respektive film konsumerades.
 
-## Filmer
-
-### 2.0 (2018)
+## 2.0 (2018)
 
 Som namnet antyder är det en uppföljare till [Enthiran](#enthiran-2010). En mobilmast har ihjäl en ornitologs fåglar och
 uppgiven tar han sitt eget liv. Men han hängde sig i mobilmasten. När telefoner försvinner och har ihjäl människor
@@ -23,7 +21,7 @@ knäppare än Enthiran men inte lika bra.
 Sedd: 2022/2023  
 Recensent: Bönmannen
 
-### Animal Protector (1988)
+## Animal Protector (1988)
 
 Underbar upplevelse i 120p. Svensk film inspelad på Marstrand. Producenten ville egentligen spela in tre filmer
 samtidigt utan skådespelarnes vetskap. På amerikansk militärbas (Carlstens fästning) strider militär inbördes samt med
@@ -34,7 +32,7 @@ Sedd: 21:e juli 2023
 Röstsystem: [Schulze-metoden](/röstsystem#schulze-metoden)  
 Recensent: Bönmannen
 
-### Army of Darkness (1992)
+## Army of Darkness (1992)
 
 Snabb film. Strider och flykter med hastiga ryck där varelser liksom kameran snabbt byter rörelseriktning. Mysko osynlig
 demon sänder man tillbaka till medeltiden. Väl där skaffar han sig en motorsågsarm och strider tillsammans med riddare
@@ -44,7 +42,7 @@ från sina barndoms lekar med lego.
 Sedd: Våren 2023  
 Recensent: Bönmannen
 
-### Baahubali: The Beginning (2015)
+## Baahubali: The Beginning (2015)
 
 Denna saga som utgörs av två filmer är kanske Indiens främsta bidrag till mänskligheten. En man vill sedan barnsben
 uppför ett hiskeligt högt vattufall. När han får sin önskan uppfylld är han strax därpå inblandad i en blodig maktkamp
@@ -55,7 +53,7 @@ Sedd: Våren 2022, också tidigare och senare
 Röstsystem: [Tarot](/röstsystem#tarot)  
 Recensent: Bönmannen
 
-### Enthiran (2010)
+## Enthiran (2010)
 
 Indiens motsvarighet till Terminator. En uppfinnare har på tio år skapat en robot som ska arbeta åt armén. Men roboten
 vägrar och vill bara ragga på sin uppfinnares flickvän. När roboten får i sig ett rött chip och blir ondskefull, gör
@@ -65,7 +63,7 @@ stridsformationer.
 Sedd: 2021/2022  
 Recensent: Bönmannen
 
-### Falling Down (1993)
+## Falling Down (1993)
 
 En lång promenad hem av en ingenjör som inser att man borde ha blivit plastkirurg istället. Samhället gör honom sur och
 när han försvarar sin rätt som kund blir människor rädda, senare döda. Inte så upplyftande, men ändå bra.
@@ -74,7 +72,7 @@ Sedd: 8:e mars 2024
 Röstsystem: [FFT](/röstsystem#fft)  
 Recensent: Bönmannen
 
-### Gods of Egypt (2016)
+## Gods of Egypt (2016)
 
 Gamla Egypten. Mäktig gubbe som slåss mot en mask på en båt. Kille är för kär för att dö. Tveka inte när du har chansen
 att döda den fiende som har skonat ditt liv och som nu själv ber om nåd.
@@ -83,14 +81,14 @@ Sedd: 15:e mars 2024
 Röstsystem: Först Vebb får inte rösta, sedan [hungerspelen](/röstsystem#viktad-slump)  
 Recensent: Bönmannen
 
-### Good Will Hunting (1997)
+## Good Will Hunting (1997)
 
 Good Will Hunting är en film som handlar om att behöva välja mellan att gå till fängelse eller arbeta med kombinatorik.
 Det var oklart vilket öde som var värst. 7,5/10.
 
 Recensenter: Vebb och May
 
-### Mortal Kombat (1995)
+## Mortal Kombat (1995)
 
 Film som utmärks av hög hastighet och får en att vilja göra kullerbyttor till technomusik. Tre människor ska delta i
 kampsportsturnering som tydligen avgör världens öde. Ett skumt skepp för dem till en konstig magisk värld med utsökta
@@ -100,7 +98,7 @@ Sedd: 19:e april 2023
 Röstsystem: Inget  
 Recensent: Bönmannen
 
-### När lammen tystnar (1991)
+## När lammen tystnar (1991)
 
 FBI-agent vill hitta mördare och tar därför samtal med psykopatisk mördarkannibal. Samtalen handlar både om den
 eftersökte mördaren och gamla barndomsminnen. Bra men inte så värst tragisk. Om man äter medan man tittar på filmen gör
@@ -111,7 +109,7 @@ Röstsystem: [Davelni](/röstsystem#handuppräckning-à-la-davelni) till fem fil
 [melodifest(AI)valen](/röstsystem#melodifestaivalen)  
 Recensent: Bönmannen
 
-### RRR (2022)
+## RRR (2022)
 
 En kvinna råkar sälja sin dotter till en rik brittiska kvinna (hustru till guvernör, lydkung eller slikt). En man som
 sänts för att fritaga henne blir i samband med sitt sökande bästa kompis med en polis. Polisen är i hemlighet på jakt
@@ -123,7 +121,7 @@ Sedd: 8:e september 2023
 Röstsystem: Trailerturnering  
 Recensent: Bönmannen
 
-### Tenet (2020)
+## Tenet (2020)
 
 Film som är bra på riktigt. Föremål som färdas bakåt i tiden upptäcks. Fysiken bakom detta förklaras med terminologi som
 ej är främmande för eho som läst kvantfysik. Sedan är det väldigt många saker som färdas baklänges i tiden och man blir
@@ -134,7 +132,7 @@ Sedd: 7:e juli 2023
 Röstsystem: [Bogovote](/röstsystem#bogovote)  
 Recensent: Bönmannen
 
-### The Land That Time Forgot (2009)
+## The Land That Time Forgot (2009)
 
 Människor åker vilse på havet, hamnar på en ö och allierar sig med nazister för att gemensamt slåss mot dinosaurier.
 "Typisk 255-film". Kan vara trevlig om man inte tittar på den ensam.
@@ -143,7 +141,7 @@ Sedd: 22:a mars 2023
 Röstsystem: [Battle of Wits](/röstsystem#battle-of-wits) (urval: [Viktad slump](/röstsystem#viktad-slump))  
 Recensent: Bönmannen
 
-### The Ninja Mission (1984)
+## The Ninja Mission (1984)
 
 Svensk produktion. Om man tittar på skärmen på en mobiltelefon som filmar projektorduken så är upplösningen mycket
 bättre. Vissa underjordiska gångar igenkänns ifrån [Animal Protector](#animal-protector-1988). Hyggligt bra film men
