@@ -9,23 +9,25 @@ keywords: förkortning ord förklaring betydelse
 
 Förklaringar av ord och förkortningar.
 
-**DD** Förkortning för Djungeldata
-([historiskt dokument](http://web.archive.org/web/20010210004637/http://www.dd.chalmers.se/dd/index.html)). DD7 är idag
-namnet på en samling datorsalar på 7:e våningen i fysikhuset. DD4 är en datorsal på våning fyra i fysikhuset, belägen
-approximativt under DD7. Det har varit vanligt att 255:or spontant ansamlas i DD7 för att plugga.
+**<span id="dd">DD</span>** Förkortning för Djungeldata
+([historiskt dokument](https://web.archive.org/web/20010210004637/http://www.dd.chalmers.se/dd/index.html)). DD4 är en
+datorsal på våning fyra i fysikhuset. DD7 var tidigare namnet på en samling datorsalar på 7:e våningen i fysikhuset,
+belägna ovanför DD4 i anslutning till FB-salen. Under dess existens var det vanligt att 255:or spontant ansamlades i DD7
+för att plugga. År 2024 byggdes DD7 om till grupprum och datorerna togs bort.
 
-**DuP** Ursprungligen förkortning för Djungel-pub (Tillställning som ordnas av [DP](https://ftek.se/dp), F-sektionens
-rustmästeri, varje fredag kl. 17:23 i Focus, F:s sektionslokal). Bland vissa generationer av 255:or syftar dock DuP
-primärt på datorspelkvällen som brukar hållas i KINSLS (eller digitalt i Discord) efter att mat intagits på DuP:en i
-Focus.
+**<span id="dup">DuP</span>** Ursprungligen förkortning för Djungel-pub (Tillställning som ordnas av
+[DP](https://ftek.se/dp), F-sektionens rustmästeri, varje fredag kl. 17:23 i Focus, F:s sektionslokal). Bland vissa
+generationer av 255:or syftar dock DuP primärt på datorspelkvällen som brukar hållas i KINSLS (eller digitalt i Discord)
+efter att mat intagits på DuP:en i Focus.
 
-**ETP** Förkortning för Efter-Tenta-Pizza alt. Efter-Tenta-Pasta alt. Efter-Tenta-Psushi. Pizza som intages i samband
-med tentaveckans slut. Kombineras ofta med brädspel, datorspel, filmvisning eller annan aktivitet.
+**<span id="etp">ETP</span>** Förkortning för Efter-Tenta-Pizza alt. Efter-Tenta-Pasta alt. Efter-Tenta-Psushi. Pizza
+som intages i samband med tentaveckans slut. Kombineras ofta med brädspel, datorspel, filmvisning eller annan aktivitet.
 
-<span id="fest"><b>Fest</b></span> Matematiktävling.
+**<span id="fest">Fest</span>** Matematiktävling. T.ex. "Vi har varit och festat i Bulgarien!"
 
-**KINSLS** Förkortning för Kan Inte Nollan Sluta Labba Snart? Beskriver två datorsalar på våning 7 i fysikforskarhuset.
-KINSLS brukar också inkludera lunchrummet KINSLS-torget som ligger utanför salarna. Som nollan tycker man inte alls att
-man labbar där särskilt ofta, men när man inte är nollan längre är plötsligt nollan alltid där. 255 intar regelbundet
-lunch tillsammans i KINSLS (eller KINSLS-torget), och spelas det datorspel görs det oftast i KINSLS. Enligt Gustav
-började KINSLS kallas KINSLS tidigt efter ombyggnaden av forskarhuset (någonstans i mitten av 00-talet?).
+**<span id="kinsls">KINSLS</span>** Förkortning för Kan Inte Nollan Sluta Labba Snart? Beskriver två datorsalar på
+våning 7 i fysikforskarhuset. KINSLS brukar också inkludera lunchrummet KINSLS-torget som ligger utanför salarna. Som
+nollan tycker man inte alls att man labbar där särskilt ofta, men när man inte är nollan längre är plötsligt nollan
+alltid där. 255 intar regelbundet lunch tillsammans i KINSLS (eller KINSLS-torget), och spelas det datorspel görs det
+oftast i KINSLS. Enligt Gustav började KINSLS kallas KINSLS tidigt efter ombyggnaden av forskarhuset (någonstans i
+mitten av 00-talet?).

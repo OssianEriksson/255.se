@@ -40,8 +40,9 @@ kontext, ungefär [detta](https://youtu.be/Zax63Dal2ik&t=30). Då Dio är namnet
 naturligt med en boss inspirerad av [Holy Diver](https://en.wikipedia.org/wiki/Holy_Diver).
 
 Efter den inledande programmeringskursen i Java och med uppväckt intresse för
-[sockets](https://en.wikipedia.org/wiki/Network_socket) börjar Potatis utveckla spelet Terminal-Warlock med attacker
-inspirerade av bl.a. binding of Isaac, Terraria och WC3.
+[sockets](https://en.wikipedia.org/wiki/Network_socket) börjar Potatis utveckla spelet Terminal-Warlock
+([källkod](https://gitlab.com/ake-andersson/warlock)) med attacker inspirerade av bl.a. binding of Isaac, Terraria och
+WC3.
 
 Källa: Potatis
 

@@ -49,7 +49,7 @@ keywords: sittning sånghäfte
 
 _Se [ankeboten](/ankeboter#finger) om historien bakom denna text._
 
-DD det går upp och ned doda, doda  
+[DD](/ordlista#dd) det går upp och ned doda, doda  
 Jag ska aldrig skripta mer, hej di doda dej  
 Hej di doda dej, hej di doda dej  
 Jag skall aldrig skripta mer, hej di doda dej
@@ -75,7 +75,7 @@ Vi röstar väl, det trösta väl
 
 #### Fiskmåsen
 
-_Upptäckaren av denna vers som dock existerade innan år 2018 är tills vidare okänd._
+_Upptäckaren av denna vers (som åtminstone sjungits år 2018) är tills vidare okänd._
 
 Det satt en fiskmås på en klyvar-  
 bom Och tom i krävan var krä-  
@@ -321,7 +321,8 @@ er!
 ### Det finns ett delta för varje epsilon
 
 _Orig: ["There's a Delta for Every Epsilon"](https://tomlehrersongs.com/theres-a-delta-for-every-epsilon/) av Tom
-Lehrer, övers: Dancis till mottagningen 2024._
+Lehrer_  
+_Översatt av Dancis till mottagningen 2024._
 
 Det finns ett delta för varje epsilon  
 Det är en sanning, visst, från Janas kanon  
@@ -353,9 +354,10 @@ att kalla sitt!
 
 ### Plugga inte på F
 
-_Orig: ["Don’t Major in Physics"](https://tomlehrersongs.com/dont-major-in-physics/) av Tom Lehrer, mel:
-["The Trouble With Women"](https://www.youtube.com/watch?v=qfQsmQSozKM) av Kurt Weill (från "One Touch of Venus"),
-övers: Dancis till mottagningen 2024._
+_Orig: ["Don’t Major in Physics"](https://tomlehrersongs.com/dont-major-in-physics/) av Tom Lehrer_  
+_Mel: ["The Trouble With Women"](https://www.youtube.com/watch?v=qfQsmQSozKM) av Kurt Weill (från "One Touch of
+Venus")_  
+_Översatt av Dancis till mottagningen 2024._
 
 _(Student 1)_  
 Å, jag älska' en gång en från F  
@@ -379,9 +381,9 @@ Hon var trevlig och smart och het
 Men nu tar jag mig ej en mot lön nej  
 De är alla sig lika, jag vet  
 Allt hon tänkte var termo, mek, flervarr  
-Inga kvällspromenader blev det  
+Inga kvällspromenader blev de'  
 Sammanflätning är bara nåt för partiklar  
-Enligt dem som gått mer än år tre
+enligt dem som gått mer än år tre
 
 _(Kör)_
 

@@ -438,11 +438,11 @@ skriptet kör sin loop, men efter ett tag startar det en kopia av sig själv på
 minst en skriptinstans körande. Man inser dock snabbt efter att ha startat igång ett sådant skript att detta
 tillvägagångssätt leder till exponentiell tillväxt av antalet körande processer -- en
 [forkbomb](https://en.wikipedia.org/wiki/Fork_bomb). Hela denna olycka hade orsakats medans upphovspersonen var
-fjärransluten till skoldatorerna i DD, och denne upptäckte inte att något var fel förrän fjärrsessionen plötsligt bröts.
-Han försökte då fjärransluta till andra datorer i samma datorsal utan att lyckas. Nu hade vår 255:a en tanke om vad som
-hade hänt och sprang så in till campus för att se datorerna i person. I dörren möter han en phadder som säger att
-datorerna i DD är nere. Anledningen till att vår 255:a fick [dumvästen](https://ftek.se/dumvast/) var att han på detta
-svarade "Jag vet!".
+fjärransluten till skoldatorerna i [DD](/ordlista#dd), och denne upptäckte inte att något var fel förrän fjärrsessionen
+plötsligt bröts. Han försökte då fjärransluta till andra datorer i samma datorsal utan att lyckas. Nu hade vår 255:a en
+tanke om vad som hade hänt och sprang så in till campus för att se datorerna i person. I dörren möter han en phadder som
+säger att datorerna i DD är nere. Anledningen till att vår 255:a fick [dumvästen](https://ftek.se/dumvast/) var att han
+på detta svarade "Jag vet!".
 
 Till minne av denna episod komponerades [en vers till sången Solen](/verser#solen). Det finns även en förklaring till
 raden "I morgon gör jag likadant" men det är en annan historia.

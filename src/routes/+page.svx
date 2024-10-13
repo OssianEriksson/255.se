@@ -23,11 +23,11 @@ finns många båda nyantagna och gamla studenter, doktorander och utexaminerade 
   <Image src={logo2022} class="w-56" />
 </div>
 
-> I DD knattrar fingrar energiskt över härdade tangentbord. Samma fingrar kan lika lätt söka sig längs med ett
-> instrument i färd med att forma tonerna till ännu en fantastisk melodi. En siluett reser sig, darrig, redo att gå ut
-> på scen. Både ljuset och mörkret välkomnar. Andra sätter sig framför ett tomt ark och skapar i sinnet mer eller mindre
-> absurda alster. Några finner rätt stigar i skog och mark och lurar lömska träsk. Vissa beger sig till fjärran platser
-> långt bortom horisonten.
+> I [DD](/ordlista#dd) knattrar fingrar energiskt över härdade tangentbord. Samma fingrar kan lika lätt söka sig längs
+> med ett instrument i färd med att forma tonerna till ännu en fantastisk melodi. En siluett reser sig, darrig, redo att
+> gå ut på scen. Både ljuset och mörkret välkomnar. Andra sätter sig framför ett tomt ark och skapar i sinnet mer eller
+> mindre absurda alster. Några finner rätt stigar i skog och mark och lurar lömska träsk. Vissa beger sig till fjärran
+> platser långt bortom horisonten.
 >
 > -- Malin Renneby
 
