@@ -1,6 +1,6 @@
-<script lang="ts">
-  export let title: string = '255.se'
-  export let keywords: string = ''
+<script>
+  export let title = '255.se'
+  export let keywords = ''
 </script>
 
 <svelte:head>
