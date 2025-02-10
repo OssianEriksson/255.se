@@ -515,10 +515,13 @@ en tvåliters läskflaska i ett skåp att visas upp vid andra sittningar under �
 
 ### Linuxintro
 
-Då 255:an Von som nollan gick på en av sina linuxintro-labbar i KINSLS dök labbhandledaren inte upp. Handledaren var
-känd för att vara ganska krånglig och obrydd. Men då ställde sig Von, som redan var bekant med linux, spontant upp och
-tog över föreläsningen och räddade labben. Efter denna dag lobbade kursutvärderarna för att Von skulle få fortsätta som
-labbhandledare nästa år, vilket han fick.
+Då 255:an Von som nollan gick på en av sina linuxintro-labbar i KINSLS (just denna skulle handla om $\LaTeX$) dök
+labbhandledaren inte upp. Handledaren var känd för att vara ganska krånglig och obrydd. Men då ställde sig Von, som
+redan var bekant med $\LaTeX$, spontant upp och
+[tog över föreläsningen och räddade labben](https://web.archive.org/web/20100812195240/http://www.ftek.se/kuf/0506_datorintroduktion.pdf).
+Efter denna dag lobbade kursdeltagarna för att Von skulle få fortsätta som labbhandledare nästa år, vilket han fick. För
+sina insatser i datorintrot tilldelades han senare även
+[Guldäpplet](http://www.christian.vonschultz.se/2016/pedagogiskt-pris.pdf).
 
 Under linuxintron ett annat år ville en annan 255-nolla lära sig om bakgrundsjobb och redirects så provade därför
 kommandot
