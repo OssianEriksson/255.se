@@ -6,9 +6,32 @@ keywords: kritik film
 <!-- cSpell:words Chitti Carlstens Schulze Bogovote motorsågsarm Baahubali Enthiran Kombat -->
 <!-- cSpell:ignore skådespelarnes vattufall växelverkanden -->
 
-# {title}
+<script lang="ts">
+  import TableOfContents from '$lib/TableOfContents.svelte';
+</script>
+
+# {title} <!-- omit in toc -->
 
 Filmrecensioner samt lite information om hur och när respektive film konsumerades.
+
+<TableOfContents>
+
+- [2.0 (2018)](#20-2018)
+- [Animal Protector (1988)](#animal-protector-1988)
+- [Army of Darkness (1992)](#army-of-darkness-1992)
+- [Baahubali: The Beginning (2015)](#baahubali-the-beginning-2015)
+- [Enthiran (2010)](#enthiran-2010)
+- [Falling Down (1993)](#falling-down-1993)
+- [Gods of Egypt (2016)](#gods-of-egypt-2016)
+- [Good Will Hunting (1997)](#good-will-hunting-1997)
+- [Mortal Kombat (1995)](#mortal-kombat-1995)
+- [När lammen tystnar (1991)](#när-lammen-tystnar-1991)
+- [RRR (2022)](#rrr-2022)
+- [Tenet (2020)](#tenet-2020)
+- [The Land That Time Forgot (2009)](#the-land-that-time-forgot-2009)
+- [The Ninja Mission (1984)](#the-ninja-mission-1984)
+
+</TableOfContents>
 
 ## 2.0 (2018)
 
