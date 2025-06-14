@@ -14,7 +14,7 @@ keywords: sittning sånghäfte
 
 <TableOfContents sections={true}>
 
-- [Ytterligare verser till befintliga sånger](#ytterligare-verser-till-befintliga-sånger)
+- [Verser](#verser)
   - [Solen](#solen)
     - [DD](#dd)
   - [Måsen](#måsen)
@@ -28,12 +28,11 @@ keywords: sittning sånghäfte
   - [Dragos Dragos](#dragos-dragos)
     - [255](#255-1)
     - [Valen Åke](#valen-åke)
-- [Fristående sånger](#fristående-sånger)
+- [Sånger](#sånger)
   - [Cubsec kommer](#cubsec-kommer)
   - [KTH:s fel](#kths-fel)
   - [Systeme Imperiale](#systeme-imperiale)
   - [Fiskarelivet](#fiskarelivet)
-- [Översättningar av utländska sånger](#översättningar-av-utländska-sånger)
   - [Det finns ett delta för varje epsilon](#det-finns-ett-delta-för-varje-epsilon)
   - [Plugga inte på F](#plugga-inte-på-f)
 
@@ -41,7 +40,9 @@ keywords: sittning sånghäfte
 
 <div class="[&_h3]:border-t [&_h3]:border-gray-200">
 
-## Ytterligare verser till befintliga sånger
+## Verser
+
+Ytterligare verser till befintliga sånger.
 
 ### Solen
 
@@ -209,7 +210,9 @@ Han blev F:are vid sin död
 
 Dragos Dragos ...
 
-## Fristående sånger
+## Sånger
+
+Hela sånger som bäst sjungs fristående.
 
 ### Cubsec kommer
 
@@ -315,8 +318,6 @@ skål Tag dig en vodka Tavar-
 itj en liten vodka Glasen i botten  
 vi tillsammans tömmer Det komm-  
 er!
-
-## Översättningar av utländska sånger
 
 ### Det finns ett delta för varje epsilon
 
