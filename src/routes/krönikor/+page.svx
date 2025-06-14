@@ -15,12 +15,28 @@ keywords: historia dagbok
   import onion from '$lib/assets/chronicles/loek.jpg?w=400;800&format=webp&as=Image';
   import maths from '$lib/assets/chronicles/matte.jpg?w=400;800;1200&format=webp&as=Image';
   import { Image, ImageFrame, ImageCaption, Gallery } from '$lib/images';
+  import TableOfContents from '$lib/TableOfContents.svelte';
 </script>
 
 # {title} <!-- omit in toc -->
 
 Kortare redogörelser för 255:s moderna historia. Som alltid på denna hemsida är bidrag mycket välkomna och efterfrågade,
 oavsett vilken tid du har att förtälja om.
+
+<TableOfContents>
+
+- [2024/2025](#20242025)
+- [2023/2024](#20232024)
+- [2022/2023](#20222023)
+- [2021/2022](#20212022)
+- [2020/2021](#20202021)
+- [2019/2020](#20192020)
+- [2018/2019](#20182019)
+- [2017/2018](#20172018)
+- [2016/2017](#20162017)
+- [2015/2016](#20152016)
+
+</TableOfContents>
 
 ## 2024/2025
 
