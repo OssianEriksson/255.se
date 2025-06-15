@@ -316,7 +316,7 @@ workspace, Googlekonto.
 
 Limes är som bekant när man utan marginal blir godkänd på sin tenta. Potatis fick inte godkänt på mek:en. Men inte U
 heller. Det var nämligen så att examinatorn ansåg att bonusuppgifterna som studenterna instruerades att lösa hemma allt
-efter kursens gång var betygsgrundande, trots att detta inte angivits då kursen registrerades på Chalmers. Potatis som
+efter kursens gång var betygsgrundande, trots att detta inte angivits då kursen registrerades hos Chalmers. Potatis som
 inte hade mycket till övers för bonusuppgifterna struntade därför i att lösa dem och hävdade därefter med rätta att
 detta inte borde påverka hans betyg. Examinatorn svarade då med att inte sätta något betyg alls tills uppgifterna var
 lösta.
