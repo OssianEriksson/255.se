@@ -390,7 +390,7 @@ _(Kör)_
 
 _(Student 3)_  
 Men jag har den omvända sitsen  
-Jag gillar fysik men ej hon  
+Jag går F men det gör inte hon  
 Jag visade henne min grunka  
 men hon ville ha instruktion  
 Hon fråga hur F blivit mitt val  
