@@ -5,6 +5,10 @@ keywords: förkortning ord förklaring betydelse
 
 <!-- cSpell:ignore Psushi -->
 
+<script lang="ts">
+  import { Frame, Caption } from '$lib/frame';
+</script>
+
 # {title}
 
 Förklaringar av ord och förkortningar.
@@ -31,3 +35,14 @@ nollan tycker man inte alls att man labbar där särskilt ofta, men när man int
 alltid där. 255 intar regelbundet lunch tillsammans i KINSLS (eller KINSLS-torget), och spelas det datorspel görs det
 oftast i KINSLS. Enligt Gustav började KINSLS kallas KINSLS tidigt efter ombyggnaden av forskarhuset (någonstans i
 mitten av 00-talet?).
+
+<div class="flex justify-center">
+  <Frame>
+    <div class="w-128">
+      <audio controls class="w-full">
+        <source src="/KINSLS-mikro.mp3" type="audio/mpeg">
+      </audio>
+    </div>
+    <Caption>KINSLS-mikrons röst på ålderns höst, förevigad av Bönmannen 2025.</Caption>
+  </Frame>
+</div>
