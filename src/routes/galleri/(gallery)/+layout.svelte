@@ -1,7 +1,7 @@
 <script lang="ts">
   import { page } from '$app/stores'
   import { goto } from '$app/navigation'
-  import { Gallery } from '$lib/images'
+  import { Gallery } from '$lib/image'
   import { buildUrl } from '$lib/route'
 </script>
 

@@ -9,8 +9,8 @@ title: Lustigheter
     query: { w: '400;full', format: 'webp', as: 'Image' },
   }))
 
-  import { Image, GalleryGrid } from '$lib/images';
-  import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/obfuscated-anchor';
+  import { Image, GalleryGrid } from '$lib/image';
+  import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/anchor';
 </script>
 
 # {title}

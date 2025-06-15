@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/obfuscated-anchor'
+  import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/anchor'
   import { page } from '$app/stores'
 </script>
 

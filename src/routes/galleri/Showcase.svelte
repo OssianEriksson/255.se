@@ -1,6 +1,6 @@
 <script lang="ts">
-  import type { Src } from '$lib/images/Image.svelte'
-  import Image from '$lib/images/Image.svelte'
+  import type { Src } from '$lib/image/Image.svelte'
+  import Image from '$lib/image/Image.svelte'
 
   export let thumbnail: Src
   export let href: string

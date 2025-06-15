@@ -7,14 +7,14 @@ keywords: anekdoter historia
 <!-- cSpell:ignore nohup roooll tricontourf -->
 
 <script lang="ts">
-  import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/obfuscated-anchor'
+  import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/anchor'
   import programmering from '$lib/assets/infiltration/programmering.png?w=400;full&format=webp&as=Image';
   import matte from '$lib/assets/infiltration/matte.png?w=400;800;full&format=webp&as=Image';
   import tricontourf from '$lib/assets/infiltration/tricontourf.png?w=400;full&format=webp&as=Image';
   import machinist from '$lib/assets/infiltration/machinist.png?w=full&format=webp&as=Image';
   import strike from '$lib/assets/infiltration/strike.png?w=full&format=webp&as=Image';
   import admin from '$lib/assets/infiltration/admin.png?w=full&format=webp&as=Image';
-  import { Image, Gallery } from '$lib/images';
+  import { Image, Gallery } from '$lib/image';
   import TableOfContents from '$lib/TableOfContents.svelte';
 </script>
 

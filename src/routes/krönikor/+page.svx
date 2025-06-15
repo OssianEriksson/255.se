@@ -14,7 +14,8 @@ keywords: historia dagbok
   import holt2 from '$lib/assets/chronicles/holt-2.jpg?w=400;800;full&format=webp&as=Image';
   import onion from '$lib/assets/chronicles/loek.jpg?w=400;800&format=webp&as=Image';
   import maths from '$lib/assets/chronicles/matte.jpg?w=400;800;1200&format=webp&as=Image';
-  import { Image, ImageFrame, ImageCaption, Gallery } from '$lib/images';
+  import { Image, Gallery } from '$lib/image';
+  import { Frame, Caption } from '$lib/frame';
   import TableOfContents from '$lib/TableOfContents.svelte';
 </script>
 
@@ -112,14 +113,14 @@ solljus.
 
 <Gallery noGrid>
   <div class="flex flex-wrap items-start justify-center gap-x-20 gap-y-4">
-    <ImageFrame>
+    <Frame>
       <Image src={onion} class="h-64" sizes="min(100vw, 16rem)" />
-      <ImageCaption>Bönmannen grillar lök på spaghetti efter Cortégen.</ImageCaption>
-    </ImageFrame>
-    <ImageFrame>
+      <Caption>Bönmannen grillar lök på spaghetti efter Cortégen.</Caption>
+    </Frame>
+    <Frame>
       <Image src={maths} class="h-64" sizes="min(100vw,32rem)" />
-      <ImageCaption>En fransk twitch-streamer löser Bönmannens funktionalanalysuppgifter (inskickade i chatten på knagglig franska) innan en filmkväll.</ImageCaption>
-    </ImageFrame>
+      <Caption>En fransk twitch-streamer löser Bönmannens funktionalanalysuppgifter (inskickade i chatten på knagglig franska) innan en filmkväll.</Caption>
+    </Frame>
   </div>
 </Gallery>
 
@@ -176,10 +177,10 @@ Vi tittar på cortégen tillsammans och grillar efteråt i sektionens kundvagnsb
 själva grillen, och vi släcker den senare med vattenflaskor. Efteråt spelas brädspel i Signes.
 
 <div class="flex justify-center">
-  <ImageFrame>
+  <Frame>
     <Image src={grilla} class="w-128" sizes="min(100vw, 32rem)" />
-    <ImageCaption>Eken tar meta-grillningen med ro.</ImageCaption>
-  </ImageFrame>
+    <Caption>Eken tar meta-grillningen med ro.</Caption>
+  </Frame>
 </div>
 
 Till 25/5 skrivs ett [text-baserat äventyrsspel](https://github.com/OssianEriksson/text-based) och sittningsdeltagarna
@@ -193,10 +194,10 @@ skickas in i Discord och en lång omröstning hålls med hjälp av
 efter applicering av viss heuristik kommer vi fram till loggan som visas nedan.
 
 <div class="flex justify-center">
-  <ImageFrame>
+  <Frame>
     <Image src={logo2022} class="w-56" />
-    <ImageCaption>En faktorisering av 255 i Gaussiska primtal angiven i det komplexa talplanet (enhetscirkeln anger skalan).</ImageCaption>
-  </ImageFrame>
+    <Caption>En faktorisering av 255 i Gaussiska primtal angiven i det komplexa talplanet (enhetscirkeln anger skalan).</Caption>
+  </Frame>
 </div>
 
 Källa: Dancis, Metrecon
@@ -216,14 +217,14 @@ modpacks-erfarenheter. Nollan håller en mycket ambitiös tacksittning på samma
 
 <Gallery noGrid>
   <div class="flex flex-wrap items-start justify-center gap-x-20 gap-y-4">
-    <ImageFrame>
+    <Frame>
       <Image src={holt1} class="h-64" sizes="min(100vw,32rem)" />
-      <ImageCaption>Foto av Metrecons (som var nollan detta år) vy av Holt, återskapad i Minecraft till tacksittningen.</ImageCaption>
-    </ImageFrame>
-    <ImageFrame>
+      <Caption>Foto av Metrecons (som var nollan detta år) vy av Holt, återskapad i Minecraft till tacksittningen.</Caption>
+    </Frame>
+    <Frame>
       <Image src={holt2} class="h-64" sizes="min(100vw,32rem)" />
-      <ImageCaption>Holt från en annan vinkel.</ImageCaption>
-    </ImageFrame>
+      <Caption>Holt från en annan vinkel.</Caption>
+    </Frame>
   </div>
 </Gallery>
 
@@ -243,10 +244,10 @@ distanstentor. 25:e i 5:e sittningen hålls på [kårens Minecraft-server](https
 inspelning av detta evenemang som bl.a. innehåller ett efter omständigheterna bra försök att sjunga livet över Discord.
 
 <div class="flex justify-center">
-  <ImageFrame>
+  <Frame>
     <Image src={minecraft} class="w-128" sizes="min(100vw, 32rem)" />
-    <ImageCaption>"Jag har inte permissions att äta tårtan" - Eddan under 25/5.</ImageCaption>
-  </ImageFrame>
+    <Caption>"Jag har inte permissions att äta tårtan" - Eddan under 25/5.</Caption>
+  </Frame>
 </div>
 
 Discord-guilden blir för övrigt mycket mer aktiv under detta år, möjligen som en konsekvens av corona, och fortsätter
