@@ -3,7 +3,7 @@ title: Recensioner
 keywords: kritik film
 ---
 
-<!-- cSpell:words Chitti Carlstens Schulze Bogovote motorsågsarm Baahubali Enthiran Kombat -->
+<!-- cSpell:words Chitti Carlstens Schulze Bogovote motorsågsarm Baahubali Enthiran Kombat Shrekfilm -->
 <!-- cSpell:ignore skådespelarnes vattufall växelverkanden -->
 
 <script lang="ts">
@@ -20,13 +20,18 @@ Filmrecensioner samt lite information om hur och när respektive film konsumerad
 - [Animal Protector (1988)](#animal-protector-1988)
 - [Army of Darkness (1992)](#army-of-darkness-1992)
 - [Baahubali: The Beginning (2015)](#baahubali-the-beginning-2015)
+- [Det sjunde inseglet (1957)](#det-sjunde-inseglet-1957)
 - [Enthiran (2010)](#enthiran-2010)
 - [Falling Down (1993)](#falling-down-1993)
 - [Gods of Egypt (2016)](#gods-of-egypt-2016)
 - [Good Will Hunting (1997)](#good-will-hunting-1997)
+- [Hannibal (2001)](#hannibal-2001)
+- [Midsommar (2019)](#midsommar-2019)
 - [Mortal Kombat (1995)](#mortal-kombat-1995)
 - [När lammen tystnar (1991)](#när-lammen-tystnar-1991)
 - [RRR (2022)](#rrr-2022)
+- [Shrek 2 (2004)](#shrek-2-2004)
+- [Sky Sharks (2020)](#sky-sharks-2020)
 - [Tenet (2020)](#tenet-2020)
 - [The Land That Time Forgot (2009)](#the-land-that-time-forgot-2009)
 - [The Ninja Mission (1984)](#the-ninja-mission-1984)
@@ -51,9 +56,9 @@ samtidigt utan skådespelarnes vetskap. På amerikansk militärbas (Carlstens f�
 CIA och djurrättsaktivister. Misstänkt homosexuell kärlekskoppling som ej blommar ut. Hårda strider och görmånga
 explosioner, sällan med anledning. ($Ve^{b^2}$ ger filmen 12 av 10 i betyg.)
 
-Sedd: 21:e juli 2023  
+Sedd: 21 juli 2023  
 Röstsystem: [Schulze-metoden](/röstsystem#schulze-metoden)  
-Recensent: Bönmannen
+Recensent: Bönmannen och $Ve^{b^2}$
 
 ## Army of Darkness (1992)
 
@@ -76,6 +81,16 @@ Sedd: Våren 2022, också tidigare och senare
 Röstsystem: [Tarot](/röstsystem#tarot)  
 Recensent: Bönmannen
 
+## Det sjunde inseglet (1957)
+
+Svensk svartvit film. Döden kommer för att ta en riddare, men riddaren har existentiella frågor som han vill få svar på
+och får till ett uppskov genom att först spela ett parti schack med döden. Partiet fortgår medan riddaren färdas genom
+det pestdrabbade Sverige. Bra film.
+
+Sedd: 7 juni 2025  
+Röstsystem: [Hungerspelen](/röstsystem#viktad-slump) med uniform viktning  
+Recensent: Bönmannen
+
 ## Enthiran (2010)
 
 Indiens motsvarighet till Terminator. En uppfinnare har på tio år skapat en robot som ska arbeta åt armén. Men roboten
@@ -91,7 +106,7 @@ Recensent: Bönmannen
 En lång promenad hem av en ingenjör som inser att man borde ha blivit plastkirurg istället. Samhället gör honom sur och
 när han försvarar sin rätt som kund blir människor rädda, senare döda. Inte så upplyftande, men ändå bra.
 
-Sedd: 8:e mars 2024  
+Sedd: 8 mars 2024  
 Röstsystem: [FFT](/röstsystem#fft)  
 Recensent: Bönmannen
 
@@ -100,9 +115,9 @@ Recensent: Bönmannen
 Gamla Egypten. Mäktig gubbe som slåss mot en mask på en båt. Kille är för kär för att dö. Tveka inte när du har chansen
 att döda den fiende som har skonat ditt liv och som nu själv ber om nåd.
 
-Sedd: 15:e mars 2024  
+Sedd: 15 mars 2024  
 Röstsystem: Först $Ve^{b^2}$ får inte rösta, sedan [hungerspelen](/röstsystem#viktad-slump)  
-Recensent: Bönmannen
+Recensenter: $Ve^{b^2}$ och Bönmannen
 
 ## Good Will Hunting (1997)
 
@@ -111,15 +126,38 @@ Det var oklart vilket öde som var värst. 7,5/10.
 
 Recensenter: $Ve^{b^2}$ och May
 
+## Hannibal (2001)
+
+Uppföljare till [När lammen tystnar](#när-lammen-tystnar-1991). Nu ska FBI-agenten skydda kannibalen från förra gången
+och det är romantiskt, annorlunda och man får en känsla av att om det fortsätter såhär kommer huvudkaraktärerna i fjärde
+filmen alla vara del av en stor familj där kannibalen bara är en snäll farbror, om än med ovanliga matvanor. Bra men
+inte lika mycket som förra.
+
+Sedd: 24 maj 2024  
+Röstsystem: Trailerturnering  
+Recensent: Bönmannen
+
+## Midsommar (2019)
+
+Svenskt midsommarfirande i amerikanska ögon? Skräckfilm. Amerikaner sticker till Sverige för att studera
+midsommarfirande och kommer till en sekteristisk gård. Vissa detaljer stämmer ej med vad jag känner till om
+midsommarfirande, såsom maten, kläderna, alla runor som utan innebörd dyker upp målade på husväggar eller vävda bonader
+(finns också runstenar som är alldeles för släta för att vara verkliga), bärstolarna, sången och så ättestupan.
+Åtminstone syns en midsommarstång. Jag stack efter ungefär halva filmen när äckliga kroppsvätskor antyddes vara i maten.
+
+Sedd: 7 juni 2025  
+Röstsystem: [Hästkapplöpning](/röstsystem#hästkapplöpning) (fast badankor istället)  
+Recensent: Bönmannen
+
 ## Mortal Kombat (1995)
 
 Film som utmärks av hög hastighet och får en att vilja göra kullerbyttor till technomusik. Tre människor ska delta i
 kampsportsturnering som tydligen avgör världens öde. Ett skumt skepp för dem till en konstig magisk värld med utsökta
 special- effekter där turnering hålls.
 
-Sedd: 19:e april 2023  
+Sedd: 19 april 2023  
 Röstsystem: Inget  
-Recensent: Bönmannen
+Recensenter: VHS Bönmannen
 
 ## När lammen tystnar (1991)
 
@@ -127,7 +165,7 @@ FBI-agent vill hitta mördare och tar därför samtal med psykopatisk mördarkan
 eftersökte mördaren och gamla barndomsminnen. Bra men inte så värst tragisk. Om man äter medan man tittar på filmen gör
 man bäst i att tidigt avsluta sin måltid.
 
-Sedd: 17:e maj 2024  
+Sedd: 17 maj 2024  
 Röstsystem: [Davelni](/röstsystem#handuppräckning-à-la-davelni) till fem filmer, därefter
 [melodifest(AI)valen](/röstsystem#melodifestaivalen)  
 Recensent: Bönmannen
@@ -140,8 +178,30 @@ efter en man som tänker fritaga en indisk flicka från ett brittiskt palats. Gj
 [Baahubali](#baahubali-the-beginning-2015). Inte lika bra men inte långt därifrån. Många häftiga strider, på indiskt
 vis.
 
-Sedd: 8:e september 2023  
+Sedd: 8 september 2023  
 Röstsystem: Trailerturnering  
+Recensent: Bönmannen
+
+## Shrek 2 (2004)
+
+Shrek åker iväg för att träffa sina svärföräldrar som han har svårt att hålla sams med, i synnerhet svärfadern som
+sänder en lönnmördare efter honom. Det finns också en fé inblandad som hatar Shrek och som verkar ha lösningen till hans
+problem. Bra ös i handlingen och roliga scener. Uppskattar den kanske rentav mer när man ser den som vuxen. Troligtvis
+bättre än första filmen (ovanligt).
+
+Sedd: 31 maj 2024  
+Röstsystem: [Våldsmonopol](/röstsystem#våldsmonopol) (255 förlorade våldsmonopolet, ty ingen hjälpte mig när 3 man bar
+ut Bönmannen), därefter Tarot för att välja Shrekfilm  
+Recensent: Bönmannen
+
+## Sky Sharks (2020)
+
+Världen invaderas av zombienazister som rider på muterande flygande hajar som kan bli osynliga. Tyvärr stundom snuskig
+och ganska orealistiskt att nazisterna har kvinnliga soldater. Finns stora glapp i handlingen. Fantastisk, 3/10.
+
+Sedd: 11 oktober 2024  
+Röstsystem: Identitetsfunktorn tillämpades på modifikationerna Vebb får inte rösta, [FFT](/röstsystem#fft) och dåligt
+resultat. Med FFT röstades röstsystemet [Single Elimination](/röstsystem#single-elimination)  
 Recensent: Bönmannen
 
 ## Tenet (2020)
@@ -149,9 +209,9 @@ Recensent: Bönmannen
 Film som är bra på riktigt. Föremål som färdas bakåt i tiden upptäcks. Fysiken bakom detta förklaras med terminologi som
 ej är främmande för eho som läst kvantfysik. Sedan är det väldigt många saker som färdas baklänges i tiden och man blir
 förvirrad när det dyker upp ting som istället färdas framåt i tiden. För bättre förståelse för handling uppmanas
-åskådare se filmen åter (gärna baklänges)
+åskådare se filmen åter (gärna baklänges).
 
-Sedd: 7:e juli 2023  
+Sedd: 7 juli 2023  
 Röstsystem: [Bogovote](/röstsystem#bogovote)  
 Recensent: Bönmannen
 
@@ -171,6 +231,6 @@ bättre. Vissa underjordiska gångar igenkänns ifrån [Animal Protector](#anima
 bleknar i jämförelse med Animal Protector. Vetenskapsman i Sovjet tvingas arbeta fram formler för någonting med
 kärnenergi och det vore ödesdigert om dessa hamnade i fel händer. Svenska (?) ninjor räddar världen.
 
-Sedd: 11:e augusti 2023  
+Sedd: 11 augusti 2023  
 Röstsystem: [Schulze-metoden](/röstsystem#schulze-metoden)  
 Recensent: Bönmannen
