@@ -3,8 +3,8 @@ title: Ankeboter
 keywords: anekdoter historia
 ---
 
-<!-- cSpell:words Ertl Ertls Isemo Kallemedalj Kallemedaljen Maskinavnjutare Maskinofil Olgastr Olgastraße PRIBO Rippe Rydé Santén Suède -->
-<!-- cSpell:ignore nohup roooll tricontourf -->
+<!-- cSpell:words Ertl Ertls Isemo Kallemedalj Kallemedaljen Maskinavnjutare Maskinofil Olgastr Olgastraße PRIBO Rippe Rydé Santén Suède Chien Sputtridgeworth -->
+<!-- cSpell:ignore nohup roooll tricontourf contaviserings dulations fekansdiagram -->
 
 <script lang="ts">
   import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/anchor'
@@ -29,6 +29,7 @@ inleds med allmänna Chalmersankeboter för att sedan övergå till mer personli
 - [Ankeboter ur historien](#ankeboter-ur-historien)
   - [Dr. Mombasa](#dr-mombasa)
   - [Emil och Emilia](#emil-och-emilia)
+  - [Fatilarkalkyl](#fatilarkalkyl)
   - [Kallemedaljen](#kallemedaljen)
   - [Kopparbunken](#kopparbunken)
   - [Kårhuset](#kårhuset)
@@ -125,6 +126,31 @@ Emil och Emilia är namn för samtliga manliga respektive kvinnliga chalmerister
 >
 > --
 > [Tofsen](https://web.archive.org/web/20220625015421/https://tofsen.se/vilka-var-emil-och-olga-och-varfor-hade-hamnen-19-ton-ol-till-chalmers/)
+
+### Fatilarkalkyl
+
+> Anledningen till att fatilarkalkylen är så föga känd inom vårt land torde vara att den tillgängliga litteraturen är
+> knapp och dessutom att än ej ett enda verk översatts till svenska.
+
+Så inleds förtalet till [Rickard Wilsons](https://sv.wikipedia.org/wiki/Rickard_Wilson) doktorsavhandling från 1955 inom
+fatilarkalkyl. Med referenser till välkända namn såsom Émile Cortège, Chien Soo-Tung och Sir Thomas Sputtridgeworth samt
+välritade contaviserings-dulations- och contaviserings-fekansdiagram råder ingen tvekan om verkets betydelse. Då
+doktorsdisputationer under denna tid var ganska ovanliga förtäljdes även om dessa i pressen. Särskilt
+huvudstadstidningarna sägs ha tagit fatilarkalkylen på stort allvar medans man på västkusten till viss del redan var
+bekant med några av verkets referenser. En filminspelning från disputationsdagen finns
+[på YouTube](https://www.youtube.com/watch?v=8EZrqk-8TbU).
+
+> Rickard Wilson gick ur tiden år 2000, men fatilarkalkylen har levt vidare. 2003 tog chalmeristen Bengt Ahlqvist (E61),
+> som var tredje opponent vid disputationen, initiativ till att bilda
+> [Rickard Wilson-sällskapet](https://avancez.se/foreningar/rickard-wilson-sallskapet) med ändamålet att hedra och vårda
+> minnet av den sanne chalmeristen.
+>
+> --
+> [Chalmeristbloggen](https://chalmeristbloggen.wordpress.com/2013/05/10/sallskapet-som-hyllar-fatilarkalkylens-skapare-tioarsjubilerar/)
+
+I takt med utvecklingen inom fatilarkalkylen ges nya upplagor av avhandlingen med tillägg och förklaringar ut. Tredje
+upplagan finns [här](https://web.archive.org/web/20170329172058/http://user.it.uu.se/~zeitler/seminars/fatilar.pdf),
+även om minst en senare upplaga ska ha producerats.
 
 ### Kallemedaljen
 
