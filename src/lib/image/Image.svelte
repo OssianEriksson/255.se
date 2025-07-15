@@ -20,7 +20,9 @@
   let clazz = ''
   export { clazz as class }
 
-  let clientWidth: number
+  const hoverGrowthPx = 2
+
+  let clientHeight: number
   let isHovering: boolean = false
 
   let galleryIndex: number
@@ -93,11 +95,11 @@
 </script>
 
 <div
-  class={`${clazz}${galleryContext ? ' transition-transform rounded mb-4' : ''}`}
-  style={`position: relative${source.aspect ? `; aspect-ratio: ${source.aspect}` : ''}${
-    galleryContext && isHovering ? `; transform: scale(${(clientWidth + 4) / clientWidth})` : ''
+  class={`${clazz}${galleryContext ? ' transition-transform rounded' : ''}`}
+  style={`position: relative; margin-bottom: ${hoverGrowthPx}px${source.aspect ? `; aspect-ratio: ${source.aspect}` : ''}${
+    galleryContext && isHovering ? `; transform: scale(${(clientHeight + 2 * hoverGrowthPx) / clientHeight})` : ''
   }`}
-  bind:clientWidth
+  bind:clientHeight
   use:viewport={{ rootMargin: '512px' }}
   on:enterViewport|once={onEnterViewport}
   on:click={onClick}
