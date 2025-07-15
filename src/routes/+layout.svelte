@@ -107,7 +107,7 @@
   }
 
   #content {
-    :global(a) {
+    :global(a:not(.no-style)) {
       @apply underline;
       @apply text-red-900;
     }

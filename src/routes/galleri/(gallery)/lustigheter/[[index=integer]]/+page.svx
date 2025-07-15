@@ -9,7 +9,7 @@ title: Lustigheter
     query: { w: '400;full', format: 'webp', as: 'Image' },
   }))
 
-  import { Image, GalleryGrid } from '$lib/image';
+  import { Image, ImageGrid } from '$lib/image';
   import { ObfuscatedAnchor, MAILTO_SITE_ADMIN } from '$lib/anchor';
 </script>
 
@@ -20,8 +20,8 @@ Av Dancis, Twoots och Loke, 2020-2025. Har du egna bilder som du tycker passar h
 <ObfuscatedAnchor class="hover:underline" href={MAILTO_SITE_ADMIN}>Webbansvarig</ObfuscatedAnchor>.
 </p>
 
-<GalleryGrid>
+<ImageGrid>
 
 {#each sources as src} <Image {src} delayed /> {/each}
 
-</GalleryGrid>
+</ImageGrid>

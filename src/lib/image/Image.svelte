@@ -93,9 +93,9 @@
 </script>
 
 <div
-  class={`${clazz}${galleryContext ? ' transition-transform rounded mb-4' : ' cursor-default'}`}
+  class={`${clazz}${galleryContext ? ' transition-transform rounded mb-4' : ''}`}
   style={`position: relative${source.aspect ? `; aspect-ratio: ${source.aspect}` : ''}${
-    galleryContext && isHovering ? `; transform: scale(${(clientWidth + 10) / clientWidth})` : ''
+    galleryContext && isHovering ? `; transform: scale(${(clientWidth + 4) / clientWidth})` : ''
   }`}
   bind:clientWidth
   use:viewport={{ rootMargin: '512px' }}
@@ -106,7 +106,7 @@
   on:blur={() => (isHovering = false)}
   on:mouseover={() => (isHovering = true)}
   on:mouseout={() => (isHovering = false)}
-  role="button"
+  role={galleryContext ? 'button' : 'none'}
   tabindex="-1"
 >
   {#if startLoad}
@@ -115,7 +115,7 @@
         <source {...imgSrc} {sizes} />
       {/each}
       <img
-        class="w-full h-full object-cover"
+        class="w-full h-full object-cover {galleryContext ? 'rounded' : ''}"
         bind:this={img}
         srcset=""
         src={loaded ? source.placeholder : ''}
@@ -129,6 +129,10 @@
       ? 'duration-300 transition-opacity opacity-0'
       : 'opacity-100'}"
   >
-    <img class="w-full h-full object-cover blur-lg" src={source.placeholder} alt={alt || source.alt} />
+    <img
+      class="w-full h-full object-cover {galleryContext ? 'rounded' : ''} blur-lg"
+      src={source.placeholder}
+      alt={alt || source.alt}
+    />
   </div>
 </div>

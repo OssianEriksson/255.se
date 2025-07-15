@@ -122,7 +122,7 @@
             <div class="absolute invisible overflow-hidden">
               <div style="max-width: {navWidth}px" class="absolute w-max" bind:this={dropdowns[i]}>
                 <div
-                  class="lg:m-3 pl-2 bg-red-500 lg:p-4 lg:before:content-[''] lg:before:w-4 lg:before:h-4 lg:before:absolute lg:before:top-2 lg:before:left-1/2 lg:before:bg-red-500 lg:before:rotate-45 lg:before:-translate-x-1/2 lg:before:-z-10"
+                  class="lg:m-3 pl-2 bg-red-500 lg:rounded lg:p-4 lg:before:content-[''] lg:before:w-4 lg:before:h-4 lg:before:absolute lg:before:top-2 lg:before:left-1/2 lg:before:bg-red-500 lg:before:rotate-45 lg:before:-translate-x-1/2 lg:before:-z-10"
                 >
                   <slot name="dropdown" {...item} {setExpanded} />
                 </div>
@@ -135,7 +135,7 @@
                 transition:slide={{ duration: transDuration }}
               >
                 <div
-                  class="lg:m-3 pl-2 bg-red-500 lg:p-4 lg:before:content-[''] lg:before:w-4 lg:before:h-4 lg:before:absolute lg:before:top-2 lg:before:left-1/2 lg:before:bg-red-500 lg:before:rotate-45 lg:before:-translate-x-1/2 lg:before:-z-10"
+                  class="lg:m-3 pl-2 bg-red-500 lg:rounded lg:p-4 lg:before:content-[''] lg:before:w-4 lg:before:h-4 lg:before:absolute lg:before:top-2 lg:before:left-1/2 lg:before:bg-red-500 lg:before:rotate-45 lg:before:-translate-x-1/2 lg:before:-z-10"
                 >
                   <slot name="dropdown" {...item} {setExpanded} />
                 </div>

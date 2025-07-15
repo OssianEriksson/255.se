@@ -9,15 +9,15 @@ title: Konst eller Diverse anteckningar
     query: { w: '400;full', format: 'webp', as: 'Image' },
   }))
 
-  import { Image, GalleryGrid } from '$lib/image';
+  import { Image, ImageGrid } from '$lib/image';
 </script>
 
 # {title}
 
 Av Bönmannen, 2021-2023
 
-<GalleryGrid>
+<ImageGrid>
 
 {#each sources as src} <Image {src} delayed /> {/each}
 
-</GalleryGrid>
+</ImageGrid>

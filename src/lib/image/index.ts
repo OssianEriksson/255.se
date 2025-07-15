@@ -5,4 +5,4 @@ export type { GalleryContext } from './Gallery.svelte'
 
 export { default as Image } from './Image.svelte'
 export { default as Gallery } from './Gallery.svelte'
-export { default as GalleryGrid } from './GalleryGrid.svelte'
+export { default as ImageGrid } from './ImageGrid.svelte'
