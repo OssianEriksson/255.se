@@ -8,6 +8,7 @@ keywords: historia dagbok
 
 <script lang="ts">
   import logo2022 from '$lib/assets/logo-2022.svg';
+  import logo2025 from '$lib/assets/4255-logo-2025.png?format=webp&as=Image';
   import minecraft from '$lib/assets/chronicles/minecraft.webp?w=400;800;1200&format=webp&as=Image';
   import grilla from '$lib/assets/chronicles/grilla.jpg?w=400;800;1200&format=webp&as=Image';
   import holt1 from '$lib/assets/chronicles/holt-1.jpg?w=400;800;full&format=webp&as=Image';
@@ -51,15 +52,25 @@ Tack vare lite trolleri med terminalen avslutas LP1 med ett Minecraft-LAN i KINS
 
 På alla hjärtans dag tillkännagives ett kontroversiellt beslut om att genomföra stora förändringar i F-sektionens
 phaddringssystem. I efterdyningarna bestäms att 255 ska bilda gemensam faddergrupp med 42, 4255, inför
-mottagningen 2025.
+mottagningen 2025. Efter en avsevärt mindre invecklad omröstning än den som hölls [2021/2022](#20212022) beslutades om
+följande logga:
+
+<div class="flex justify-center">
+  <Frame>
+    <Image src={logo2025} class="w-56" />
+    <Caption>Den gemensamma phaddergruppens logga blev en blandning mellan 255:s och 42:ans individuella loggor.</Caption>
+  </Frame>
+</div>
 
 Under nollans tacksittning presenterar Metrecon resultatet av en enkät han tidigare skickat ut till gamla
 (utexaminerade) 255:or, med frågor om livserfarenheter och livsöden. Svaren på enkäten finns att läsa i Discord. Som
 vanligt blev det under valborgsmässoafton en grillkväll, men den här gången anordnad av F-spexet. Under 25/5 får vi
 följa med på några av 3s galna äventyr då vi under sittning traditionsenligt spelar det textbaserade äventyrsspel som
-han, tillsammans med Torsken och $Ve^{b^2}$, skrivit. För en gångs skull var det inget alls
-[fel på maten](/ankeboter#matlagning) som bjöds (i synnerhet den fantastiska ärtsoppan) som till allas lycka räcker
-veckan ut.
+han, tillsammans med Torsken och $Ve^{b^2}$, skrivit. Spelet skrevs i Haskell, källkod och kompilerade varianter för
+Ubuntu och Windows finns tillgängligt för nedladdning från
+[Google Drive](https://drive.google.com/drive/folders/1MgHw4K3mNoG9CWAE0kxSesrycW-_OjG9). För en gångs skull var det
+inget alls [fel på maten](/ankeboter#matlagning) som bjöds (i synnerhet den fantastiska ärtsoppan) som till allas lycka
+räcker veckan ut.
 
 Året avslutas med filmkväll där röstning sker under rimlig tid.
 
