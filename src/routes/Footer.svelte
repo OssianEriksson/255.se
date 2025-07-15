@@ -3,7 +3,7 @@
   import { page } from '$app/stores'
 </script>
 
-<div class="bg-gray-200 flex flex-col items-center">
+<div class="bg-black text-gray-200 flex flex-col items-center">
   <span class="m-4">
     <a
       class="hover:underline"

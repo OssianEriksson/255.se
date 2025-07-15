@@ -72,7 +72,7 @@
 </script>
 
 <svelte:window bind:innerWidth={windowWidth} />
-<nav class="bg-gray-300 relative" bind:clientWidth={navWidth}>
+<nav class="bg-black text-gray-200 relative" bind:clientWidth={navWidth}>
   <div class="lg:container lg:mx-auto lg:flex">
     <div class="flex items-center lg:flex-grow">
       <div class="flex-grow m-2 lg:ml-0 font-pixel font-bold">
@@ -87,6 +87,7 @@
         version="1.1"
         viewBox="0 0 5 5"
         xmlns="http://www.w3.org/2000/svg"
+        fill="white"
       >
         <rect width="5" height="1" />
         <rect y="2" width="5" height="1" />
@@ -95,7 +96,7 @@
     </div>
     {#if expanded || lgScreen}
       <ul
-        class="p-2 bg-gray-100 lg:bg-transparent flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4"
+        class="p-2 bg-red-500 lg:bg-transparent flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-4"
         transition:slide={{ duration: lgScreen ? 0 : transDuration }}
       >
         {#each items as item, i}
@@ -111,17 +112,17 @@
               <div class="w-fit" bind:this={titles[i]} bind:clientWidth={titlesWidth[i]}>
                 <slot name="title" {...item} {setExpanded} />
                 <div
-                  class="h-1 bg-gray-300 lg:bg-gray-400 {selected.includes(i)
+                  class="h-1 bg-gray-200 {selected.includes(i)
                     ? 'w-full'
                     : 'w-0'} lg:group-hover:w-full transition-[width] m-auto"
                 />
               </div>
             </div>
             <!-- This is a dummy element used to get the width of the dropdown content -->
-            <div class="absolute invisible">
+            <div class="absolute invisible overflow-hidden">
               <div style="max-width: {navWidth}px" class="absolute w-max" bind:this={dropdowns[i]}>
                 <div
-                  class="lg:m-3 pl-2 bg-gray-100 lg:p-4 shadow-none lg:shadow-lg lg:before:content-[''] lg:before:w-4 lg:before:h-4 lg:before:absolute lg:before:top-2 lg:before:left-1/2 lg:before:bg-gray-100 lg:before:rotate-45 lg:before:-translate-x-1/2 lg:before:-z-10"
+                  class="lg:m-3 pl-2 bg-red-500 lg:p-4 lg:before:content-[''] lg:before:w-4 lg:before:h-4 lg:before:absolute lg:before:top-2 lg:before:left-1/2 lg:before:bg-red-500 lg:before:rotate-45 lg:before:-translate-x-1/2 lg:before:-z-10"
                 >
                   <slot name="dropdown" {...item} {setExpanded} />
                 </div>
@@ -131,10 +132,10 @@
               <div
                 style="max-width: {navWidth}px; left: {lefts[i] || 0}px"
                 class="lg:absolute lg:z-10"
-                transition:slide
+                transition:slide={{ duration: transDuration }}
               >
                 <div
-                  class="lg:m-3 pl-2 bg-gray-100 lg:p-4 shadow-none lg:shadow-lg lg:before:content-[''] lg:before:w-4 lg:before:h-4 lg:before:absolute lg:before:top-2 lg:before:left-1/2 lg:before:bg-gray-100 lg:before:rotate-45 lg:before:-translate-x-1/2 lg:before:-z-10"
+                  class="lg:m-3 pl-2 bg-red-500 lg:p-4 lg:before:content-[''] lg:before:w-4 lg:before:h-4 lg:before:absolute lg:before:top-2 lg:before:left-1/2 lg:before:bg-red-500 lg:before:rotate-45 lg:before:-translate-x-1/2 lg:before:-z-10"
                 >
                   <slot name="dropdown" {...item} {setExpanded} />
                 </div>

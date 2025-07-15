@@ -72,7 +72,7 @@
   ]
 </script>
 
-<div class="min-h-screen flex flex-col">
+<div id="page" class="min-h-screen flex flex-col">
   <Navbar items={navbarItems}>
     <svelte:fragment slot="title" let:title let:setExpanded>
       {#if 'href' in title}
@@ -102,10 +102,14 @@
 </div>
 
 <style lang="postcss">
+  #page {
+    @apply bg-gray-200;
+  }
+
   #content {
     :global(a) {
       @apply underline;
-      @apply text-gray-800;
+      @apply text-red-900;
     }
 
     :global(h1) {
@@ -172,7 +176,7 @@
     }
 
     :global(table) :global(tbody) :global(tr:nth-of-type(2n - 1)) {
-      @apply bg-gray-100;
+      @apply bg-gray-300;
     }
 
     :global(td),
@@ -187,7 +191,7 @@
       @apply mb-4;
       @apply pl-4;
       @apply pr-4;
-      @apply bg-gray-100;
+      @apply bg-gray-300;
       @apply text-gray-800;
       @apply rounded;
     }
