@@ -493,12 +493,12 @@ inte så här nära!"
 
 <Gallery noGrid>
 
-Under mottagningen ett år lyckades en 42:a få syn på en QR-kod som ledde till en Discord-guild (Discord-grupper är inte
-servrar, utan kallas mer korrekt för _guilder_) avsedd för Maskinnollan. Denna person spred sedan inbjudningslänken
-vidare till andra 42:or och 255:or som också tog chansen att gå med i guilden. Man tog sig namn som "Maskinälskaren",
-"Maskin {'<'}3 {'<'}3 {'<'}3", "Maskinavnjutare", "Maskin är gott och nyttigt", "Maskinbeundrare", "Maskinofil" (allt
-som allt gick omkring 20 fysikare med) och tog tillfället i akt att rollspela som maskinnollan. Nedan följer några
-exempel på konversationer mellan infiltratörer och maskinnollan:
+Under mottagningen ett år lyckades 42:an Aurora få syn på en inbjudningslänk till en Discord-server avsedd för
+Maskinnollan. Aurora spred länken vidare till andra 42:or och 255:or, och uppger att 42:an Daniel var först att gå med,
+men han fick snart många efterföljare: Man tog sig namn som "Maskinälskaren", "Maskin {'<'}3 {'<'}3 {'<'}3",
+"Maskinavnjutare", "Maskin är gott och nyttigt", "Maskinbeundrare", "Maskinofil" (allt som allt gick omkring 20 fysikare
+med i första vågen) och tog tillfället i akt att rollspela som maskinnollan. Nedan följer några exempel på
+konversationer mellan infiltratörer och maskinnollan:
 
 <div class="flex flex-wrap items-center justify-center gap-x-20 gap-y-4">
   <Image src={programmering} class="w-128" sizes="min(100vw, 32rem)" />
@@ -517,7 +517,7 @@ Efter någon tid uppenbarade sig en otrolig möjlighet:
   <Image src={strike} class="w-128" sizes="min(100vw, 32rem)" />
 </div>
 
-Och till slut kunde den ultimata infiltrationen rapporteras tillbaks till 255 och 42:ans gemensamma Discord:
+Och till slut kunde Daniel rapportera den ultimata infiltrationen tillbaks till 255 och 42:ans gemensamma Discord:
 
 <div class="flex justify-center">
   <Image src={admin} class="w-128" sizes="min(100vw, 32rem)" />
