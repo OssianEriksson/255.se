@@ -3,8 +3,8 @@ title: Krönikor
 keywords: historia dagbok
 ---
 
-<!-- cSpell:words Strangelove Koyaanisqatsi Airbender enumerisk -->
-<!-- cSpell:ignore loek -->
+<!-- cSpell:words Strangelove Koyaanisqatsi Airbender enumerisk BonziBuddy -->
+<!-- cSpell:ignore loek tvedräktsgille -->
 
 <script lang="ts">
   import logo2022 from '$lib/assets/logo-2022.svg';
@@ -27,6 +27,7 @@ oavsett vilken tid du har att förtälja om.
 
 <TableOfContents>
 
+- [2025/2026](#20252026)
 - [2024/2025](#20242025)
 - [2023/2024](#20232024)
 - [2022/2023](#20222023)
@@ -40,6 +41,27 @@ oavsett vilken tid du har att förtälja om.
 
 </TableOfContents>
 
+## 2025/2026
+
+På grund av sammanslagningen med 42:an i slutet av förra läsåret är 255 inte en formell phaddergrupp. Men några
+intressanta händelser tilldrog sig ändå i 255-gemenskapen.
+
+I början av hösten inleddes ännu en invasion. Den här gången gällde det några lundastudenter som pluggade
+fysik/matematik. I och med att invasionen inleddes från Maskin var täckmanteln att vi alla var maskinister [i Lund] (förutom
+Dekka som erkände sig komma från Chalmers, Likhet som ytterst gärna ville identifiera sig som matematiker, et al.). Där var
+en skum, vild och galen stämning, på ett angenämt vis. Efter att ha hört att han var personifieringen av detta tvedräktsgille
+(eller hur man nu översätter Discord guild) anslöt sig 3. Han bannlystes inom en kvart. Efter en månad slängdes vi alla ut,
+men på ett vänskapligt och artigt vis.
+
+I början av våren lagade Shortskillen så att KINSLS-torget fick både läcker och lämplig skyltning.
+
+Den tjugoandre i femte kom Torsken att tänka på att det brukar hållas en 25/5-sittning den här tiden om året. Det var
+ett ljummet mottagande och få som kunde tänkas hålla i det, men Torsken var klok nog att inte bry sig. Sittningen
+började planeras ungefär när densamma drogs igång och blev, trots eller på grund av detta, mycket lyckad. Istället för
+att spela ett textbaserat äventyrsspel samtidigt som det programmerades så fixade Eken och 42:an Daniel ett rollspel,
+som utspelades i olika Windows-versioner. Slutet blev att världen räddades från den onde snubben, BonziBuddy tog över
+världen och att alla sittningsmedlemmar som ej drabbats av danskhet dog.
+
 ## 2024/2025
 
 Under hösten blev kategoriteori en betydande ingrediens under filmkvällarna som hade en stor roll under omröstningarna.
@@ -51,7 +73,7 @@ av förstaårsstudenter med egna spel-/filmkvällar kombinerade med ETP, då der
 Tack vare lite trolleri med terminalen avslutas LP1 med ett Minecraft-LAN i KINSLS.
 
 På alla hjärtans dag tillkännagives ett kontroversiellt beslut om att genomföra stora förändringar i F-sektionens
-phaddringssystem. I efterdyningarna bestäms att 255 ska bilda gemensam faddergrupp med 42, 4255, inför
+phaddringssystem. I efterdyningarna bestäms att 255 ska bilda gemensam phaddergrupp med 42, 4255, inför
 mottagningen 2025. Efter en avsevärt mindre invecklad omröstning än den som hölls [2021/2022](#20212022) beslutades om
 följande logga:
 
