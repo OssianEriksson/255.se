@@ -3,7 +3,7 @@ title: Ankeboter
 keywords: anekdoter historia
 ---
 
-<!-- cSpell:words Ertl Ertls Isemo Kallemedalj Kallemedaljen Maskinavnjutare Maskinofil Olgastr Olgastraße PRIBO Rippe Rydé Santén Suède Chien Sputtridgeworth -->
+<!-- cSpell:words Ertl Ertls Isemo Kallemedalj Kallemedaljen Maskinavnjutare Maskinofil Olgastr Olgastraße PRIBO Rippe Rydé Santén Suède Chien Sputtridgeworth Flumeride Kinntorph -->
 <!-- cSpell:ignore nohup roooll tricontourf contaviserings dulations fekansdiagram -->
 
 <script lang="ts">
@@ -30,6 +30,7 @@ inleds med allmänna Chalmersankeboter för att sedan övergå till mer personli
   - [Dr. Mombasa](#dr-mombasa)
   - [Emil och Emilia](#emil-och-emilia)
   - [Fatilarkalkyl](#fatilarkalkyl)
+  - [Flumeride](#flumeride)
   - [Kallemedaljen](#kallemedaljen)
   - [Kopparbunken](#kopparbunken)
   - [Kårhuset](#kårhuset)
@@ -151,6 +152,19 @@ bekant med några av verkets referenser. En filminspelning från disputationsdag
 I takt med utvecklingen inom fatilarkalkylen ges nya upplagor av avhandlingen med tillägg och förklaringar ut. Tredje
 upplagan finns [här](https://web.archive.org/web/20170329172058/http://user.it.uu.se/~zeitler/seminars/fatilar.pdf),
 även om minst en senare upplaga ska ha producerats.
+
+### Flumeride
+
+Ur Lisebergs årsberättelse 1977:
+
+> På Lisebergs avslutningsdag händer något oväntat: FlumeRide förvandlas till SkumRide. Det är nollning på Chalmers, och
+> några studenter får för sig att hälla schampo och tvättmedel i vattnet. Doseringen blir – medvetet eller inte –
+> alldeles för stor.
+>
+> Resultatet: hela banan skummar över. Fyra stockar tar in mängder med vatten, passagerarna översköljs av både skum och
+> vågor, båtar fastnar och säkerhetssystemet slås ut.
+>
+> -- [Liseberg](https://lisepedia.liseberg.se/1977)
 
 ### Kallemedaljen
 
@@ -374,8 +388,8 @@ Efter mottagningen ska nollan förhoppningsvis kunna hålla med om devisen
 
 > Det finns ingen hets på Chalmers
 
-Däremot skulle det kunna finnas en häst. Som vi erfar i denna [dokumentär](https://youtu.be/-b3WOqrANis) är dock frågan
-mycket känslig.
+Däremot skulle det kunna [finnas en häst](https://it-ord.computersweden.se/ord/hastar-finns-inte/). Som vi erfar i denna
+[dokumentär](https://youtu.be/-b3WOqrANis) är dock frågan mycket känslig.
 
 ### Dåligt sätt att kugga
 
