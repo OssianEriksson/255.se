@@ -15,6 +15,8 @@ keywords: historia dagbok
   import holt2 from '$lib/assets/chronicles/holt-2.jpg?w=400;800;full&format=webp&as=Image';
   import onion from '$lib/assets/chronicles/loek.jpg?w=400;800&format=webp&as=Image';
   import maths from '$lib/assets/chronicles/matte.jpg?w=400;800;1200&format=webp&as=Image';
+  import kinsls from '$lib/assets/chronicles/kinsls.jpg?w=400;800;1200&format=webp&as=Image';
+  import ivory from '$lib/assets/chronicles/ivory.png?w=400;800;1200&format=webp&as=Image';
   import { Image, Gallery } from '$lib/image';
   import { Frame, Caption } from '$lib/frame';
   import TableOfContents from '$lib/TableOfContents.svelte';
@@ -53,7 +55,18 @@ en skum, vild och galen stämning, på ett angenämt vis. Efter att ha hört att
 (eller hur man nu översätter Discord guild) anslöt sig 3. Han bannlystes inom en kvart. Efter en månad slängdes vi alla ut,
 men på ett vänskapligt och artigt vis.
 
-I början av våren lagade Shortskillen så att KINSLS-torget fick både läcker och lämplig skyltning.
+<Gallery noGrid>
+  <div class="flex flex-wrap items-start justify-center gap-x-20 gap-y-4">
+    <Frame>
+      <Image src={ivory} class="h-64" sizes="min(100vw, 16rem)" />
+      <Caption>Hälsning som en besökande lundare lämnade i KINSLS utan att bli upptäckt.</Caption>
+    </Frame>
+    <Frame>
+      <Image src={kinsls} class="h-64" sizes="min(100vw, 16rem)" />
+      <Caption>I början av våren lagade Shortskillen så att KINSLS-torget fick både läcker och lämplig skyltning.</Caption>
+    </Frame>
+  </div>
+</Gallery>
 
 Den tjugoandre i femte kom Torsken att tänka på att det brukar hållas en 25/5-sittning den här tiden om året. Det var
 ett ljummet mottagande och få som kunde tänkas hålla i det, men Torsken var klok nog att inte bry sig. Sittningen
